@@ -4,7 +4,7 @@ Fully automated, $0 publishing pipeline for the **History Unsealed** Facebook Pa
 (historical mysteries & untold stories, global English audience).
 
 ```
-Claude scheduled task (Mon & Thu)          GitHub Actions (3× daily)
+Claude scheduled task (Mon & Thu)          GitHub Actions (4× daily)
   research + fact-check  ──►  content/queue/YYYY-MM-DD.json  ──►  generate image(s)
   write captions/scripts           (validated on push)              brand + AI label
                                                                     voiceover + captions (reels)
@@ -15,9 +15,10 @@ Claude scheduled task (Mon & Thu)          GitHub Actions (3× daily)
 
 | Slot | UTC | Dubai | Type |
 |---|---|---|---|
-| a | 12:47 | 16:47 | Photo story |
-| b | 17:52 | 21:52 | Reel (45–75 s, AI voiceover, burned-in captions) |
-| c | 00:13 | 04:13 | Photo debate / did-you-know |
+| b | 12:47 | 16:47 | Reel — myth-buster / did-you-know (35–55 s) |
+| a | 16:52 | 20:52 | Photo story |
+| d | 23:13 | 03:13 | Reel — strongest story of the day (US prime time) |
+| c | 02:07 | 06:07 | Photo — debate / On This Day |
 
 ## Layout
 

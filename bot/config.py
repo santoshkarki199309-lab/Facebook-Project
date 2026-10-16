@@ -14,9 +14,10 @@ BRAND_TAGLINE = "AI illustration"
 
 # Slots: the publish workflow maps each cron to one of these.
 SLOTS = {
-    "a": "photo",  # ~12:47 UTC — Europe lunch / US morning
-    "b": "reel",   # ~17:52 UTC — Europe evening / US midday
-    "c": "photo",  # ~00:13 UTC — US evening
+    "b": "reel",   # 12:47 UTC — US morning commute / UK afternoon
+    "a": "photo",  # 16:52 UTC — US lunch / UK evening
+    "d": "reel",   # 23:13 UTC — US prime time (East coast 7pm, West 4pm)
+    "c": "photo",  # 02:07 UTC — US late evening / West coast prime time
 }
 
 # Facebook Graph API

@@ -7,7 +7,9 @@ from pathlib import Path
 from . import config
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-BANNED = ["corporate sponsor", "they don't want you to know", "100% proven", "scientists are baffled"]
+BANNED = ["corporate sponsor", "they don't want you to know", "100% proven", "scientists are baffled",
+          "like if", "share if", "tag a friend", "tag someone", "comment yes", "type 1", "type yes",
+          "in this video"]
 
 
 def validate_post(post: dict, slot: str | None = None) -> list[str]:
@@ -43,8 +45,11 @@ def validate_post(post: dict, slot: str | None = None) -> list[str]:
         if not 4 <= len(scenes) <= 9:
             p.append("reel needs 4–9 scenes")
         words = sum(len(sc.get("narration", "").split()) for sc in scenes)
-        if not 90 <= words <= 190:
-            p.append(f"reel narration {words} words; aim 110–170 (≈45–75s)")
+        if not 80 <= words <= 190:
+            p.append(f"reel narration {words} words; aim 90–140 (≈35–55s)")
+        hook = post.get("hook_text", "")
+        if hook and len(hook.split()) > 8:
+            p.append("hook_text must be 8 words or fewer")
         for i, sc in enumerate(scenes):
             if len(sc.get("image_prompt", "")) < 30 or not sc.get("narration"):
                 p.append(f"scene {i + 1} incomplete")

@@ -19,10 +19,13 @@ def _run(cmd: list[str]) -> None:
         raise RuntimeError(f"ffmpeg failed: {' '.join(cmd[:6])}...\n{res.stderr[-1500:]}")
 
 
-def _scene_clip(frame: Path, mp3: Path, srt: Path, dur: float, out: Path) -> None:
+def _scene_clip(frame: Path, mp3: Path, srt: Path, dur: float, out: Path,
+                still: bool = False) -> None:
     frames = int(dur * FPS) + FPS // 2
     zoom_in = random.choice([True, False])
     z = "min(zoom+0.0005,1.10)" if zoom_in else "if(eq(on,0),1.10,max(zoom-0.0005,1.0))"
+    if still:  # hook scene: keep the headline fully on screen
+        z = "1.0"
     srt_arg = str(srt).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
     vf = (
         f"scale=2160:3840,zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
@@ -55,11 +58,12 @@ def render(post: dict, workdir: Path, offline: bool = False) -> Path:
     for i, scene in enumerate(post["scenes"]):
         raw = images.generate(scene["image_prompt"], workdir / f"s{i}_raw.jpg", 1024, 1024,
                               offline=offline)
-        frame = brand.reel_frame(raw, workdir / f"s{i}_frame.jpg")
+        hook = (post.get("hook_text") or post.get("title")) if i == 0 else None
+        frame = brand.reel_frame(raw, workdir / f"s{i}_frame.jpg", hook=hook)
         mp3, srt = workdir / f"s{i}.mp3", workdir / f"s{i}.srt"
         dur = tts.synth(scene["narration"], mp3, srt, offline=offline)
         clip = workdir / f"s{i}.mp4"
-        _scene_clip(frame, mp3, srt, dur, clip)
+        _scene_clip(frame, mp3, srt, dur, clip, still=bool(hook))
         clips.append(clip)
         print(f"[reel] scene {i + 1}/{len(post['scenes'])} {dur:.1f}s")
 

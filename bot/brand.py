@@ -43,8 +43,25 @@ def photo_post(src: Path, out: Path, size: int = 1080) -> Path:
     return out
 
 
-def reel_frame(src: Path, out: Path, w: int = 1080, h: int = 1920) -> Path:
-    """9:16 frame: blurred, darkened fill + full image centred, brand mark at bottom."""
+def _wrap(d: ImageDraw.ImageDraw, text: str, font, max_w: int, max_lines: int) -> list[str]:
+    words, lines, cur = text.split(), [], ""
+    for wd in words:
+        trial = (cur + " " + wd).strip()
+        if d.textbbox((0, 0), trial, font=font)[2] <= max_w:
+            cur = trial
+        else:
+            lines.append(cur)
+            cur = wd
+    if cur:
+        lines.append(cur)
+    return lines[:max_lines]
+
+
+def reel_frame(src: Path, out: Path, w: int = 1080, h: int = 1920, hook: str | None = None) -> Path:
+    """9:16 frame: blurred, darkened fill + full image centred, brand at top.
+
+    With `hook`, the top band shows a large hook headline instead (first scene),
+    because the first 3 seconds decide whether viewers keep watching."""
     im = Image.open(src).convert("RGB")
     bg = ImageOps.fit(im, (w, h), Image.LANCZOS).filter(ImageFilter.GaussianBlur(40))
     bg = Image.blend(bg, Image.new("RGB", (w, h), (10, 9, 8)), 0.55)
@@ -54,11 +71,28 @@ def reel_frame(src: Path, out: Path, w: int = 1080, h: int = 1920) -> Path:
     bg.paste(fg, ((w - fg.width) // 2, int(h * 0.16)))
     d = ImageDraw.Draw(bg)
     # Kept away from the edges: the slow zoom in the reel crops up to ~5% per side.
-    ft, fs = _font(config.FONT_SERIF_BOLD, 46), _font(config.FONT_SANS, 24)
-    title, sub = config.BRAND_NAME.upper(), config.BRAND_TAGLINE
-    tb, sb = d.textbbox((0, 0), title, font=ft), d.textbbox((0, 0), sub, font=fs)
-    d.text(((w - tb[2]) // 2, int(h * 0.085)), title, font=ft, fill=GOLD)
-    d.text(((w - sb[2]) // 2, int(h * 0.085) + tb[3] + 10), sub, font=fs, fill=PARCHMENT)
+    fs = _font(config.FONT_SANS, 24)
+    sub = config.BRAND_TAGLINE
+    sb = d.textbbox((0, 0), sub, font=fs)
+    if hook:
+        fh = _font(config.FONT_SERIF_BOLD, 60)
+        lines = _wrap(d, hook.upper(), fh, int(w * 0.84), 2)
+        y = int(h * 0.045)
+        for line in lines:
+            lb = d.textbbox((0, 0), line, font=fh)
+            x = (w - lb[2]) // 2
+            d.text((x + 3, y + 3), line, font=fh, fill=(0, 0, 0))
+            d.text((x, y), line, font=fh, fill=PARCHMENT)
+            y += lb[3] + 12
+        brand = f"{config.BRAND_NAME.upper()} · {sub}"
+        bb = d.textbbox((0, 0), brand, font=fs)
+        d.text(((w - bb[2]) // 2, min(y + 8, int(h * 0.155) - bb[3])), brand, font=fs, fill=GOLD)
+    else:
+        ft = _font(config.FONT_SERIF_BOLD, 46)
+        title = config.BRAND_NAME.upper()
+        tb = d.textbbox((0, 0), title, font=ft)
+        d.text(((w - tb[2]) // 2, int(h * 0.085)), title, font=ft, fill=GOLD)
+        d.text(((w - sb[2]) // 2, int(h * 0.085) + tb[3] + 10), sub, font=fs, fill=PARCHMENT)
     out.parent.mkdir(parents=True, exist_ok=True)
     bg.save(out, quality=93)
     return out

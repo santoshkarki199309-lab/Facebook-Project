@@ -2,15 +2,16 @@ name: Publish
 
 on:
   schedule:
-    - cron: "47 12 * * *"   # slot a — photo  (Europe lunch / US morning)
-    - cron: "52 17 * * *"   # slot b — reel   (Europe evening / US midday)
-    - cron: "13 0 * * *"    # slot c — photo  (US evening)
+    - cron: "47 12 * * *"   # slot b — reel   (US morning / UK afternoon)
+    - cron: "52 16 * * *"   # slot a — photo  (US lunch / UK evening)
+    - cron: "13 23 * * *"   # slot d — reel   (US prime time)
+    - cron: "7 2 * * *"     # slot c — photo  (US late evening / West coast prime time)
   workflow_dispatch:
     inputs:
       slot:
         description: "Slot to publish (or 'comments' to only add missing sources comments)"
         type: choice
-        options: [a, b, c, comments]
+        options: [a, b, c, d, comments]
         required: true
       date:
         description: "UTC date YYYY-MM-DD (blank = today)"
@@ -45,9 +46,10 @@ jobs:
         id: slot
         run: |
           case "${{ github.event.schedule }}" in
-            "47 12 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
-            "52 17 * * *") echo "slot=b" >> "$GITHUB_OUTPUT" ;;
-            "13 0 * * *")  echo "slot=c" >> "$GITHUB_OUTPUT" ;;
+            "47 12 * * *") echo "slot=b" >> "$GITHUB_OUTPUT" ;;
+            "52 16 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
+            "13 23 * * *") echo "slot=d" >> "$GITHUB_OUTPUT" ;;
+            "7 2 * * *")   echo "slot=c" >> "$GITHUB_OUTPUT" ;;
             *)             echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT" ;;
           esac
 
