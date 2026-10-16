@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-19",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "The Terracotta Army",
+      "image_prompt": "Endless rows of life-size ancient Chinese clay soldier statues standing in a vast earthen excavation pit, each with a different face, faint traces of red and blue paint, soft overhead light and dust in the air, cinematic wide shot",
+      "caption": "🏺 FARMERS DIGGING A WELL FOUND AN ARMY\n\nIn March 1974, farmers digging for water near Xi'an, China, struck pieces of a clay figure.\n\nThey had found the edge of one of the greatest archaeological discoveries ever: the Terracotta Army, buried to guard the tomb of Qin Shi Huang, the first emperor of a unified China.\n\nEstimates suggest around 8,000 soldiers, along with horses and chariots. Their bodies came from moulds, but their faces vary — no two look quite alike.\n\nThey were once brightly painted. Archaeologists report the colours faded quickly once exposed to air.\n\nAnd the emperor's own burial mound? It has never been opened. The ancient historian Sima Qian wrote that it held rivers of mercury, and soil tests around it have found unusually high mercury levels.\n\nShould archaeologists open the emperor's tomb — or leave it sealed?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "TerracottaArmy",
+        "AncientChina",
+        "Archaeology"
+      ],
+      "sources": [
+        "https://thechinaproject.com/2022/03/30/terracotta-warriors-an-archaeological-find-for-the-ages/",
+        "https://worldatlas.com/articles/when-was-the-terracotta-army-discovered.html"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "The Dancing Plague of 1518",
+      "title": "The summer a city couldn't stop dancing",
+      "scenes": [
+        {
+          "image_prompt": "A lone woman in early sixteenth-century peasant clothing dancing alone on a cobbled medieval street, puzzled onlookers in doorways, summer afternoon light",
+          "narration": "In fifteen eighteen, a woman started dancing in the street. She couldn't stop."
+        },
+        {
+          "image_prompt": "A medieval European city with half-timbered houses and a cathedral spire, crowded street, summer haze, cinematic",
+          "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days."
+        },
+        {
+          "image_prompt": "A growing crowd of townspeople in Renaissance-era clothing dancing wildly in a market square, exhausted faces, dust rising",
+          "narration": "Within a week, more than thirty people had joined her. One chronicle claims that within a month, about four hundred were affected."
+        },
+        {
+          "image_prompt": "Musicians with drums, fifes and lutes playing on a wooden stage in a medieval guildhall while people dance, candlelight",
+          "narration": "Physicians blamed overheated blood. So the city council did something strange. It hired musicians and opened halls so people could dance it out."
+        },
+        {
+          "image_prompt": "A small stone mountain shrine at dawn with a procession of tired pilgrims in sixteenth-century clothing walking toward it",
+          "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded."
+        },
+        {
+          "image_prompt": "An empty cobbled square at night under moonlight, a single abandoned shoe on the stones, eerie calm",
+          "narration": "Historians still argue over the cause. Poisoned grain, or mass panic during hard times? Tell us in the comments, and follow for more."
+        }
+      ],
+      "caption": "🎻 In 1518, Strasbourg couldn't stop dancing.\n\nIt began with one woman in July. Within weeks, chronicles describe hundreds caught up in it. The city even hired musicians to help them 'dance it out'.\n\nToxic fungus or mass stress? What's your theory? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "DancingPlague",
+        "StrangeHistory",
+        "MedievalEurope"
+      ],
+      "sources": [
+        "https://www.nationalgeographic.com/history/article/dancing-plague-of-1518-strasbourg-choreomania",
+        "https://publicdomainreview.org/essay/the-dancing-plague-of-1518/"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Myth: Napoleon was short",
+      "image_prompt": "A French general of the early 1800s in a dark bicorne hat and military greatcoat standing among very tall grenadier guards in bearskin caps on a misty field, illustrating the height contrast, cinematic oil-painting style",
+      "caption": "📏 WAS NAPOLEON REALLY SHORT?\n\nProbably not — at least not for his time.\n\nHis height was recorded as 5 feet 2 inches. But those were French inches, which were longer than British ones: about 2.71 cm versus 2.54 cm.\n\nConverted, most estimates put him around 5'6\" to 5'7\" — roughly 1.68 to 1.70 metres. That was average or even a little above average for a Frenchman of his era.\n\nSo why the myth? British cartoonists, especially James Gillray, loved drawing him as a tiny, tantrum-throwing 'Little Boney'.\n\nIt didn't help that he was often surrounded by his Imperial Guard, who had to meet a height requirement. And his nickname, 'le petit caporal' — the little corporal — was a term of affection, not a measurement.\n\nWhich do you think shapes history more: what happened, or the cartoons about it?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Napoleon",
+        "HistoryMyths",
+        "FrenchHistory"
+      ],
+      "sources": [
+        "https://www.britannica.com/story/was-napoleon-short",
+        "https://www.scienceabc.com/eyeopeners/was-napoleon-really-short.html"
+      ]
+    }
+  ]
+}

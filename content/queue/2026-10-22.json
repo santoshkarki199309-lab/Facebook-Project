@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-22",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Derinkuyu underground city",
+      "image_prompt": "A narrow carved stone tunnel deep underground in soft volcanic rock, lit by flickering oil lamps, a huge round millstone-like stone door set into the wall, chambers branching off into darkness, cinematic",
+      "caption": "🕳️ A MAN KNOCKED DOWN A WALL AND FOUND A CITY\n\nIn 1963, a resident of Derinkuyu in Cappadocia, Turkey, was renovating his home. When he broke through a basement wall, he found a hidden passage.\n\nIt led to an entire underground city.\n\nDerinkuyu goes down roughly 280 feet and has at least 18 levels. Historians estimate it could shelter up to 20,000 people, along with stables, storage and even a church.\n\nHuge stone doors could seal it from the inside. Dozens of ventilation shafts carried fresh air deep underground.\n\nIts origins may reach back to around the 8th century BC, and it was expanded over the centuries, at least into the Byzantine era. People still used it as a refuge into the early 20th century.\n\nNobody knows exactly who dug the first tunnel.\n\nWould you have lived underground to stay safe?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Derinkuyu",
+        "Cappadocia",
+        "LostCities"
+      ],
+      "sources": [
+        "https://www.history.com/articles/derinkuyu-turkey-underground-city",
+        "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "Mansa Musa's pilgrimage through Cairo",
+      "title": "The king who crashed the price of gold",
+      "scenes": [
+        {
+          "image_prompt": "A long royal caravan of camels and richly dressed travelers crossing golden Sahara dunes at sunrise, banners fluttering, cinematic wide shot",
+          "narration": "In thirteen twenty-four, one king spent so much gold its value crashed."
+        },
+        {
+          "image_prompt": "A West African king of the fourteenth century in flowing robes and a gold crown seated on a throne in an earthen palace, attendants around him, warm light",
+          "narration": "He was Mansa Musa, ruler of the Mali Empire in West Africa, a land famous for its gold."
+        },
+        {
+          "image_prompt": "A medieval Cairo street with minarets and crowded markets, a grand procession arriving, merchants watching in awe, dusty golden light",
+          "narration": "On his pilgrimage to Mecca, he stopped in Cairo. The scholar al-Umari wrote that he gave loads of gold to the treasury and to court officials."
+        },
+        {
+          "image_prompt": "Close-up of a merchant's wooden table in a medieval market covered in gold nuggets and silver coins, a balance scale, candlelight",
+          "narration": "Cairo's merchants profited so much that gold became cheap. Al-Umari said its value had still not recovered about twelve years later."
+        },
+        {
+          "image_prompt": "An illuminated medieval map-maker's workshop with a large painted parchment map showing a crowned king on a throne holding a golden object, no lettering",
+          "narration": "His fame spread to Europe. A famous European map made in thirteen seventy-five shows him on a throne, holding a piece of gold."
+        },
+        {
+          "image_prompt": "A lone camel silhouetted on a desert ridge at sunset, warm orange sky",
+          "narration": "Was he the richest person who ever lived? Tell us what you think, and follow for more."
+        }
+      ],
+      "caption": "👑 One pilgrimage. So much gold that its price fell.\n\nIn 1324, Mansa Musa of Mali passed through Cairo on his way to Mecca. The scholar al-Umari recorded that gold lost value there for years afterwards.\n\nWas he history's richest person? Weigh in 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "MansaMusa",
+        "AfricanHistory",
+        "MaliEmpire"
+      ],
+      "sources": [
+        "https://worldhistorycommons.org/al-umaris-account-mansa-musas-visit-cairo",
+        "https://www.bl.uk/stories/blogs/posts/african-kings-on-medieval-and-renaissance-maps"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "The Indus script",
+      "image_prompt": "A small square ancient steatite stamp seal carved with a bull-like animal and a few small abstract symbols above it, resting on sand at a mud-brick excavation site, warm afternoon light, macro photography",
+      "caption": "🔍 A GREAT CIVILIZATION WHOSE WRITING NO ONE CAN READ\n\nThe Indus Valley Civilization built planned cities in what is now Pakistan and northwest India. Its writing flourished around 2600–1900 BC.\n\nArchaeologists have found thousands of short inscriptions, mostly on small stone stamp seals, from dozens of sites.\n\nThe problem? They are tiny. The average inscription is only about five signs long, and none found so far is longer than about 26.\n\nThere are roughly 400 different signs, and there's no agreement on what language they record. No bilingual inscription — like Egypt's Rosetta Stone — has ever been found to help.\n\nDo you think the Indus script will ever be deciphered?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "IndusValley",
+        "IndusScript",
+        "AncientIndia",
+        "UndecipheredScripts"
+      ],
+      "sources": [
+        "https://www.worldhistory.org/Indus_Script/",
+        "https://www.britannica.com/topic/Harappan-script"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-16",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Sutton Hoo ship burial",
+      "image_prompt": "Archaeologists in 1930s clothing kneeling in a vast sandy trench on an English heath, the ghostly outline of a long wooden ship preserved only as neat rows of rusted iron nails in the sand, a woman in a long coat and hat watching from the edge, soft golden late-summer light, cinematic",
+      "caption": "⚓ A SHIP BURIED UNDER AN ENGLISH FIELD\n\nIn the late 1930s, landowner Edith Pretty asked a self-taught local excavator named Basil Brown to dig into the mysterious mounds on her estate at Sutton Hoo, in Suffolk, England.\n\nIn 1939 he found something nobody expected: the outline of a ship more than 80 feet long. The wood had rotted away completely. Only its 'ghost' remained — rows of iron nails still sitting in the sand.\n\nIn the middle was a burial chamber full of treasure: a gold belt buckle, silver tableware from distant lands, and a full-face iron helmet unlike anything ever found in Britain.\n\nBut there was no body. Acidic soil may have dissolved it.\n\nMost historians think this was the grave of Rædwald, King of East Anglia, who died around 624 AD. Nobody can prove it.\n\nEdith Pretty donated the entire find to the British Museum.\n\nWould you have given away a king's treasure found in your own garden?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "SuttonHoo",
+        "AngloSaxon",
+        "Archaeology",
+        "BritishHistory"
+      ],
+      "sources": [
+        "https://www.nationalgeographic.com/history/history-magazine/article/sutton-hoo-england-anglo-saxon-treasure-ship",
+        "https://kids.britannica.com/students/article/Sutton-Hoo/606699"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "The Tunguska event of 1908",
+      "title": "The explosion that left no crater",
+      "scenes": [
+        {
+          "image_prompt": "A blinding bluish fireball streaking across a pale morning sky above an endless Siberian pine forest, early 1900s, dramatic cinematic light",
+          "narration": "In 1908, something exploded over Siberia and flattened a forest. It left no crater."
+        },
+        {
+          "image_prompt": "Aerial view of a remote Siberian taiga at dawn, rivers winding through dense dark green forest, mist, wide cinematic shot",
+          "narration": "It happened on the morning of June thirtieth, nineteen-oh-eight, over a remote stretch of forest in Siberia, in the Russian Empire."
+        },
+        {
+          "image_prompt": "Vast expanse of millions of fallen pine trees lying in the same direction across rolling hills, flattened forest, overcast sky, photorealistic",
+          "narration": "A blast in the sky knocked down an estimated eighty million trees across more than two thousand square kilometres. Windows broke hundreds of miles away."
+        },
+        {
+          "image_prompt": "A 1920s scientist in a heavy coat and boots standing among bare branchless trees still upright in a burned forest, grey sky",
+          "narration": "It took until nineteen twenty-seven for an expedition led by Leonid Kulik to reach the site. He found the devastation, but no crater and no meteorite."
+        },
+        {
+          "image_prompt": "A rocky asteroid glowing and breaking apart high in the atmosphere above a forest, shockwave rings spreading, cinematic space-to-earth view",
+          "narration": "Today most scientists think an asteroid or comet exploded around five to ten kilometres up. The energy may have been about four megatons, hundreds of times the Hiroshima bomb."
+        },
+        {
+          "image_prompt": "A quiet regrown Siberian forest at sunset with a few ancient fallen trunks covered in moss in the foreground",
+          "narration": "But exactly what it was is still debated. Asteroid or comet? Tell us in the comments, and follow for more."
+        }
+      ],
+      "caption": "☄️ 80 million trees flattened. No crater. No meteorite.\n\nOn June 30, 1908, a blast over remote Siberia levelled around 2,150 square kilometres of forest. Scientists believe an asteroid or comet exploded in mid-air.\n\nRock or ice — which do you think it was? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Tunguska",
+        "Siberia",
+        "StrangeHistory"
+      ],
+      "sources": [
+        "https://www.nasa.gov/johnson/115-years-ago-the-tunguska-asteroid-impact-event",
+        "https://earthsky.org/space/what-is-the-tunguska-explosion/"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Myth: Vikings wore horned helmets",
+      "image_prompt": "A Norse warrior standing on a rocky Scandinavian shore beside a longship, wearing a simple rounded iron helmet with an eye-and-nose guard and no horns, wool tunic and round wooden shield on his back, misty fjord, cinematic natural light",
+      "caption": "🪖 VIKINGS NEVER WORE HORNED HELMETS\n\nIt's one of history's most famous images — and it's wrong.\n\nThe most complete Viking helmet ever found was dug up at Gjermundbu, Norway, in 1943. It dates to the 10th century. It's a rounded iron cap with a guard for the eyes and nose. No horns.\n\nSo where did the horns come from? Largely from an opera.\n\nFor an 1876 production of Richard Wagner's 'Der Ring des Nibelungen', costume designer Carl Emil Doepler gave the Norse characters horned helmets. The look stuck — in paintings, cartoons and films.\n\nReal fighters had good reason to skip them: horns could snag on branches or catch an enemy's blow.\n\nWhat other 'fact' about the Vikings do you suspect is a myth?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Vikings",
+        "HistoryMyths",
+        "NorseHistory"
+      ],
+      "sources": [
+        "https://www.history.com/articles/did-vikings-really-wear-horned-helmets",
+        "https://www.historyhit.com/types-of-viking-helmets/"
+      ]
+    }
+  ]
+}

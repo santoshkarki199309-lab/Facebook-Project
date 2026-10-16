@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-23",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "The Kensington Runestone hoax",
+      "image_prompt": "A heavy weathered grey stone slab lying among the tangled roots of a freshly uprooted tree on a late-1890s Minnesota farm field, faint carved marks on its face, a farmer in overalls looking down at it, autumn light",
+      "caption": "🪨 DID VIKINGS REACH MINNESOTA IN 1362?\n\nIn 1898, Swedish immigrant farmer Olof Ohman was clearing trees on his land near Kensington, Minnesota. Tangled in the roots, he said, was a stone slab carved with runes.\n\nThe inscription claimed that a party of Swedes and Norwegians had travelled there in 1362 and suffered a tragedy.\n\nIf real, it would rewrite American history. It was even displayed at the Smithsonian in 1948–49.\n\nBut experts who studied the runes in 1899 found too many oddities in form and vocabulary for 14th-century Scandinavian. Most scholars since have agreed. In 1958, scholar Erik Wahlgren concluded it was a deliberate fraud, and in 1974 a confession by a local man, John Gran, to his children came to light, saying it was carved as a joke.\n\nToday it sits in a museum in Alexandria, Minnesota — and still has believers.\n\nWhy do you think hoaxes like this are so hard to kill?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "KensingtonRunestone",
+        "HistoryMyths",
+        "Hoax"
+      ],
+      "sources": [
+        "https://www.minnpost.com/mnopedia/2020/05/the-kensington-runestone-minnesotas-most-brilliant-and-durable-hoax/",
+        "https://www.penn.museum/sites/expedition/a-new-north-american-fantasy/"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "Hero of Alexandria's coin-operated holy water machine",
+      "title": "The vending machine that's 2,000 years old",
+      "scenes": [
+        {
+          "image_prompt": "An ornate bronze box with a small coin slot on top sitting at the entrance of an ancient Egyptian-Greek temple, columns and sunlight behind, cinematic",
+          "narration": "The first vending machine is about two thousand years old."
+        },
+        {
+          "image_prompt": "A Greek engineer in a simple tunic working at a wooden workbench with brass gears, pipes and scrolls of diagrams in ancient Alexandria, warm oil lamp light",
+          "narration": "It was described by Hero of Alexandria, a Greek engineer in Roman Egypt, who lived around the first century AD."
+        },
+        {
+          "image_prompt": "Cutaway illustration of a bronze box showing a coin falling onto a small lever, a beam connected to a plug inside a water container, clean technical style without text",
+          "narration": "Drop a coin into the slot. It lands on a lever, the lever lifts a plug, and holy water pours out. When the coin slides off, the flow stops."
+        },
+        {
+          "image_prompt": "Worshippers in ancient Egyptian and Greek clothing washing their hands at a temple basin, priests watching, soft morning light",
+          "narration": "Why build it? One explanation is that temple visitors in Roman Egypt were taking more holy water than they paid for."
+        },
+        {
+          "image_prompt": "A small spinning bronze sphere on a stand releasing jets of steam from two bent nozzles, ancient workshop, dramatic lighting",
+          "narration": "Hero is also credited with the aeolipile, an early steam-powered spinning device, and with theatre automatons."
+        },
+        {
+          "image_prompt": "A modern vending machine glowing in a dark corridor next to the ghostly image of an ancient bronze temple dispenser",
+          "narration": "So which ancient invention surprises you most? Tell us in the comments, and follow for more."
+        }
+      ],
+      "caption": "🪙 Insert coin. Receive holy water. Around 2,000 years ago.\n\nHero of Alexandria described a coin-operated dispenser for temples: the coin's weight tipped a lever that briefly opened the flow.\n\nWhat modern gadget do you think the ancients would have loved? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "HeroOfAlexandria",
+        "AncientInventions",
+        "AncientTechnology"
+      ],
+      "sources": [
+        "https://www.mentalfloss.com/history/worlds-first-vending-machine-dispensed-holy-water",
+        "https://www.history.co.uk/articles/ancient-rome-first-vending-machine"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Cahokia, the city of the mounds",
+      "image_prompt": "A vast ancient Native American city at sunrise with a huge terraced earthen mound topped by a large thatched wooden building, smaller mounds and thatched houses spreading across a river floodplain, smoke from cooking fires, cinematic wide aerial view",
+      "caption": "🏞️ NORTH AMERICA'S FORGOTTEN CITY\n\nNear modern St. Louis, Illinois, lie the remains of Cahokia — once the largest Native American city north of Mexico.\n\nPeople settled here around 600 AD. From the 9th century they began building huge earthen mounds. At least 120 once stood here, and about 80 survive today.\n\nThe largest, Monks Mound, rises in terraces and was the city's focal point.\n\nHow many people lived here at its height? Estimates vary widely — from around 15,000 in the central city to as many as 40,000 by some counts. By some estimates, that rivaled London at the time.\n\nThen, by around 1350, the city was abandoned. Researchers suggest drought or floods, political turmoil, or strain on food supplies. Nobody knows for sure.\n\nWhy do you think Cahokia isn't better known?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Cahokia",
+        "NativeAmericanHistory",
+        "LostCities"
+      ],
+      "sources": [
+        "https://worldhistorycommons.org/cahokia-mounds-state-historic-site",
+        "https://www.thecollector.com/cahokia-largest-native-american-city"
+      ]
+    }
+  ]
+}

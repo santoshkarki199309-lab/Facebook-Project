@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-18",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Great Zimbabwe",
+      "image_prompt": "Towering curved dry-stone granite walls of an ancient African enclosure, neatly stacked stones without mortar, a conical stone tower inside, savanna grass and msasa trees, golden hour light, wide cinematic shot",
+      "caption": "🏰 THE STONE CITY THEY SAID AFRICANS COULDN'T BUILD\n\nIn southern Africa stand the ruins of Great Zimbabwe — a city built and rebuilt between roughly the 11th and 15th centuries.\n\nIts Great Enclosure has walls about 11 metres high and around 250 metres long. Every stone was stacked by hand. No mortar holds them together.\n\nArchaeologists have found Chinese porcelain and Persian glass there, proof that this inland city was tied into Indian Ocean trade.\n\nYet when European explorer Karl Mauch saw the ruins in 1871, he refused to believe local people built them and linked them to King Solomon and the Queen of Sheba. Later colonial authorities pushed the same idea.\n\nThe evidence says otherwise. Archaeologists concluded the city was built by the ancestors of the Shona people. In 1980, the newly independent nation named itself after it: Zimbabwe.\n\nWhy do you think the truth was resisted for so long?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "GreatZimbabwe",
+        "AfricanHistory",
+        "AncientCities"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+        "https://www.metmuseum.org/perspectives/great-zimbabwe"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "Rongorongo, the script of Easter Island",
+      "title": "The island that invented writing — and lost it",
+      "scenes": [
+        {
+          "image_prompt": "A dark wooden tablet covered in rows of tiny carved bird and human-like symbols, lit by a single beam of light in a museum vault",
+          "narration": "On a remote Pacific island, people carved a script no one can read today."
+        },
+        {
+          "image_prompt": "Moai statues on a grassy Easter Island hillside under a dramatic Pacific sky, waves in the distance, cinematic",
+          "narration": "It's called rongorongo, from Rapa Nui, also known as Easter Island. The first outsider to report it was a missionary, in eighteen sixty-four."
+        },
+        {
+          "image_prompt": "Close-up of hands turning an ancient carved wooden tablet upside down, rows of small engraved symbols, warm candlelight",
+          "narration": "The signs run in alternating lines. After each line, the reader turns the tablet upside down to continue."
+        },
+        {
+          "image_prompt": "An empty Polynesian coastal village at dusk, abandoned canoes on the beach, somber mood, nineteenth century",
+          "narration": "But in the eighteen sixties, slave raids and epidemics devastated the island. The people who could read the tablets were lost."
+        },
+        {
+          "image_prompt": "A scientist in a modern laboratory examining a tiny wood sample beside an ancient carved tablet, soft blue light",
+          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived."
+        },
+        {
+          "image_prompt": "A carved wooden tablet resting on volcanic rock at sunset, the ocean glowing behind it",
+          "narration": "So did Rapa Nui invent writing on its own? Tell us what you think, and follow for more."
+        }
+      ],
+      "caption": "🗿 A script no one alive can read.\n\nRongorongo was carved on wooden tablets on Rapa Nui (Easter Island). Fewer than 30 objects survive, and the script remains undeciphered. A 2024 study dated the wood of one tablet to around 1493–1509 — centuries before European contact.\n\nIndependent invention of writing? Share your view 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Rongorongo",
+        "EasterIsland",
+        "UndecipheredScripts"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rongorongo",
+        "https://archaeologymag.com/2024/02/undeciphered-rongorongo-script-found-on-easter-island"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Hedy Lamarr and frequency hopping",
+      "image_prompt": "A glamorous 1940s Hollywood actress in an elegant dress sitting at a drafting table at night, sketching mechanical diagrams, warm lamp light, film-noir atmosphere, no text",
+      "caption": "🎬 THE MOVIE STAR WHO PATENTED A SECRET SIGNAL\n\nIn the 1940s, Hedy Lamarr was one of Hollywood's most famous faces. Few people knew she was also an inventor.\n\nDuring World War II she worked with composer George Antheil on a way to stop radio-controlled torpedoes from being jammed: make the signal hop between multiple frequencies, so an enemy couldn't lock onto it.\n\nOn August 11, 1942, they received U.S. Patent No. 2,292,387 for a 'Secret Communication System'. The National Inventors Council showed little interest at the time.\n\nYears later, the idea surfaced in military communications — including on U.S. ships during the 1962 blockade of Cuba. Frequency hopping is now seen as an important step in wireless communication.\n\nIn 1997 the Electronic Frontier Foundation honoured her work, and in 2014 she was inducted into the National Inventors Hall of Fame.\n\nWho's another inventor history forgot to credit?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "HedyLamarr",
+        "WomenInSTEM",
+        "Inventors"
+      ],
+      "sources": [
+        "https://invent.org/inductees/hedy-lamarr",
+        "https://ethw.org/Hedy_Lamarr"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-21",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Mary Anning, fossil hunter of Lyme Regis",
+      "image_prompt": "A young woman in an early nineteenth-century bonnet, plain dress and shawl kneeling on a rocky English beach below grey cliffs, carefully chipping a large fossil skeleton of a marine reptile from the rock with a small hammer, overcast seaside light, cinematic",
+      "caption": "🦴 THE WOMAN SCIENCE TRIED TO FORGET\n\nMary Anning was born in 1799 in Lyme Regis, on England's south coast. Her family was poor, and they sold fossils from the crumbling cliffs to get by.\n\nAround 1811, when Mary was about 12, her brother Joseph found a strange skull. Mary went on to uncover the rest of the skeleton — an ichthyosaur, a giant marine reptile.\n\nIn 1823 she found the first complete Plesiosaurus skeleton. Some experts at first suspected it was a fake. In 1828 she found the first pterosaur remains discovered outside Germany.\n\nMale scientists often bought her finds and published papers without crediting her. The Geological Society, which did not admit women, didn't invite her to the meeting about her own plesiosaur.\n\nShe died in 1847, aged 47. Today the Natural History Museum calls her an 'unsung hero'.\n\nWho else deserves credit that history gave to someone else?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "MaryAnning",
+        "WomenInScience",
+        "Fossils",
+        "Palaeontology"
+      ],
+      "sources": [
+        "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html",
+        "https://www.historyhit.com/facts-about-mary-anning/"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "The Mary Celeste",
+      "title": "The ghost ship with no one aboard",
+      "scenes": [
+        {
+          "image_prompt": "A nineteenth-century two-masted sailing ship drifting alone on a grey Atlantic ocean, sails partly torn, no people on deck, fog",
+          "narration": "In eighteen seventy-two, sailors found a drifting ship. Everyone aboard had vanished."
+        },
+        {
+          "image_prompt": "Sailors on the deck of a sailing ship in 1870s clothing peering through a telescope at a distant vessel, choppy grey sea",
+          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores."
+        },
+        {
+          "image_prompt": "Interior of an empty nineteenth-century ship cabin, wooden barrels in the hold, a captain's desk with a logbook and oil lamp, dim light",
+          "narration": "The ship was seaworthy. There was about six months of food and water aboard, and its cargo of seventeen hundred barrels of alcohol was largely intact."
+        },
+        {
+          "image_prompt": "Empty davits and ropes hanging over the side of an old wooden sailing ship where a lifeboat should be, ocean below",
+          "narration": "But its only lifeboat was gone. So were all ten people: Captain Benjamin Briggs, his wife, their two-year-old daughter, and seven crew."
+        },
+        {
+          "image_prompt": "A Victorian writer at a desk by gaslight writing with a quill pen, stacks of magazines nearby, cozy study",
+          "narration": "Theories piled up. Mutiny. Pirates. A young Arthur Conan Doyle even wrote a fictional tale about it. One modern idea: a faulty pump made the captain think the ship was sinking."
+        },
+        {
+          "image_prompt": "A tiny lifeboat on a vast dark ocean under a stormy sky, the distant silhouette of a sailing ship",
+          "narration": "No one was ever found. What do you think happened? Tell us in the comments, and follow for more."
+        }
+      ],
+      "caption": "⛵ Food, water, cargo — all still aboard. Ten people gone.\n\nIn December 1872, the Mary Celeste was found drifting east of the Azores with its only lifeboat missing. No one aboard was ever seen again.\n\nPanic, mutiny or something else? Make your case 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "MaryCeleste",
+        "GhostShip",
+        "UnsolvedMysteries"
+      ],
+      "sources": [
+        "https://www.smithsonianmag.com/history/abandoned-ship-mary-celeste-174488104/",
+        "https://www.smithsonianmag.com/smart-news/an-abandoned-merchant-ship-was-discovered-floating-in-the-atlantic-1872-the-mystery-its-missing-crew-never-solved-180985547/"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Myth: medieval people thought the Earth was flat",
+      "image_prompt": "A medieval monk scholar in a candlelit stone library holding a large wooden globe of the Earth, illuminated manuscripts open on the desk without readable writing, warm golden light, cinematic",
+      "caption": "🌍 DID MEDIEVAL PEOPLE THINK THE EARTH WAS FLAT?\n\nNo — and that's one of the most popular myths about the Middle Ages.\n\nEducated medieval Europeans generally knew the Earth was a sphere. Around 1,300 years ago, the English monk Bede described the Earth as an orb, and used its round shape to explain why daylight changes with the seasons.\n\nSo where did the myth come from? Historians point to the 1800s. Washington Irving's 1828 biography of Christopher Columbus mixed fact and fiction, picturing Columbus battling scholars who feared he'd sail off the edge.\n\nThe real objections to Columbus were about distance. Critics thought the ocean crossing to Asia was far too long — and they were right. Columbus had underestimated the size of the Earth.\n\nWhat 'fact' did you learn at school that turned out to be a myth?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "HistoryMyths",
+        "MiddleAges",
+        "MedievalHistory"
+      ],
+      "sources": [
+        "https://publicmedievalist.com/flat-earth/",
+        "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
+      ]
+    }
+  ]
+}

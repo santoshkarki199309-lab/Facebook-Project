@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-20",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Nan Madol",
+      "image_prompt": "Ancient ruins of massive walls built from stacked dark hexagonal basalt columns rising from shallow turquoise lagoon water, tropical jungle growing over them, Pacific island, misty morning light, cinematic wide shot",
+      "caption": "🌊 THE STONE CITY BUILT ON THE SEA\n\nOff the coast of Pohnpei, in the Federated States of Micronesia, lie the ruins of Nan Madol: nearly 100 artificial islets built on a coral reef.\n\nTheir walls are made from long columns of basalt, stacked crosswise like logs. Researchers estimate the structures weigh around 750,000 metric tons in total. The largest columns may weigh 80 tons or more.\n\nMegalithic building began around 1180–1200 AD. Nan Madol became the seat of the Saudeleur dynasty, which ruled Pohnpei until around 1628.\n\nStudies of the rock's chemistry suggest some columns came from the other side of the island. Exactly how they were moved is still unknown.\n\nLocal legend has its own answer: twin sorcerers named Olisihpa and Olosohpa used magic to lift the stones into place.\n\nHow would YOU move an 80-ton stone without machines?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "NanMadol",
+        "LostCities",
+        "PacificHistory"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nan_Madol",
+        "https://smarthistory.org/?p=31902"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "Linear A, the undeciphered Minoan script",
+      "title": "Europe's oldest unsolved code",
+      "scenes": [
+        {
+          "image_prompt": "A small cracked clay tablet covered in neat incised linear marks, lying in dust inside a ruined Bronze Age palace, shaft of sunlight",
+          "narration": "An ancient civilization on Crete left writing we still can't read."
+        },
+        {
+          "image_prompt": "Ruins of a Bronze Age palace on Crete with red columns and stone staircases, Mediterranean light, olive trees",
+          "narration": "Around nineteen hundred, archaeologist Arthur Evans dug at Knossos, on Crete, and found clay tablets in two related scripts. He called them Linear A and Linear B."
+        },
+        {
+          "image_prompt": "A 1950s architect in a cardigan at a desk covered in index cards and grids of symbols, late night lamp light, determined expression",
+          "narration": "Linear B was cracked in nineteen fifty-two by Michael Ventris, an architect and amateur linguist. It turned out to be an early form of Greek."
+        },
+        {
+          "image_prompt": "Minoan frescoes of dolphins and young people on palace walls, vivid blue and ochre, softly lit",
+          "narration": "But Linear A, the older script of the Minoans, refused to give way. Linear B was adapted from it, yet the language underneath Linear A is still unknown."
+        },
+        {
+          "image_prompt": "Scattered clay tablet fragments on a museum table under bright lights, a magnifying glass resting beside them",
+          "narration": "Tablets and inscriptions have turned up across Crete and on nearby islands like Santorini. It may not belong to any known language family."
+        },
+        {
+          "image_prompt": "A sunset over the Aegean Sea seen from the ruins of an ancient Cretan palace, golden light",
+          "narration": "Will anyone ever crack it? Tell us in the comments, and follow for more."
+        }
+      ],
+      "caption": "🏺 The Minoans wrote it. Nobody can read it.\n\nLinear A was used on Crete in the Bronze Age. Its younger cousin, Linear B, was deciphered as early Greek in 1952 — but Linear A's language is still unknown.\n\nWill it ever be cracked? Give us your prediction 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "LinearA",
+        "Minoans",
+        "UndecipheredScripts"
+      ],
+      "sources": [
+        "https://newworldencyclopedia.org/entry/Linear_A",
+        "https://www.britannica.com/topic/Linear-B"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "Self-healing Roman concrete",
+      "image_prompt": "Interior of a vast ancient Roman domed temple, sunlight streaming through a round opening at the top of the coffered concrete dome onto a marble floor, dust in the light beam, cinematic",
+      "caption": "🏛️ ROMAN CONCRETE CAN HEAL ITS OWN CRACKS\n\nThe Pantheon in Rome has stood for nearly 2,000 years. Its dome is still the world's largest unreinforced concrete dome.\n\nFor a long time, researchers puzzled over small white lumps of lime in Roman concrete. Many assumed they were signs of sloppy mixing.\n\nA 2023 study led by MIT professor Admir Masic, published in Science Advances, suggested the opposite. The Romans appear to have used quicklime in a process the team calls 'hot mixing'.\n\nThe result: when a crack forms and water seeps in, it reacts with those lime lumps and fills the crack with new mineral.\n\nIn lab tests, hot-mixed samples sealed their cracks within two weeks. Identical samples without quicklime did not.\n\nShould modern builders copy the Romans?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "AncientRome",
+        "RomanEngineering",
+        "AncientTechnology"
+      ],
+      "sources": [
+        "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
+        "https://www.dezeen.com/2023/01/17/self-healing-roman-concrete-mit-harvard/amp/"
+      ]
+    }
+  ]
+}
