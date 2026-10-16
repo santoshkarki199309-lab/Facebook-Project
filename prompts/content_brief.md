@@ -104,7 +104,9 @@ look editorial and curated — like a small history publication, not a content f
   `image_search`: a precise English search phrase for Wikimedia Commons (e.g. `"Diamond Sutra
   frontispiece Dunhuang"`, `"Moai Ahu Tongariki Easter Island"`, `"Battle of Trafalgar painting Turner"`).
   The publisher searches Commons at publish time and only uses openly licensed results.
-  Name the specific object, place, painting or person — never vague moods ("dark mysterious ruins").
+  Name the specific object, place, painting or person with at least two distinctive words that
+  would appear in the file title — never vague moods ("dark mysterious ruins"). The publisher
+  rejects results whose title does not mention the subject, then falls back to AI.
 - Always still write `image_prompt` — it is the AI fallback if no real image is found.
 - Use AI only for scenes no real image can show (reconstructions, moments never photographed).
 

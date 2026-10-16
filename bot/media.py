@@ -79,7 +79,28 @@ def _clean(html: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html or "")).strip()
 
 
-def commons_search(query: str, limit: int = 12) -> dict | None:
+GENERIC_WORDS = {
+    "the", "and", "of", "in", "on", "at", "for", "with", "from", "a", "an", "to", "by",
+    "painting", "engraving", "portrait", "illustration", "photo", "photograph", "image", "picture",
+    "interior", "exterior", "view", "ruins", "ruin", "ancient", "old", "medieval", "century",
+    "museum", "national", "archaeological", "fragment", "close", "detail", "page", "folio",
+    "watercolour", "watercolor", "woodcut", "drawing", "map", "historic", "historical",
+}
+
+
+def _keywords(text: str) -> set[str]:
+    words = re.findall(r"[a-z]+", text.lower())
+    return {w for w in words if len(w) > 2 and w not in GENERIC_WORDS}
+
+
+def _relevant(query: str, title: str) -> bool:
+    """The file title must mention the subject: ≥2 specific query words (or all, if fewer)."""
+    want = _keywords(query)
+    have = _keywords(title)
+    return len(want & have) >= min(2, len(want))
+
+
+def commons_search(query: str, limit: int = 20) -> dict | None:
     """Find the best openly licensed photo/painting on Wikimedia Commons for `query`."""
     params = {
         "action": "query", "format": "json", "generator": "search",
@@ -92,7 +113,7 @@ def commons_search(query: str, limit: int = 12) -> dict | None:
                    key=lambda pg: pg.get("index", 99))
     for pg in pages:
         title = pg.get("title", "")
-        if any(w in title.lower() for w in BAD_TITLE_WORDS):
+        if any(w in title.lower() for w in BAD_TITLE_WORDS) or not _relevant(query, title):
             continue
         info = (pg.get("imageinfo") or [{}])[0]
         meta = info.get("extmetadata", {})
