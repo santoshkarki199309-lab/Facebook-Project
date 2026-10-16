@@ -9,7 +9,7 @@ Until these steps are done, scheduled runs skip quietly — nothing breaks.
    - Name: `History Unsealed Publisher`
    - Use case: **Manage everything on your Page** (if not listed: **Other** → app type **Business**).
    - Connect it to the business portfolio that owns the Page (if asked).
-   - The app can stay in **Development** mode — you're only posting to your own Page, so no App Review is needed.
+   - Switch the app to **Live** mode (needs a Privacy Policy URL — use `docs/index.html` via GitHub Pages). In Development mode, posts made by the app are visible only to you.
 2. Open the **Graph API Explorer**: <https://developers.facebook.com/tools/explorer>
    - Meta App: `History Unsealed Publisher`
    - User or Page: **Get Page Access Token**
