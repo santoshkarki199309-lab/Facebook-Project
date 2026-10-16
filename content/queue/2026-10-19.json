@@ -31,12 +31,12 @@
         {
           "image_prompt": "A lone woman in early sixteenth-century peasant clothing dancing alone on a cobbled medieval street, puzzled onlookers in doorways, summer afternoon light",
           "narration": "In fifteen eighteen, a woman started dancing in the street. She couldn't stop.",
-          "image_search": "Brueghel dancing pilgrims Molenbeek"
+          "image_search": "Dancing mania Pieter Brueghel"
         },
         {
           "image_prompt": "A medieval European city with half-timbered houses and a cathedral spire, crowded street, summer haze, cinematic",
           "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days.",
-          "image_search": "Strasbourg Merian engraving"
+          "image_search": "Strasbourg Nuremberg Chronicle"
         },
         {
           "image_prompt": "A growing crowd of townspeople in Renaissance-era clothing dancing wildly in a market square, exhausted faces, dust rising",
@@ -45,12 +45,13 @@
         },
         {
           "image_prompt": "Musicians with drums, fifes and lutes playing on a wooden stage in a medieval guildhall while people dance, candlelight",
-          "narration": "Physicians blamed overheated blood. So the city council did something strange. It hired musicians and opened halls so people could dance it out."
+          "narration": "Physicians blamed overheated blood. So the city council did something strange. It hired musicians and opened halls so people could dance it out.",
+          "image_search": "Strasbourg Cathedral"
         },
         {
           "image_prompt": "A small stone mountain shrine at dawn with a procession of tired pilgrims in sixteenth-century clothing walking toward it",
           "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded.",
-          "image_search": "Saint Vitus altarpiece"
+          "image_search": "Saint Vitus"
         },
         {
           "image_prompt": "An empty cobbled square at night under moonlight, a single abandoned shoe on the stones, eerie calm",
@@ -114,8 +115,7 @@
         },
         {
           "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
-          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions.",
-          "image_search": "King John treasure Wash"
+          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions."
         },
         {
           "image_prompt": "An ornate medieval jewelled crown and a ceremonial sword lying in murky water, faint light from above",

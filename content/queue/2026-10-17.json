@@ -41,8 +41,7 @@
         },
         {
           "image_prompt": "A 1910s rare book dealer in a tweed suit examining an old manuscript under a magnifying glass in a cluttered antique bookshop",
-          "narration": "It is named after Wilfrid Voynich, a rare book dealer who bought it in 1912. For a long time, many experts suspected it was a clever modern forgery.",
-          "image_search": "Wilfrid Voynich"
+          "narration": "It is named after Wilfrid Voynich, a rare book dealer who bought it in 1912. For a long time, many experts suspected it was a clever modern forgery."
         },
         {
           "image_prompt": "A laboratory scientist in a modern lab holding a tiny parchment sample with tweezers, radiocarbon dating equipment softly lit in the background",
@@ -110,8 +109,7 @@
         {
           "image_prompt": "Close-up of a massive iron hoop slipping on the side of a wooden vat, liquid seeping between the staves, gas lamp light",
           "narration": "On the afternoon of October 17, an iron hoop holding the vat together slipped. About an hour later, the vat burst.",
-          "label": "OCTOBER 17",
-          "image_search": "brewery vat interior engraving"
+          "label": "OCTOBER 17"
         },
         {
           "image_prompt": "Wooden vats toppling like dominoes inside a brewery, wave of porter surging, splintered timber, motion blur",
@@ -131,7 +129,8 @@
         },
         {
           "image_prompt": "An empty cobbled London street at dusk after a flood, puddles of dark liquid reflecting gas lamps, broken barrel staves",
-          "narration": "Should the brewery have paid for it? Tell us in the comments. Follow for more untold history."
+          "narration": "Should the brewery have paid for it? Tell us in the comments. Follow for more untold history.",
+          "image_search": "St Giles in the Fields church"
         }
       ],
       "caption": "🍺 ON THIS DAY in 1814, a wave of beer about 15 feet high tore through a London neighbourhood.\n\nA giant vat of porter burst at the Horse Shoe Brewery near Tottenham Court Road, setting off other vats. Eight people died in the flooded streets of St Giles.\n\nThe inquest called it an accident. No one was held responsible — and the brewery later got its beer duty back.\n\nFair verdict, or should someone have paid? 👇",

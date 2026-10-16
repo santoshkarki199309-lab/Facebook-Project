@@ -35,17 +35,17 @@
         },
         {
           "image_prompt": "Sailors on the deck of a sailing ship in 1870s clothing peering through a telescope at a distant vessel, choppy grey sea",
-          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores.",
-          "image_search": "Dei Gratia brigantine"
+          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores."
         },
         {
           "image_prompt": "Interior of an empty nineteenth-century ship cabin, wooden barrels in the hold, a captain's desk with a logbook and oil lamp, dim light",
-          "narration": "The ship was seaworthy. There was about six months of food and water aboard, and its cargo of seventeen hundred barrels of alcohol was largely intact."
+          "narration": "The ship was seaworthy. There was about six months of food and water aboard, and its cargo of seventeen hundred barrels of alcohol was largely intact.",
+          "image_search": "Mary Celeste Gibraltar"
         },
         {
           "image_prompt": "Empty davits and ropes hanging over the side of an old wooden sailing ship where a lifeboat should be, ocean below",
           "narration": "But its only lifeboat was gone. So were all ten people: Captain Benjamin Briggs, his wife, their two-year-old daughter, and seven crew.",
-          "image_search": "Benjamin Spooner Briggs"
+          "image_search": "Mary Celeste captain Briggs"
         },
         {
           "image_prompt": "A Victorian writer at a desk by gaslight writing with a quill pen, stacks of magazines nearby, cozy study",
@@ -86,7 +86,7 @@
         "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
       ],
       "layout": "full",
-      "image_search": "Gossuin Image du monde"
+      "image_search": "La Terre est ronde Image du Monde"
     },
     {
       "slot": "d",

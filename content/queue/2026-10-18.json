@@ -50,8 +50,7 @@
         },
         {
           "image_prompt": "A scientist in a modern laboratory examining a tiny wood sample beside an ancient carved tablet, soft blue light",
-          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived.",
-          "image_search": "Rongorongo Santiago Staff"
+          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived."
         },
         {
           "image_prompt": "A carved wooden tablet resting on volcanic rock at sunset, the ocean glowing behind it",
@@ -87,7 +86,7 @@
         "https://ethw.org/Hedy_Lamarr"
       ],
       "layout": "full",
-      "image_search": "Hedy Lamarr Heavenly Body 1944 publicity"
+      "image_search": "Hedy Lamarr 1940 MGM publicity still"
     },
     {
       "slot": "d",
@@ -100,22 +99,22 @@
           "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
           "narration": "In 1820, a whale rammed a ship twice, and sank it.",
           "label": "1820",
-          "image_search": "sperm whale attacking whaleboat"
+          "image_search": "Garneray sperm whale hunt"
         },
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
           "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her.",
           "label": "NANTUCKET",
-          "image_search": "Nantucket harbor whaling"
+          "image_search": "Nantucket whaleship"
         },
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
-          "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats.",
-          "image_search": "Whale-Ship Essex narrative Owen Chase"
+          "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats."
         },
         {
           "image_prompt": "Three tiny open wooden boats adrift on an endless empty ocean under a blazing sun, gaunt sailors in ragged shirts",
-          "narration": "Far from any land, they chose a long route toward South America."
+          "narration": "Far from any land, they chose a long route toward South America.",
+          "image_search": "whaleboat whaling engraving"
         },
         {
           "image_prompt": "A lone rescue ship with full sails approaching a battered small boat on a grey sea, distant figures waving",
