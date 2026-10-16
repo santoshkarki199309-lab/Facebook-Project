@@ -98,6 +98,13 @@ def post_reel(video: Path, description: str) -> dict:
     return {"video_id": video_id, "finish": fin, "status": status.get("status")}
 
 
+def add_comment(object_id: str, message: str) -> dict:
+    """Comment as the Page on a post or reel. Needs pages_manage_engagement."""
+    _require_creds()
+    return _check(requests.post(f"{_base()}/{object_id}/comments", data={
+        "message": message, "access_token": config.FB_PAGE_TOKEN}, timeout=60))
+
+
 def recent_posts(limit: int = 50) -> list[dict]:
     _require_creds()
     data = _check(requests.get(f"{_base()}/{config.FB_PAGE_ID}/published_posts", params={

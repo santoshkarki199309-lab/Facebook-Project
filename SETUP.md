@@ -13,7 +13,7 @@ Until these steps are done, scheduled runs skip quietly — nothing breaks.
 2. Open the **Graph API Explorer**: <https://developers.facebook.com/tools/explorer>
    - Meta App: `History Unsealed Publisher`
    - User or Page: **Get Page Access Token**
-   - Add permissions: `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_read_user_content`
+   - Add permissions: `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_read_user_content`, `pages_manage_engagement`
    - Click **Generate Access Token**, approve, and select **History Unsealed**.
 3. Make it long-lived:
    - Copy the **user** token → open the **Access Token Debugger**

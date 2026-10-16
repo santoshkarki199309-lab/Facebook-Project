@@ -46,5 +46,17 @@ def build_caption(post: dict) -> str:
     return "\n\n".join(p for p in parts if p)
 
 
+def build_sources_comment(post: dict) -> str:
+    from urllib.parse import urlparse
+
+    lines = ["📚 Sources for this post:"]
+    for i, url in enumerate(post.get("sources", []), 1):
+        host = urlparse(url).netloc.replace("www.", "")
+        lines.append(f"{i}. {host} — {url}")
+    lines.append("")
+    lines.append("Spotted something we got wrong? Tell us below and we'll check it.")
+    return "\n".join(lines)
+
+
 def queued_dates() -> list[str]:
     return sorted(p.stem for p in Path(config.QUEUE_DIR).glob("*.json"))

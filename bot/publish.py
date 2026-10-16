@@ -46,6 +46,7 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
         media = reel.render(post, work, offline=offline)
 
     if dry_run:
+        (work / "sources_comment.txt").write_text(q.build_sources_comment(post), encoding="utf-8")
         print(f"[publish] DRY RUN — rendered {media} (not posted)")
         return 0
 
@@ -56,11 +57,22 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
         result = facebook.post_reel(media, caption)
         post_id = result.get("video_id")
 
+    # Best effort: a sources comment never blocks or fails a publish.
+    commented = False
+    if post_id and post.get("sources"):
+        try:
+            facebook.add_comment(post_id, q.build_sources_comment(post))
+            commented = True
+            print("[publish] sources comment added")
+        except Exception as exc:  # noqa: BLE001
+            print(f"::warning::Could not add sources comment: {exc}")
+
     state[key] = {
         "id": post_id,
         "type": post["type"],
         "topic": post.get("topic"),
         "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "sources_comment": commented,
     }
     q.save_state(state)
     print(f"[publish] published {key} -> {post_id}")
