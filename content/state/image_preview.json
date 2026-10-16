@@ -65,6 +65,17 @@
       "credit": "Joyofmuseums / Wikimedia Commons"
     }
   },
+  "2026-10-17:d:scene 1": {
+    "query": "Horse Shoe Brewery",
+    "topic": "The London Beer Flood of 1814",
+    "hit": {
+      "title": "File:Horwood's Plan of London (1792-1799); Horse Shoe Brewery.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Horwood%27s_Plan_of_London_%281792-1799%29%3B_Horse_Shoe_Brewery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Horwood%27s_Plan_of_London_(1792-1799);_Horse_Shoe_Brewery.jpg",
+      "license": "Public domain",
+      "credit": "Richard Horwood / Wikimedia Commons"
+    }
+  },
   "2026-10-17:d:scene 2": {
     "query": "Meux brewery Horse Shoe Brewery London",
     "topic": "The London Beer Flood of 1814",
@@ -99,23 +110,23 @@
     }
   },
   "2026-10-17:d:scene 7": {
-    "query": "St Giles in the Fields church",
+    "query": "St Giles in the Fields London",
     "topic": "The London Beer Flood of 1814",
     "hit": {
-      "title": "File:Peyto Gateway - St. Giles Church, Chesterton.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Peyto_Gateway_-_St._Giles_Church%2C_Chesterton.jpg/1920px-Peyto_Gateway_-_St._Giles_Church%2C_Chesterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Peyto_Gateway_-_St._Giles_Church,_Chesterton.jpg",
+      "title": "File:St Giles in the Fields January 2012.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/St_Giles_in_the_Fields_January_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:St_Giles_in_the_Fields_January_2012.jpg",
       "license": "CC BY-SA",
-      "credit": "DeFacto / Wikimedia Commons"
+      "credit": "Prioryman / Wikimedia Commons"
     }
   },
   "2026-10-18:a:post": {
     "query": "Great Zimbabwe Great Enclosure wall",
     "topic": "Great Zimbabwe",
     "hit": {
-      "title": "File:Wall of the great enclosure, Great Zimbabwe.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure,_Great_Zimbabwe.JPG",
+      "title": "File:Wall of the great enclosure (far), Great Zimbabwe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure_(far),_Great_Zimbabwe.JPG",
       "license": "CC BY",
       "credit": "Jens Klinzing / Wikimedia Commons"
     }
@@ -176,19 +187,36 @@
     }
   },
   "2026-10-18:d:scene 1": {
-    "query": "Garneray sperm whale hunt",
+    "query": "Whaleship Essex",
+    "topic": "The whaleship Essex, the real Moby-Dick",
+    "hit": {
+      "title": "File:Scrimshaw tusk, unknown artist on an unidentified British whaleship, mid 1800s, walrus tusk, blacking - Peabody Essex Museum - DSC07237.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Scrimshaw_tusk%2C_unknown_artist_on_an_unidentified_British_whaleship%2C_mid_1800s%2C_walrus_tusk%2C_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg/1920px-Scrimshaw_tusk%2C_unknown_artist_on_an_unidentified_British_whaleship%2C_mid_1800s%2C_walrus_tusk%2C_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Scrimshaw_tusk,_unknown_artist_on_an_unidentified_British_whaleship,_mid_1800s,_walrus_tusk,_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg",
+      "license": "Public domain",
+      "credit": "Daderot / Wikimedia Commons"
+    }
+  },
+  "2026-10-18:d:scene 2": {
+    "query": "Nantucket harbour",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
-  "2026-10-18:d:scene 2": {
-    "query": "Nantucket whaleship",
+  "2026-10-18:d:scene 3": {
+    "query": "sperm whale ramming ship",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
   "2026-10-18:d:scene 4": {
-    "query": "whaleboat whaling engraving",
+    "query": "Owen Chase",
     "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": null
+    "hit": {
+      "title": "File:Chase Owen at the Autodromo Enzo e Dino Ferrari.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Chase_Owen_at_the_Autodromo_Enzo_e_Dino_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Chase_Owen_at_the_Autodromo_Enzo_e_Dino_Ferrari.jpg",
+      "license": "CC BY-SA",
+      "credit": "Carlorace / Wikimedia Commons"
+    }
   },
   "2026-10-18:d:scene 6": {
     "query": "Herman Melville portrait",
@@ -234,11 +262,6 @@
       "credit": "Pieter Breugel de Oude / Wikimedia Commons"
     }
   },
-  "2026-10-19:b:scene 2": {
-    "query": "Strasbourg Nuremberg Chronicle",
-    "topic": "The Dancing Plague of 1518",
-    "hit": null
-  },
   "2026-10-19:b:scene 3": {
     "query": "Dancing mania Hendrik Hondius engraving",
     "topic": "The Dancing Plague of 1518",
@@ -259,17 +282,6 @@
       "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg",
       "license": "CC BY-SA",
       "credit": "Diliff / Wikimedia Commons"
-    }
-  },
-  "2026-10-19:b:scene 5": {
-    "query": "Saint Vitus",
-    "topic": "The Dancing Plague of 1518",
-    "hit": {
-      "title": "File:Saint Vitus (venue).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Saint_Vitus_%28venue%29.jpg/1920px-Saint_Vitus_%28venue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Saint_Vitus_(venue).jpg",
-      "license": "CC BY-SA",
-      "credit": "Mikeyfrecks / Wikimedia Commons"
     }
   },
   "2026-10-19:c:post": {
@@ -331,9 +343,9 @@
     "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:Nan Madol ruins 13.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
+      "title": "File:Nan Madol ruins 6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons"
     }
@@ -661,11 +673,11 @@
     "query": "Cloudesley Shovell portrait",
     "topic": "Scilly naval disaster of 1707",
     "hit": {
-      "title": "File:Sir Cloudesley Shovell, 1650-1707.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell%2C_1650-1707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg",
-      "license": "Public domain",
-      "credit": "Michael Dahl / Wikimedia Commons"
+      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
+      "license": "CC0",
+      "credit": "jacquemart from England / Wikimedia Commons"
     }
   },
   "2026-10-22:d:scene 6": {
