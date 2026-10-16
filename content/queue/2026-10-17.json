@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-17",
+  "posts": [
+    {
+      "slot": "a",
+      "type": "photo",
+      "topic": "Dunhuang Library Cave (Mogao Cave 17)",
+      "image_prompt": "A Daoist monk in faded robes holding an oil lamp, peering through a broken plaster wall into a small hidden cave chamber stacked floor to ceiling with ancient scrolls and silk bundles, desert cave temple, dust in the lamplight, early 1900s western China",
+      "caption": "📜 A WALL THAT HID A LIBRARY FOR 900 YEARS\n\nIn 1900, a Daoist monk named Wang Yuanlu was clearing sand from the Mogao Caves near Dunhuang, China, when he noticed a crack in a painted wall.\n\nBehind it was a tiny sealed room — now known as Cave 17 — packed with tens of thousands of manuscripts, paintings and textiles.\n\nAmong them: the Diamond Sutra, printed in 868 AD. It is the oldest dated printed book known to exist.\n\nThe room appears to have been walled up in the early 1000s. Nobody wrote down why. Historians still argue: was it hidden from an approaching invasion, or was it simply a storeroom for worn-out sacred texts that people respected too much to destroy?\n\nWhich explanation do you believe — protection or storage? 👇",
+      "hashtags": ["HistoryUnsealed", "Dunhuang", "AncientManuscripts", "SilkRoad", "HistoryMysteries"],
+      "sources": [
+        "https://idp.bl.uk/learning/dunhuang/collection-items/cave-17-the-library-cave/",
+        "https://en.wikipedia.org/wiki/Dunhuang_manuscripts"
+      ]
+    },
+    {
+      "slot": "b",
+      "type": "reel",
+      "topic": "The Voynich Manuscript",
+      "title": "The book nobody can read",
+      "scenes": [
+        {
+          "image_prompt": "An ancient vellum book lying open on a dark library table, pages covered in looping unknown handwriting and strange botanical drawings, single candle, dramatic shadows",
+          "narration": "There is a book in a library at Yale that nobody on Earth can read."
+        },
+        {
+          "image_prompt": "Close-up of hand-drawn botanical illustrations of impossible plants with tangled roots on aged parchment, faded green and brown inks",
+          "narration": "It is called the Voynich Manuscript. Around two hundred and forty pages, written in a script that matches no known language, next to drawings of plants that botanists cannot identify."
+        },
+        {
+          "image_prompt": "A 1910s rare book dealer in a tweed suit examining an old manuscript under a magnifying glass in a cluttered antique bookshop",
+          "narration": "It is named after Wilfrid Voynich, a rare book dealer who bought it in 1912. For a long time, many experts suspected it was a clever modern forgery."
+        },
+        {
+          "image_prompt": "A laboratory scientist in a modern lab holding a tiny parchment sample with tweezers, radiocarbon dating equipment softly lit in the background",
+          "narration": "Then, in 2009, radiocarbon testing dated its vellum pages to the early fifteenth century, roughly 1404 to 1438. The parchment is genuinely around six hundred years old."
+        },
+        {
+          "image_prompt": "Codebreakers from different eras around a long table covered in papers and the strange manuscript, wartime cryptographers and modern researchers, moody lamplight",
+          "narration": "Wartime codebreakers, linguists and computer scientists have all tried to crack it. Many have announced a solution. None has convinced the experts."
+        },
+        {
+          "image_prompt": "The mysterious manuscript closed on a stone pedestal in a dim vault, shaft of light falling on its worn leather cover",
+          "narration": "So is it a lost language, an unbreakable cipher, or an elaborate medieval hoax? Tell us what you think in the comments, and follow for more."
+        }
+      ],
+      "caption": "🔐 600 years old. 240 pages. Not one word decoded.\n\nThe Voynich Manuscript is kept at Yale's Beinecke Library as MS 408. Radiocarbon tests in 2009 dated its vellum to roughly 1404–1438 — so it is no modern fake. Yet its script and its strange plants still match nothing we know.\n\nLost language, unbreakable code, or a medieval hoax? Make your case below 👇",
+      "hashtags": ["HistoryUnsealed", "VoynichManuscript", "UnsolvedMysteries", "MedievalHistory"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Voynich_manuscript",
+        "https://www.nbcnews.com/news/all/worlds-most-mysterious-manuscript-has-genuine-message-flna6c10444898"
+      ]
+    },
+    {
+      "slot": "c",
+      "type": "photo",
+      "topic": "The Antikythera Mechanism",
+      "image_prompt": "A corroded ancient bronze gear mechanism fragment covered in green patina, interlocking tiny gear teeth visible, resting on a museum display cloth, with a faint glowing reconstruction of the complete device and its dials behind it",
+      "caption": "⚙️ THE 2,000-YEAR-OLD 'COMPUTER' FOUND IN A SHIPWRECK\n\nIn 1900, Greek sponge divers sheltering from a storm near the island of Antikythera found a Roman-era shipwreck full of bronze statues and treasure.\n\nThe most important object was easy to miss: a lump of corroded bronze. In 1902 an archaeologist noticed gear wheels inside it.\n\nToday we know it as the Antikythera Mechanism — a hand-cranked device built roughly 2,100 years ago that modelled the movements of the Sun and Moon, predicted eclipses, and even tracked the cycle of the ancient Olympic Games.\n\nNothing with gearing this complex appears again in the surviving record for more than a thousand years.\n\nHow did this knowledge disappear? 👇",
+      "hashtags": ["HistoryUnsealed", "AntikytheraMechanism", "AncientTechnology", "AncientGreece"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "https://www.lindahall.org/about/news/scientist-of-the-day/the-antikythera-mechanism/"
+      ]
+    }
+  ]
+}

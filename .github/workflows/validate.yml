@@ -1,0 +1,29 @@
+name: Validate queue
+
+on:
+  push:
+    paths: ["content/queue/**", "bot/**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r requirements.txt
+      - run: python -m bot.validate
+      - name: Warn if the queue is running low
+        run: |
+          python - <<'EOF'
+          from datetime import date, timedelta
+          from pathlib import Path
+          missing = [str(date.today() + timedelta(d)) for d in range(0, 3)
+                     if not Path(f"content/queue/{date.today() + timedelta(d)}.json").exists()]
+          if missing:
+              print("::warning::No queued content for: " + ", ".join(missing))
+          EOF
