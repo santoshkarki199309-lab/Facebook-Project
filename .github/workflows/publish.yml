@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       slot:
-        description: "Slot to publish"
+        description: "Slot to publish (or 'comments' to only add missing sources comments)"
         type: choice
-        options: [a, b, c]
+        options: [a, b, c, comments]
         required: true
       date:
         description: "UTC date YYYY-MM-DD (blank = today)"
@@ -66,6 +66,10 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "schedule" ] && [ -z "$FB_PAGE_TOKEN" ]; then
             echo "::notice::FB_PAGE_TOKEN secret not set yet — skipping scheduled publish. See SETUP.md."
+            exit 0
+          fi
+          if [ "${{ steps.slot.outputs.slot }}" = "comments" ]; then
+            python -m bot.publish --backfill-comments
             exit 0
           fi
           ARGS="--slot ${{ steps.slot.outputs.slot }}"

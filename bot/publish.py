@@ -79,6 +79,29 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
     return 0
 
 
+def backfill_comments() -> int:
+    """Add the sources comment to any published post that is missing it."""
+    state = q.load_state()
+    added = 0
+    for key, entry in sorted(state.items()):
+        if entry.get("sources_comment") or not entry.get("id"):
+            continue
+        date, slot = key.split(":")
+        post = q.item_for(date, slot)
+        if not post or not post.get("sources"):
+            continue
+        try:
+            facebook.add_comment(entry["id"], q.build_sources_comment(post))
+            entry["sources_comment"] = True
+            added += 1
+            print(f"[comments] added sources comment to {key}")
+        except Exception as exc:  # noqa: BLE001
+            print(f"::warning::Sources comment for {key} failed: {exc}")
+    q.save_state(state)
+    print(f"[comments] backfilled {added}")
+    return added
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slot", choices=sorted(config.SLOTS))
@@ -86,7 +109,13 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--offline", action="store_true", help="placeholder images + silent audio")
     ap.add_argument("--check", action="store_true", help="verify Facebook credentials and exit")
+    ap.add_argument("--backfill-comments", action="store_true",
+                    help="add missing sources comments to published posts and exit")
     args = ap.parse_args()
+
+    if args.backfill_comments:
+        backfill_comments()
+        sys.exit(0)
 
     if args.check:
         me = facebook.whoami()
@@ -98,7 +127,13 @@ def main() -> None:
 
     if not args.slot:
         ap.error("--slot is required")
-    sys.exit(run(args.slot, args.date or q.today_utc(), args.dry_run, args.offline))
+    code = run(args.slot, args.date or q.today_utc(), args.dry_run, args.offline)
+    if code == 0 and not args.dry_run:
+        try:
+            backfill_comments()  # self-heal comments missed by earlier runs
+        except Exception as exc:  # noqa: BLE001
+            print(f"::warning::comment backfill skipped: {exc}")
+    sys.exit(code)
 
 
 if __name__ == "__main__":
