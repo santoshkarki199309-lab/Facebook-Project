@@ -10,7 +10,7 @@ import argparse
 import sys
 from datetime import datetime, timezone
 
-from . import brand, config, facebook, images, reel
+from . import brand, config, facebook, media, reel
 from . import queue as q
 from .validate import validate_post
 
@@ -40,28 +40,33 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
     print(f"[publish] {key} type={post['type']} topic={post.get('topic')!r}")
 
     if post["type"] == "photo":
-        raw = images.generate(post["image_prompt"], work / "raw.jpg", offline=offline)
-        media = brand.photo_post(raw, work / "post.jpg")
+        raw, tag, credit = media.picture(post, work / "raw.jpg", offline=offline)
+        credits = [credit] if credit else []
+        out_file = brand.photo_post(raw, work / "post.jpg", tagline=tag,
+                                    layout=post.get("layout", "full"),
+                                    headline=post.get("image_headline"),
+                                    kicker=post.get("series"))
     else:
-        media = reel.render(post, work, offline=offline)
+        out_file, credits = reel.render(post, work, offline=offline)
 
+    comment = q.build_sources_comment(post, credits)
     if dry_run:
-        (work / "sources_comment.txt").write_text(q.build_sources_comment(post), encoding="utf-8")
-        print(f"[publish] DRY RUN — rendered {media} (not posted)")
+        (work / "sources_comment.txt").write_text(comment, encoding="utf-8")
+        print(f"[publish] DRY RUN — rendered {out_file} (not posted)")
         return 0
 
     if post["type"] == "photo":
-        result = facebook.post_photo(media, caption)
+        result = facebook.post_photo(out_file, caption)
         post_id = result.get("post_id") or result.get("id")
     else:
-        result = facebook.post_reel(media, caption)
+        result = facebook.post_reel(out_file, caption)
         post_id = result.get("video_id")
 
     # Best effort: a sources comment never blocks or fails a publish.
     commented = False
     if post_id and post.get("sources"):
         try:
-            facebook.add_comment(post_id, q.build_sources_comment(post))
+            facebook.add_comment(post_id, comment)
             commented = True
             print("[publish] sources comment added")
         except Exception as exc:  # noqa: BLE001
@@ -73,6 +78,7 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
         "topic": post.get("topic"),
         "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "sources_comment": commented,
+        "image_credits": credits,
     }
     q.save_state(state)
     print(f"[publish] published {key} -> {post_id}")
@@ -91,7 +97,8 @@ def backfill_comments() -> int:
         if not post or not post.get("sources"):
             continue
         try:
-            facebook.add_comment(entry["id"], q.build_sources_comment(post))
+            facebook.add_comment(entry["id"],
+                                 q.build_sources_comment(post, entry.get("image_credits", [])))
             entry["sources_comment"] = True
             added += 1
             print(f"[comments] added sources comment to {key}")

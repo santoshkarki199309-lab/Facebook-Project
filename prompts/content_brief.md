@@ -85,6 +85,37 @@ Use these recurring series labels as the first words of the hook line when they 
 - Use concrete numbers and vivid detail; end with a specific opinion question.
 - At most 3 emoji in total.
 
+## Monetization-safe originality (Meta reviews this)
+
+Meta demonetizes Pages that look like mass-produced, fully automated "AI slop". Every post must
+look editorial and curated — like a small history publication, not a content farm.
+
+### Real images first, AI second
+- For every photo post and **at least half of the scenes in every reel**, find a **real
+  historical image** — photograph, painting, engraving, map, manuscript page, artefact photo —
+  and set `image_url`, `image_license`, `image_credit`.
+- Allowed sources: **Wikimedia Commons** (use the `https://commons.wikimedia.org/wiki/File:…`
+  page URL), Library of Congress, The Met / Rijksmuseum / Smithsonian open-access, national
+  archives. Check the file page's licence yourself.
+- `image_license` must be one of: `Public domain`, `CC0`, `CC BY`, `CC BY-SA`. Never use
+  "all rights reserved", news photos, stock photos, film stills or anything uncertain.
+- `image_credit`: author/institution + source, e.g. `"John White, British Museum / Wikimedia Commons"`.
+- Always still write `image_prompt` — it is the AI fallback if the download fails.
+- Use AI only for scenes no real image can show (reconstructions, moments never photographed).
+
+### Vary the look (never the same template twice in a row)
+- Photo posts: alternate `"layout": "full"` (picture only) and `"layout": "card"` (picture with
+  a bold `image_headline`, 2–10 words, plus optional `series` label shown above it).
+- Reels: give scenes a short on-screen `label` (≤14 characters) when it adds meaning — a year
+  (`"1587"`), a place (`"SIBERIA"`), a countdown (`"#3"`), a number (`"80M TREES"`). Use labels
+  on some reels and not others; vary reel structures: story, countdown/list, timeline,
+  myth-vs-fact, "what we found".
+
+### Upgrade pass (every run)
+For queue posts dated **after today** that have no `image_url`, you may ADD `image_url`,
+`image_license`, `image_credit`, `label`, `layout`, `image_headline`, `series` fields.
+Never change their text (topic, caption, narration, hook_text, sources).
+
 ## Engagement rules (Meta penalises "engagement bait")
 
 - ✅ Ask genuine questions: "Which theory do you believe?", "Would you have opened it?"
@@ -105,9 +136,13 @@ Never repeat a `topic` that appears in the queue or in `posted.json`.
   "date": "YYYY-MM-DD",
   "posts": [
     {"slot": "b", "type": "reel", "topic": "...", "title": "...", "hook_text": "...",
-     "scenes": [{"image_prompt": "...", "narration": "..."}],
+     "scenes": [{"image_prompt": "...", "narration": "...", "label": "1908",
+                 "image_url": "https://commons.wikimedia.org/wiki/File:...", "image_license": "Public domain",
+                 "image_credit": "Author / Institution / Wikimedia Commons"}],
      "caption": "...", "hashtags": ["HistoryUnsealed", "..."], "sources": ["https://...", "https://..."]},
     {"slot": "a", "type": "photo", "topic": "...", "image_prompt": "...",
+     "image_url": "https://commons.wikimedia.org/wiki/File:...", "image_license": "Public domain",
+     "image_credit": "...", "layout": "card", "image_headline": "...", "series": "UNSOLVED FILES",
      "caption": "...", "hashtags": ["..."], "sources": ["https://...", "https://..."]},
     {"slot": "d", "type": "reel", "topic": "...", "title": "...", "hook_text": "...",
      "scenes": [{"image_prompt": "...", "narration": "..."}],

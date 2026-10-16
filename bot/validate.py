@@ -5,11 +5,27 @@ import sys
 from pathlib import Path
 
 from . import config
+from .media import normalise_license
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 BANNED = ["corporate sponsor", "they don't want you to know", "100% proven", "scientists are baffled",
           "like if", "share if", "tag a friend", "tag someone", "comment yes", "type 1", "type yes",
           "in this video"]
+
+
+def _image_checks(item: dict, where: str) -> list[str]:
+    url = item.get("image_url")
+    if not url:
+        return []
+    out = []
+    if not str(url).startswith("https://"):
+        out.append(f"{where}: image_url must be https")
+    if not normalise_license(item.get("image_license", "")):
+        out.append(f"{where}: image_license must be Public domain, CC0, CC BY or CC BY-SA "
+                   f"(got {item.get('image_license')!r})")
+    if not item.get("image_credit"):
+        out.append(f"{where}: image_credit required with image_url")
+    return out
 
 
 def validate_post(post: dict, slot: str | None = None) -> list[str]:
@@ -37,9 +53,15 @@ def validate_post(post: dict, slot: str | None = None) -> list[str]:
     for b in BANNED:
         if b in low:
             p.append(f"caption contains banned phrase {b!r}")
+    p += _image_checks(post, "post")
     if t == "photo":
         if len(post.get("image_prompt", "")) < 40:
-            p.append("image_prompt too short")
+            p.append("image_prompt too short (needed as AI fallback)")
+        layout = post.get("layout", "full")
+        if layout not in ("full", "card"):
+            p.append(f"layout must be 'full' or 'card', got {layout!r}")
+        if layout == "card" and not 2 <= len(post.get("image_headline", "").split()) <= 10:
+            p.append("card layout needs image_headline of 2–10 words")
     elif t == "reel":
         scenes = post.get("scenes", [])
         if not 4 <= len(scenes) <= 9:
@@ -53,6 +75,9 @@ def validate_post(post: dict, slot: str | None = None) -> list[str]:
         for i, sc in enumerate(scenes):
             if len(sc.get("image_prompt", "")) < 30 or not sc.get("narration"):
                 p.append(f"scene {i + 1} incomplete")
+            if sc.get("label") and len(sc["label"]) > 14:
+                p.append(f"scene {i + 1} label longer than 14 characters")
+            p += _image_checks(sc, f"scene {i + 1}")
     return p
 
 

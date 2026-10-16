@@ -3,7 +3,7 @@ import random
 import subprocess
 from pathlib import Path
 
-from . import brand, config, images, tts
+from . import brand, config, media, tts
 
 FPS = 30
 CAPTION_STYLE = (
@@ -22,13 +22,20 @@ def _run(cmd: list[str]) -> None:
 def _scene_clip(frame: Path, mp3: Path, srt: Path, dur: float, out: Path,
                 still: bool = False) -> None:
     frames = int(dur * FPS) + FPS // 2
-    zoom_in = random.choice([True, False])
-    z = "min(zoom+0.0005,1.10)" if zoom_in else "if(eq(on,0),1.10,max(zoom-0.0005,1.0))"
+    x = "iw/2-(iw/zoom/2)"
+    motion = random.choice(["in", "out", "pan_r", "pan_l"])
     if still:  # hook scene: keep the headline fully on screen
         z = "1.0"
+    elif motion == "in":
+        z = "min(zoom+0.0005,1.10)"
+    elif motion == "out":
+        z = "if(eq(on,0),1.10,max(zoom-0.0005,1.0))"
+    else:  # slow horizontal pan across the picture
+        z = "1.08"
+        x = f"(iw-iw/zoom)*on/{frames}" if motion == "pan_r" else f"(iw-iw/zoom)*(1-on/{frames})"
     srt_arg = str(srt).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
     vf = (
-        f"scale=2160:3840,zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+        f"scale=2160:3840,zoompan=z='{z}':x='{x}':y='ih/2-(ih/zoom/2)'"
         f":d={frames}:s=1080x1920:fps={FPS},"
         f"subtitles='{srt_arg}':force_style='{CAPTION_STYLE}',format=yuv420p"
     )
@@ -51,15 +58,17 @@ def _add_music(video: Path, out: Path) -> Path:
     return out
 
 
-def render(post: dict, workdir: Path, offline: bool = False) -> Path:
-    """Build the reel for a queue item of type 'reel'. Returns the mp4 path."""
+def render(post: dict, workdir: Path, offline: bool = False) -> tuple[Path, list[str]]:
+    """Build the reel for a queue item of type 'reel'. Returns (mp4 path, image credits)."""
     workdir.mkdir(parents=True, exist_ok=True)
-    clips = []
+    clips, credits = [], []
     for i, scene in enumerate(post["scenes"]):
-        raw = images.generate(scene["image_prompt"], workdir / f"s{i}_raw.jpg", 1024, 1024,
-                              offline=offline)
+        raw, tag, credit = media.picture(scene, workdir / f"s{i}_raw.jpg", offline=offline)
+        if credit and credit not in credits:
+            credits.append(credit)
         hook = (post.get("hook_text") or post.get("title")) if i == 0 else None
-        frame = brand.reel_frame(raw, workdir / f"s{i}_frame.jpg", hook=hook)
+        frame = brand.reel_frame(raw, workdir / f"s{i}_frame.jpg", hook=hook, tagline=tag,
+                                 label=scene.get("label"))
         mp3, srt = workdir / f"s{i}.mp3", workdir / f"s{i}.srt"
         dur = tts.synth(scene["narration"], mp3, srt, offline=offline)
         clip = workdir / f"s{i}.mp4"
@@ -77,4 +86,4 @@ def render(post: dict, workdir: Path, offline: bool = False) -> Path:
     print(f"[reel] final {final.name} {total:.1f}s")
     if not 3 <= total <= 90:
         raise RuntimeError(f"Reel length {total:.1f}s is outside Facebook's 3–90s limit")
-    return final
+    return final, credits

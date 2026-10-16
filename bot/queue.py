@@ -41,18 +41,21 @@ def save_state(state: dict) -> None:
 
 def build_caption(post: dict) -> str:
     tags = " ".join("#" + t.lstrip("#") for t in post.get("hashtags", []))
-    footer = "🎨 Images are AI illustrations; facts are researched and sourced."
+    footer = "🎨 Each image is labelled as an archive image or an AI illustration. Facts are researched — sources in the first comment."
     parts = [post["caption"].strip(), footer, tags]
     return "\n\n".join(p for p in parts if p)
 
 
-def build_sources_comment(post: dict) -> str:
+def build_sources_comment(post: dict, image_credits: list[str] | None = None) -> str:
     from urllib.parse import urlparse
 
     lines = ["📚 Sources for this post:"]
     for i, url in enumerate(post.get("sources", []), 1):
         host = urlparse(url).netloc.replace("www.", "")
         lines.append(f"{i}. {host} — {url}")
+    if image_credits:
+        lines.append("")
+        lines.append("🖼 Images: " + "; ".join(image_credits))
     lines.append("")
     lines.append("Spotted something we got wrong? Tell us below and we'll check it.")
     return "\n".join(lines)
