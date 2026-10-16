@@ -99,7 +99,8 @@
         {
           "image_prompt": "A towering wave of dark brown liquid bursting through a brick brewery wall onto a narrow cobbled London street, 1814, dramatic low angle",
           "narration": "In 1814, a wave of beer about fifteen feet high hit London.",
-          "label": "1814"
+          "label": "1814",
+          "image_search": "Horse Shoe Brewery"
         },
         {
           "image_prompt": "A giant wooden brewing vat about 22 feet tall bound with iron hoops inside a cavernous Georgian brewery, workers looking tiny beside it",
@@ -130,7 +131,7 @@
         {
           "image_prompt": "An empty cobbled London street at dusk after a flood, puddles of dark liquid reflecting gas lamps, broken barrel staves",
           "narration": "Should the brewery have paid for it? Tell us in the comments. Follow for more untold history.",
-          "image_search": "St Giles in the Fields church"
+          "image_search": "St Giles in the Fields London"
         }
       ],
       "caption": "🍺 ON THIS DAY in 1814, a wave of beer about 15 feet high tore through a London neighbourhood.\n\nA giant vat of porter burst at the Horse Shoe Brewery near Tottenham Court Road, setting off other vats. Eight people died in the flooded streets of St Giles.\n\nThe inquest called it an accident. No one was held responsible — and the brewery later got its beer duty back.\n\nFair verdict, or should someone have paid? 👇",
