@@ -7,7 +7,13 @@
       "topic": "Dunhuang Library Cave (Mogao Cave 17)",
       "image_prompt": "A Daoist monk in faded robes holding an oil lamp, peering through a broken plaster wall into a small hidden cave chamber stacked floor to ceiling with ancient scrolls and silk bundles, desert cave temple, dust in the lamplight, early 1900s western China",
       "caption": "📜 A WALL THAT HID A LIBRARY FOR 900 YEARS\n\nIn 1900, a Daoist monk named Wang Yuanlu was clearing sand from the Mogao Caves near Dunhuang, China, when he noticed a crack in a painted wall.\n\nBehind it was a tiny sealed room — now known as Cave 17 — packed with tens of thousands of manuscripts, paintings and textiles.\n\nAmong them: the Diamond Sutra, printed in 868 AD. It is the oldest dated printed book known to exist.\n\nThe room appears to have been walled up in the early 1000s. Nobody wrote down why. Historians still argue: was it hidden from an approaching invasion, or was it simply a storeroom for worn-out sacred texts that people respected too much to destroy?\n\nWhich explanation do you believe — protection or storage? 👇",
-      "hashtags": ["HistoryUnsealed", "Dunhuang", "AncientManuscripts", "SilkRoad", "HistoryMysteries"],
+      "hashtags": [
+        "HistoryUnsealed",
+        "Dunhuang",
+        "AncientManuscripts",
+        "SilkRoad",
+        "HistoryMysteries"
+      ],
       "sources": [
         "https://idp.bl.uk/learning/dunhuang/collection-items/cave-17-the-library-cave/",
         "https://en.wikipedia.org/wiki/Dunhuang_manuscripts"
@@ -45,7 +51,12 @@
         }
       ],
       "caption": "🔐 600 years old. 240 pages. Not one word decoded.\n\nThe Voynich Manuscript is kept at Yale's Beinecke Library as MS 408. Radiocarbon tests in 2009 dated its vellum to roughly 1404–1438 — so it is no modern fake. Yet its script and its strange plants still match nothing we know.\n\nLost language, unbreakable code, or a medieval hoax? Make your case below 👇",
-      "hashtags": ["HistoryUnsealed", "VoynichManuscript", "UnsolvedMysteries", "MedievalHistory"],
+      "hashtags": [
+        "HistoryUnsealed",
+        "VoynichManuscript",
+        "UnsolvedMysteries",
+        "MedievalHistory"
+      ],
       "sources": [
         "https://en.wikipedia.org/wiki/Voynich_manuscript",
         "https://www.nbcnews.com/news/all/worlds-most-mysterious-manuscript-has-genuine-message-flna6c10444898"
@@ -57,10 +68,64 @@
       "topic": "The Antikythera Mechanism",
       "image_prompt": "A corroded ancient bronze gear mechanism fragment covered in green patina, interlocking tiny gear teeth visible, resting on a museum display cloth, with a faint glowing reconstruction of the complete device and its dials behind it",
       "caption": "⚙️ THE 2,000-YEAR-OLD 'COMPUTER' FOUND IN A SHIPWRECK\n\nIn 1900, Greek sponge divers sheltering from a storm near the island of Antikythera found a Roman-era shipwreck full of bronze statues and treasure.\n\nThe most important object was easy to miss: a lump of corroded bronze. In 1902 an archaeologist noticed gear wheels inside it.\n\nToday we know it as the Antikythera Mechanism — a hand-cranked device built roughly 2,100 years ago that modelled the movements of the Sun and Moon, predicted eclipses, and even tracked the cycle of the ancient Olympic Games.\n\nNothing with gearing this complex appears again in the surviving record for more than a thousand years.\n\nHow did this knowledge disappear? 👇",
-      "hashtags": ["HistoryUnsealed", "AntikytheraMechanism", "AncientTechnology", "AncientGreece"],
+      "hashtags": [
+        "HistoryUnsealed",
+        "AntikytheraMechanism",
+        "AncientTechnology",
+        "AncientGreece"
+      ],
       "sources": [
         "https://en.wikipedia.org/wiki/Antikythera_mechanism",
         "https://www.lindahall.org/about/news/scientist-of-the-day/the-antikythera-mechanism/"
+      ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "The London Beer Flood of 1814",
+      "title": "The day a beer tsunami hit London",
+      "hook_text": "HISTORY'S WEIRDEST: A TSUNAMI OF BEER",
+      "scenes": [
+        {
+          "image_prompt": "A towering wave of dark brown liquid bursting through a brick brewery wall onto a narrow cobbled London street, 1814, dramatic low angle",
+          "narration": "In 1814, a wave of beer about fifteen feet high hit London."
+        },
+        {
+          "image_prompt": "A giant wooden brewing vat about 22 feet tall bound with iron hoops inside a cavernous Georgian brewery, workers looking tiny beside it",
+          "narration": "It began at the Horse Shoe Brewery, near Tottenham Court Road. Inside stood a vat around twenty-two feet tall, full of dark porter."
+        },
+        {
+          "image_prompt": "Close-up of a massive iron hoop slipping on the side of a wooden vat, liquid seeping between the staves, gas lamp light",
+          "narration": "On the afternoon of October 17, an iron hoop holding the vat together slipped. About an hour later, the vat burst."
+        },
+        {
+          "image_prompt": "Wooden vats toppling like dominoes inside a brewery, wave of porter surging, splintered timber, motion blur",
+          "narration": "The blast broke open other vats. More than one hundred and twenty-eight thousand gallons of beer poured out."
+        },
+        {
+          "image_prompt": "A flooded crowded slum street in Regency London, cellars filling with dark liquid, people in period clothes climbing onto furniture",
+          "narration": "It smashed through a wall and flooded the packed streets of St Giles, pouring into basements where families lived. Eight people died."
+        },
+        {
+          "image_prompt": "A Georgian courtroom with a coroner and jurors in period dress, papers on a wooden table, sombre light",
+          "narration": "So who was punished? Nobody. The inquest ruled it an accident, an act of God. The brewery even got its beer tax refunded."
+        },
+        {
+          "image_prompt": "An empty cobbled London street at dusk after a flood, puddles of dark liquid reflecting gas lamps, broken barrel staves",
+          "narration": "Should the brewery have paid for it? Tell us in the comments. Follow for more untold history."
+        }
+      ],
+      "caption": "🍺 ON THIS DAY in 1814, a wave of beer about 15 feet high tore through a London neighbourhood.\n\nA giant vat of porter burst at the Horse Shoe Brewery near Tottenham Court Road, setting off other vats. Eight people died in the flooded streets of St Giles.\n\nThe inquest called it an accident. No one was held responsible — and the brewery later got its beer duty back.\n\nFair verdict, or should someone have paid? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "LondonBeerFlood",
+        "WeirdHistory",
+        "LondonHistory"
+      ],
+      "sources": [
+        "https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-London-Beer-Flood-of-1814/",
+        "https://www.cityam.com/on-this-day-in-1814-the-london-beer-flood/"
       ]
     }
   ]

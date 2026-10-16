@@ -78,6 +78,59 @@
         "https://www.worldhistory.org/Indus_Script/",
         "https://www.britannica.com/topic/Harappan-script"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "Scilly naval disaster of 1707",
+      "title": "The shipwreck that started a race for longitude",
+      "hook_text": "ON THIS DAY: A FLEET HIT ROCKS",
+      "scenes": [
+        {
+          "image_prompt": "Wooden warships of 1707 smashing onto jagged black rocks in a stormy night sea, lantern lights, crashing white surf",
+          "narration": "On this night in 1707, a whole British fleet hit the rocks."
+        },
+        {
+          "image_prompt": "A fleet of 18th-century warships under full sail in fog, sailing toward a dim rocky coastline, grey dusk",
+          "narration": "Admiral Sir Cloudesley Shovell was bringing his warships home to England. In the dark, they reached the Isles of Scilly."
+        },
+        {
+          "image_prompt": "Navigators in tricorn hats bent over a sea chart with dividers by lamplight, worried faces",
+          "narration": "The navigators believed they were clear of land. They were wrong about where they were."
+        },
+        {
+          "image_prompt": "A massive warship splitting on a reef, masts falling, tiny lifeboat in towering waves",
+          "narration": "Four ships were lost. More than thirteen hundred men died, including the admiral himself."
+        },
+        {
+          "image_prompt": "An 18th-century Parliament chamber with men in powdered wigs debating, a scroll reading a reward notice",
+          "narration": "The disaster became famous. In 1714, Parliament offered up to twenty thousand pounds to anyone who could find a ship's longitude at sea."
+        },
+        {
+          "image_prompt": "A beautifully crafted brass and wood marine clock with intricate gears on a velvet table, soft workshop light",
+          "narration": "A clockmaker named John Harrison spent decades building sea clocks to solve it."
+        },
+        {
+          "image_prompt": "Old nautical charts with faded coastlines spread on a table, a brass compass and candle on top",
+          "narration": "The twist? Historians now doubt longitude alone was to blame. Poor charts, currents and bad compasses may have mattered just as much."
+        },
+        {
+          "image_prompt": "Calm sea at dawn over the jagged Western Rocks of Scilly, gulls, no ships",
+          "narration": "Human error or impossible conditions? Tell us. Follow for more untold history."
+        }
+      ],
+      "caption": "🌊 ON THIS DAY in 1707, a British fleet sailed straight onto the rocks of the Isles of Scilly.\n\nAdmiral Sir Cloudesley Shovell's navigators thought they were safely clear of land. Four ships were lost and well over a thousand men died, the admiral among them.\n\nThe disaster helped push Parliament to pass the Longitude Act of 1714, offering up to £20,000 for a reliable way to find longitude at sea — the challenge clockmaker John Harrison spent his life on.\n\nBut historians now argue over the cause: longitude, bad charts, currents or compasses. Which do you think sank the fleet? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "Shipwreck",
+        "NavalHistory",
+        "Longitude"
+      ],
+      "sources": [
+        "https://vdt.cismas.org.uk/trails/association/the-final-voyage",
+        "https://historyofparliament.com/2014/07/03/finding-latitude-in-longitude-parliamentary-funding-of-early-modern-science-and-technology/"
+      ]
     }
   ]
 }

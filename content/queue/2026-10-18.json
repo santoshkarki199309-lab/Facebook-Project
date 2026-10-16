@@ -77,6 +77,60 @@
         "https://invent.org/inductees/hedy-lamarr",
         "https://ethw.org/Hedy_Lamarr"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "The whaleship Essex, the real Moby-Dick",
+      "title": "The whale that sank a ship",
+      "hook_text": "A WHALE RAMMED THIS SHIP. TWICE.",
+      "scenes": [
+        {
+          "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
+          "narration": "In 1820, a whale rammed a ship twice, and sank it."
+        },
+        {
+          "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
+          "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her."
+        },
+        {
+          "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
+          "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats."
+        },
+        {
+          "image_prompt": "Three tiny open wooden boats adrift on an endless empty ocean under a blazing sun, gaunt sailors in ragged shirts",
+          "narration": "Far from any land, they chose a long route toward South America."
+        },
+        {
+          "image_prompt": "A lone rescue ship with full sails approaching a battered small boat on a grey sea, distant figures waving",
+          "narration": "About three months later, rescue ships found the boats. Only eight men survived the ordeal."
+        },
+        {
+          "image_prompt": "A 19th-century writer at a candlelit desk reading an old printed shipwreck narrative, sea charts and a quill nearby",
+          "narration": "First mate Owen Chase wrote it all down. Years later, a writer named Herman Melville read his account."
+        },
+        {
+          "image_prompt": "A blue cloth-bound book with a gold embossed whale on the cover resting on a ship's wooden deck, sea mist",
+          "narration": "Here's the twist. On October 18, 1851, Melville's novel came out in London under a different title: The Whale. Today we call it Moby-Dick."
+        },
+        {
+          "image_prompt": "A huge sperm whale's tail rising above a stormy sea at dusk, no ships in sight",
+          "narration": "Would you ever go back to sea after that? Follow for more untold history."
+        }
+      ],
+      "caption": "🐋 ON THIS DAY in 1851, Moby-Dick was first published — in London, under the title \"The Whale\".\n\nMelville drew on a true disaster. In 1820, a sperm whale rammed the Nantucket whaleship Essex twice and sank her in the middle of the Pacific. Her crew drifted for months in open boats; only eight men survived.\n\nFirst mate Owen Chase's account of the wreck became one of Melville's key inspirations.\n\nWould you have taken the longer route to safety, or risked the unknown islands? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "MobyDick",
+        "Shipwreck",
+        "SurvivalStory"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Essex_(whaleship)",
+        "https://blog.loa.org/2010/10/october-18-1851-melvilles-moby-dick-is.html",
+        "https://education.nationalgeographic.org/resource/tragedy-whaleship-essex"
+      ]
     }
   ]
 }

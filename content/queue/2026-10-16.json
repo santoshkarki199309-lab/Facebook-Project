@@ -78,6 +78,59 @@
         "https://www.history.com/articles/did-vikings-really-wear-horned-helmets",
         "https://www.historyhit.com/types-of-viking-helmets/"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "Burning of Parliament 1834 (tally sticks)",
+      "title": "The receipts that burned down Parliament",
+      "hook_text": "ON THIS DAY: RECEIPTS BURNED PARLIAMENT",
+      "scenes": [
+        {
+          "image_prompt": "The medieval Palace of Westminster engulfed in towering orange flames at night, reflected in the River Thames, crowds silhouetted on a stone bridge, 1834 London",
+          "narration": "Britain's Parliament was burned down by its own old receipts."
+        },
+        {
+          "image_prompt": "Close-up of a bundle of notched wooden tally sticks, split hazel wood with carved notches, lying on a dusty table in a dim medieval counting house",
+          "narration": "For centuries, the government recorded tax payments on notched wooden tally sticks."
+        },
+        {
+          "image_prompt": "A grand Georgian government office with clerks in 1820s coats stacking cartloads of old wooden sticks into a storeroom, candlelight",
+          "narration": "The system was abolished in 1826. That left about two cartloads of old sticks sitting at the Palace of Westminster."
+        },
+        {
+          "image_prompt": "Two labourers in 1830s work clothes feeding bundles of wooden sticks into a glowing iron furnace in a cramped brick cellar",
+          "narration": "On October 16, 1834, workers fed them into two furnaces under the House of Lords. Those furnaces were built for coal, not wood."
+        },
+        {
+          "image_prompt": "Smoke curling up through gaps in an ornate wooden floor of a Gothic chamber, a few visitors in 1830s dress looking down puzzled",
+          "narration": "By afternoon, visitors felt heat rising through the floor. That evening, the woodwork caught fire."
+        },
+        {
+          "image_prompt": "A vast crowd in top hats and bonnets watching a blazing palace from the riverbank, a painter sketching on a small easel",
+          "narration": "Thousands watched the palace burn. The painter J. M. W. Turner was so struck, he later painted the scene twice."
+        },
+        {
+          "image_prompt": "The ancient timber hammerbeam roof of Westminster Hall soaked with water, firemen with leather buckets and hand pumps protecting it amid smoke",
+          "narration": "The twist? Firefighters saved medieval Westminster Hall. And from the ashes rose the Parliament building, Big Ben's tower included, that the world knows today."
+        },
+        {
+          "image_prompt": "The Gothic Revival Houses of Parliament and the clock tower at golden dusk, River Thames in the foreground, no people",
+          "narration": "Was it carelessness, or just bad luck? Tell us below. Follow for more untold history."
+        }
+      ],
+      "caption": "🔥 ON THIS DAY in 1834, Britain's Parliament burned down — and the fuel was its own old tax receipts.\n\nFor centuries the Exchequer recorded payments on notched wooden tally sticks. After the system was scrapped in 1826, about two cartloads were left at the Palace of Westminster. Burning them in furnaces built for coal set the building alight.\n\nWestminster Hall survived. The rest was rebuilt as the Parliament we know today.\n\nWho do you blame: the workers, or the officials who gave the order? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "Westminster",
+        "LondonHistory",
+        "HistoryMysteries"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Burning_of_Parliament",
+        "https://webtest.parliament.uk/about/living-heritage/building/palace/estatehistory/from-the-parliamentary-collections/fire-of-westminster/tallysticks"
+      ]
     }
   ]
 }

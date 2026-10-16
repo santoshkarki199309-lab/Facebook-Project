@@ -78,6 +78,55 @@
         "https://publicmedievalist.com/flat-earth/",
         "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "Myth: sailors drank Nelson's brandy cask",
+      "title": "Was Admiral Nelson shipped home in brandy?",
+      "hook_text": "MYTH vs FACT: PICKLED IN BRANDY?",
+      "scenes": [
+        {
+          "image_prompt": "A wooden 18th-century naval flagship with tattered sails in heavy gunsmoke at sea, autumn light, 1805",
+          "narration": "Britain's greatest admiral went home in a barrel of brandy."
+        },
+        {
+          "image_prompt": "Two lines of wooden warships firing broadsides on a grey Atlantic sea, smoke clouds, distant Spanish coastline",
+          "narration": "On October 21, 1805, Admiral Horatio Nelson won the Battle of Trafalgar. But he was shot during the fight and died that afternoon."
+        },
+        {
+          "image_prompt": "A ship's surgeon in a Georgian naval coat standing thoughtfully below deck by lantern light, medical chest open",
+          "narration": "His surgeon, William Beatty, had a problem. The voyage home would take weeks, and Nelson deserved a state funeral."
+        },
+        {
+          "image_prompt": "A large wooden cask strapped down below deck of a sailing warship, a marine guard standing beside it, lantern glow",
+          "narration": "So the body was placed in a large cask filled with brandy. The spirit was drained and refilled along the way."
+        },
+        {
+          "image_prompt": "Sailors in striped shirts whispering in a dark ship's hold, one holding a tin cup, conspiratorial mood",
+          "narration": "Then came the legend. Sailors supposedly sneaked drinks from the cask, calling it tapping the admiral. Rum even got the nickname Nelson's blood."
+        },
+        {
+          "image_prompt": "A grand cathedral crypt with a black marble tomb lit by candles, Georgian mourners in black",
+          "narration": "The fact? There is no reliable evidence anyone drank from it. Historians treat it as a sailors' tall tale. Nelson was buried in St Paul's Cathedral."
+        },
+        {
+          "image_prompt": "An antique wooden barrel on a moonlit ship's deck, empty tin cup beside it, calm sea",
+          "narration": "Do you believe the legend? Tell us below. Follow for more untold history."
+        }
+      ],
+      "caption": "⚓ MYTH vs FACT — ON THIS DAY in 1805, Admiral Nelson won the Battle of Trafalgar and was killed in the fighting.\n\nTo bring his body home for a state funeral, it was preserved in a cask of brandy, refilled during the long voyage. That much is true.\n\nThe famous story that thirsty sailors secretly drank from it — \"tapping the admiral\" — has no reliable evidence behind it. Historians treat it as a sailors' legend.\n\nWhy do you think this tale has survived for more than 200 years? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "MythVsFact",
+        "NavalHistory",
+        "Trafalgar"
+      ],
+      "sources": [
+        "https://navyhistory.au/the-preservation-of-horatio-lord-nelsons-body/",
+        "https://www.thecollector.com/horatio-nelson-death-legend-trafalgar/"
+      ]
     }
   ]
 }

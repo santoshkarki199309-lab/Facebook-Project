@@ -77,6 +77,59 @@
         "https://www.britannica.com/story/was-napoleon-short",
         "https://www.scienceabc.com/eyeopeners/was-napoleon-really-short.html"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "King John's lost treasure in the Wash",
+      "title": "England's crown jewels vanished in the mud",
+      "hook_text": "LOST & FOUND? A KING'S MISSING TREASURE",
+      "scenes": [
+        {
+          "image_prompt": "A medieval baggage train of horses and wooden carts swallowed by a rushing tide across wet tidal sands, grey English sky, 1216",
+          "narration": "In 1216, the King of England lost his treasure to the sea."
+        },
+        {
+          "image_prompt": "A grim medieval English king in a dark cloak on horseback, surrounded by mounted soldiers, flat marshland behind him",
+          "narration": "King John was marching across eastern England, already in deep trouble."
+        },
+        {
+          "image_prompt": "A vast tidal estuary at low tide, glistening mudflats and channels stretching to the horizon, autumn light",
+          "narration": "In October, his baggage train tried to cross the Wash, a huge tidal estuary full of quicksand."
+        },
+        {
+          "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
+          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions."
+        },
+        {
+          "image_prompt": "An ornate medieval jewelled crown and a ceremonial sword lying in murky water, faint light from above",
+          "narration": "England's crown jewels did disappear around this time. Some writers believed they went down in the mud."
+        },
+        {
+          "image_prompt": "A dark stone castle bedroom lit by lightning during a storm, a sick king in a canopied bed, monks at the bedside",
+          "narration": "Days later, on the night of October 18 to 19, King John died of dysentery at Newark Castle during a thunderstorm."
+        },
+        {
+          "image_prompt": "Modern flat farmland with drainage ditches under a wide sky where the medieval coastline once lay",
+          "narration": "The twist? Not a single piece has ever been found. Was it really lost, or did the story grow over time?"
+        },
+        {
+          "image_prompt": "A metal detector resting on a muddy field at sunset, a single gold coin glinting in the soil",
+          "narration": "Lost treasure, or a legend? Tell us what you think. Follow for more untold history."
+        }
+      ],
+      "caption": "👑 ON THIS DAY in 1216, King John of England died — days after his baggage train was swept away in the Wash.\n\nMedieval chroniclers said carts, horses and treasure vanished into the tidal sands near King's Lynn. England's crown jewels did disappear around this time, but nobody knows exactly what was lost — and nothing has ever been found.\n\nDo you think the treasure is still down there? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "LostTreasure",
+        "MedievalHistory",
+        "KingJohn"
+      ],
+      "sources": [
+        "https://www.historytoday.com/archive/history-matters/death-king-john",
+        "https://historyhit.com/?p=972"
+      ]
     }
   ]
 }

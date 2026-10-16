@@ -77,6 +77,60 @@
         "https://worldhistorycommons.org/cahokia-mounds-state-historic-site",
         "https://www.thecollector.com/cahokia-largest-native-american-city"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "The lost Franklin Expedition",
+      "title": "129 men vanished in the Arctic",
+      "hook_text": "UNSOLVED FILES: 129 MEN NEVER RETURNED",
+      "scenes": [
+        {
+          "image_prompt": "Two wooden 19th-century Royal Navy ships trapped in thick sea ice under a pale Arctic sky, masts frosted, vast white emptiness",
+          "narration": "In 1845, two British ships sailed into the Arctic and vanished."
+        },
+        {
+          "image_prompt": "Two sailing ships departing an English harbour in 1845, crowds waving from the dock, flags flying",
+          "narration": "Sir John Franklin led one hundred and twenty-nine men on HMS Erebus and HMS Terror to find the Northwest Passage."
+        },
+        {
+          "image_prompt": "Close-up of an old handwritten note on weathered paper inside a tin cylinder, set on Arctic stones",
+          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not."
+        },
+        {
+          "image_prompt": "Sailors in heavy wool coats pulling sledges across endless sea ice, abandoned ships in the far distance",
+          "narration": "Franklin had died in 1847. The ships were trapped in ice and abandoned. One hundred and five survivors set off on foot."
+        },
+        {
+          "image_prompt": "A Victorian gentleman reading a newspaper in a London club, shocked expression, gaslight, 1854",
+          "narration": "On October 23, 1854, The Times reported explorer John Rae's grim news: the men had died. Britain was stunned."
+        },
+        {
+          "image_prompt": "Dozens of search ships and sledge teams spread across Arctic ice and islands, map-like wide view",
+          "narration": "More than thirty search expeditions went looking. The ships stayed lost."
+        },
+        {
+          "image_prompt": "An underwater view of a wooden shipwreck on the seabed in green Arctic water, a ship's bell visible, divers' lights",
+          "narration": "Until the twist. Erebus was found in 2014, Terror in 2016. Both sitting on the Arctic seabed."
+        },
+        {
+          "image_prompt": "An empty Arctic shoreline with a lone stone cairn at sunset, ice floes drifting",
+          "narration": "What should explorers search for next? Follow for more untold history."
+        }
+      ],
+      "caption": "🧊 ON THIS DAY in 1854, The Times carried explorer John Rae's report on the fate of the lost Franklin Expedition.\n\nIn 1845, 129 men sailed for the Arctic on HMS Erebus and HMS Terror and never came home. A note left in a cairn in 1848 said the ships had been abandoned in the ice and Franklin was already dead.\n\nMore than 30 search expeditions failed to find the ships. Then Erebus was discovered in 2014 and Terror in 2016.\n\nWe still don't fully know how the men died. What do you think went wrong? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "FranklinExpedition",
+        "ArcticHistory",
+        "UnsolvedMysteries"
+      ],
+      "sources": [
+        "https://canadianmysteries.ca/sites/franklin/home/homeIntro_en.htm",
+        "https://www.historymuseum.ca/blog/a-very-special-piece-of-paper/",
+        "https://canadianmysteries.ca/sites/franklin/archive/text/TimesRae_en.htm"
+      ]
     }
   ]
 }

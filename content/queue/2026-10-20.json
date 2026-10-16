@@ -77,6 +77,59 @@
         "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
         "https://www.dezeen.com/2023/01/17/self-healing-roman-concrete-mit-harvard/amp/"
       ]
+    },
+    {
+      "slot": "d",
+      "type": "reel",
+      "topic": "The Lost Colony of Roanoke",
+      "title": "115 colonists vanished, leaving one word",
+      "hook_text": "UNSOLVED FILES: 115 PEOPLE VANISHED",
+      "scenes": [
+        {
+          "image_prompt": "A deserted 16th-century wooden palisade fort in a coastal pine forest, overgrown, mist drifting, empty doorway",
+          "narration": "In 1590, an English governor came home and found everyone gone."
+        },
+        {
+          "image_prompt": "Small wooden ships anchored off a sandy island coastline with thatched huts and colonists in Elizabethan clothing, 1587",
+          "narration": "In 1587, about one hundred and fifteen colonists settled on Roanoke Island, in what is now North Carolina."
+        },
+        {
+          "image_prompt": "A newborn baby wrapped in linen held by a young Elizabethan woman inside a rough timber cabin, warm firelight",
+          "narration": "Among them was baby Virginia Dare. Her grandfather, Governor John White, sailed to England for supplies."
+        },
+        {
+          "image_prompt": "Spanish and English galleons clashing at sea through cannon smoke, 1588",
+          "narration": "Then war with Spain broke out. White could not return for three years."
+        },
+        {
+          "image_prompt": "An Elizabethan man in a cloak walking through an abandoned overgrown settlement, scattered chests and rusted armour",
+          "narration": "When he returned in August 1590, the settlement was empty. No bodies. No sign of a struggle."
+        },
+        {
+          "image_prompt": "Close-up of the word CROATOAN carved into a weathered wooden post, rough hand-cut letters, forest light",
+          "narration": "Carved on a post was one word: Croatoan. The name of an island about fifty miles south. And there was no cross, their agreed sign of distress."
+        },
+        {
+          "image_prompt": "Archaeologists brushing soil from a corroded sword hilt and pottery shards at a sandy dig site near the sea",
+          "narration": "The twist? Digs on that island, now part of Hatteras, found sixteenth-century European objects. Experts still argue over what they prove."
+        },
+        {
+          "image_prompt": "A lonely beach at dusk with a weathered wooden post standing in the dunes, waves rolling in",
+          "narration": "So where did they go? Tell us your theory. Follow for more untold history."
+        }
+      ],
+      "caption": "🕵️ UNSOLVED FILES: 115 English colonists vanished from Roanoke Island — and left just one word behind.\n\nGovernor John White left the colony in 1587 to fetch supplies. War with Spain kept him away for three years. When he returned in August 1590, the settlement was empty. \"CROATOAN\" was carved on a post, with no cross — the sign they'd agreed to use if they were in danger.\n\nDigs on Hatteras Island and inland have turned up 16th-century European objects, but there is still no proof of what happened.\n\nDid they join Native neighbours, move inland, or try to sail home? 👇",
+      "hashtags": [
+        "HistoryUnsealed",
+        "UnsolvedMysteries",
+        "LostColony",
+        "Roanoke",
+        "AmericanHistory"
+      ],
+      "sources": [
+        "https://www.nationalgeographic.com/magazine/article/lost-colony-roanoke-history-theories-croatoan",
+        "https://livescience.com/vanished-colonists-at-roanoke"
+      ]
     }
   ]
 }
