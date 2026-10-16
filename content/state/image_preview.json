@@ -187,36 +187,25 @@
     }
   },
   "2026-10-18:d:scene 1": {
-    "query": "Whaleship Essex",
+    "query": "Whale Fishery Attacking Sperm Whale",
     "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": {
-      "title": "File:Scrimshaw tusk, unknown artist on an unidentified British whaleship, mid 1800s, walrus tusk, blacking - Peabody Essex Museum - DSC07237.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Scrimshaw_tusk%2C_unknown_artist_on_an_unidentified_British_whaleship%2C_mid_1800s%2C_walrus_tusk%2C_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg/1920px-Scrimshaw_tusk%2C_unknown_artist_on_an_unidentified_British_whaleship%2C_mid_1800s%2C_walrus_tusk%2C_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Scrimshaw_tusk,_unknown_artist_on_an_unidentified_British_whaleship,_mid_1800s,_walrus_tusk,_blacking_-_Peabody_Essex_Museum_-_DSC07237.jpg",
-      "license": "Public domain",
-      "credit": "Daderot / Wikimedia Commons"
-    }
+    "hit": null
   },
   "2026-10-18:d:scene 2": {
-    "query": "Nantucket harbour",
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": null
-  },
-  "2026-10-18:d:scene 3": {
-    "query": "sperm whale ramming ship",
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": null
-  },
-  "2026-10-18:d:scene 4": {
-    "query": "Owen Chase",
+    "query": "Nantucket Massachusetts whaling",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": {
-      "title": "File:Chase Owen at the Autodromo Enzo e Dino Ferrari.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Chase_Owen_at_the_Autodromo_Enzo_e_Dino_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Chase_Owen_at_the_Autodromo_Enzo_e_Dino_Ferrari.jpg",
+      "title": "File:Nantucket Whaling Museum exterior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Nantucket_Whaling_Museum_exterior.jpg/1920px-Nantucket_Whaling_Museum_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nantucket_Whaling_Museum_exterior.jpg",
       "license": "CC BY-SA",
-      "credit": "Carlorace / Wikimedia Commons"
+      "credit": "Kenneth C. Zirkel / Wikimedia Commons"
     }
+  },
+  "2026-10-18:d:scene 3": {
+    "query": "Moby Dick final chase",
+    "topic": "The whaleship Essex, the real Moby-Dick",
+    "hit": null
   },
   "2026-10-18:d:scene 6": {
     "query": "Herman Melville portrait",
@@ -343,9 +332,9 @@
     "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:Nan Madol ruins 6.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
+      "title": "File:Nan Madol ruins 13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons"
     }
@@ -673,11 +662,11 @@
     "query": "Cloudesley Shovell portrait",
     "topic": "Scilly naval disaster of 1707",
     "hit": {
-      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
-      "license": "CC0",
-      "credit": "jacquemart from England / Wikimedia Commons"
+      "title": "File:Sir Cloudesley Shovell, 1650-1707.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell%2C_1650-1707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg",
+      "license": "Public domain",
+      "credit": "Michael Dahl / Wikimedia Commons"
     }
   },
   "2026-10-22:d:scene 6": {
