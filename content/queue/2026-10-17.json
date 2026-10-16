@@ -20,7 +20,8 @@
       ],
       "layout": "card",
       "image_headline": "A wall that hid a library",
-      "series": "LOST & FOUND"
+      "series": "LOST & FOUND",
+      "image_search": "Diamond Sutra frontispiece Dunhuang"
     },
     {
       "slot": "b",
@@ -34,7 +35,8 @@
         },
         {
           "image_prompt": "Close-up of hand-drawn botanical illustrations of impossible plants with tangled roots on aged parchment, faded green and brown inks",
-          "narration": "It is called the Voynich Manuscript. Around two hundred and forty pages, written in a script that matches no known language, next to drawings of plants that botanists cannot identify."
+          "narration": "It is called the Voynich Manuscript. Around two hundred and forty pages, written in a script that matches no known language, next to drawings of plants that botanists cannot identify.",
+          "image_search": "Voynich manuscript botanical folio"
         },
         {
           "image_prompt": "A 1910s rare book dealer in a tweed suit examining an old manuscript under a magnifying glass in a cluttered antique bookshop",
@@ -46,11 +48,13 @@
         },
         {
           "image_prompt": "Codebreakers from different eras around a long table covered in papers and the strange manuscript, wartime cryptographers and modern researchers, moody lamplight",
-          "narration": "Wartime codebreakers, linguists and computer scientists have all tried to crack it. Many have announced a solution. None has convinced the experts."
+          "narration": "Wartime codebreakers, linguists and computer scientists have all tried to crack it. Many have announced a solution. None has convinced the experts.",
+          "image_search": "Voynich manuscript page"
         },
         {
           "image_prompt": "The mysterious manuscript closed on a stone pedestal in a dim vault, shaft of light falling on its worn leather cover",
-          "narration": "So is it a lost language, an unbreakable cipher, or an elaborate medieval hoax? Tell us what you think in the comments, and follow for more."
+          "narration": "So is it a lost language, an unbreakable cipher, or an elaborate medieval hoax? Tell us what you think in the comments, and follow for more.",
+          "image_search": "Beinecke Rare Book Library interior"
         }
       ],
       "caption": "🔐 600 years old. 240 pages. Not one word decoded.\n\nThe Voynich Manuscript is kept at Yale's Beinecke Library as MS 408. Radiocarbon tests in 2009 dated its vellum to roughly 1404–1438 — so it is no modern fake. Yet its script and its strange plants still match nothing we know.\n\nLost language, unbreakable code, or a medieval hoax? Make your case below 👇",
@@ -81,7 +85,8 @@
         "https://en.wikipedia.org/wiki/Antikythera_mechanism",
         "https://www.lindahall.org/about/news/scientist-of-the-day/the-antikythera-mechanism/"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Antikythera mechanism fragment National Archaeological Museum"
     },
     {
       "slot": "d",
@@ -97,7 +102,8 @@
         },
         {
           "image_prompt": "A giant wooden brewing vat about 22 feet tall bound with iron hoops inside a cavernous Georgian brewery, workers looking tiny beside it",
-          "narration": "It began at the Horse Shoe Brewery, near Tottenham Court Road. Inside stood a vat around twenty-two feet tall, full of dark porter."
+          "narration": "It began at the Horse Shoe Brewery, near Tottenham Court Road. Inside stood a vat around twenty-two feet tall, full of dark porter.",
+          "image_search": "Meux brewery Horse Shoe Brewery London"
         },
         {
           "image_prompt": "Close-up of a massive iron hoop slipping on the side of a wooden vat, liquid seeping between the staves, gas lamp light",
@@ -112,7 +118,8 @@
         {
           "image_prompt": "A flooded crowded slum street in Regency London, cellars filling with dark liquid, people in period clothes climbing onto furniture",
           "narration": "It smashed through a wall and flooded the packed streets of St Giles, pouring into basements where families lived. Eight people died.",
-          "label": "ST GILES"
+          "label": "ST GILES",
+          "image_search": "St Giles rookery London engraving"
         },
         {
           "image_prompt": "A Georgian courtroom with a coroner and jurors in period dress, papers on a wooden table, sombre light",

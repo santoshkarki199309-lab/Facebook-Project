@@ -100,7 +100,12 @@ look editorial and curated — like a small history publication, not a content f
 - `image_license` must be one of: `Public domain`, `CC0`, `CC BY`, `CC BY-SA`. Never use
   "all rights reserved", news photos, stock photos, film stills or anything uncertain.
 - `image_credit`: author/institution + source, e.g. `"John White, British Museum / Wikimedia Commons"`.
-- Always still write `image_prompt` — it is the AI fallback if the download fails.
+- **If you cannot open Wikimedia/LOC from your environment, don't guess URLs.** Instead set
+  `image_search`: a precise English search phrase for Wikimedia Commons (e.g. `"Diamond Sutra
+  frontispiece Dunhuang"`, `"Moai Ahu Tongariki Easter Island"`, `"Battle of Trafalgar painting Turner"`).
+  The publisher searches Commons at publish time and only uses openly licensed results.
+  Name the specific object, place, painting or person — never vague moods ("dark mysterious ruins").
+- Always still write `image_prompt` — it is the AI fallback if no real image is found.
 - Use AI only for scenes no real image can show (reconstructions, moments never photographed).
 
 ### Vary the look (never the same template twice in a row)
@@ -112,8 +117,9 @@ look editorial and curated — like a small history publication, not a content f
   myth-vs-fact, "what we found".
 
 ### Upgrade pass (every run)
-For queue posts dated **after today** that have no `image_url`, you may ADD `image_url`,
-`image_license`, `image_credit`, `label`, `layout`, `image_headline`, `series` fields.
+For queue posts dated **after today** that have no `image_url`/`image_search`, you may ADD
+`image_search` (or `image_url` + `image_license` + `image_credit`), `label`, `layout`,
+`image_headline`, `series` fields.
 Never change their text (topic, caption, narration, hook_text, sources).
 
 ## Engagement rules (Meta penalises "engagement bait")

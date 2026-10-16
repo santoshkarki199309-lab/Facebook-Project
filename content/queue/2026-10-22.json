@@ -19,7 +19,8 @@
       ],
       "layout": "card",
       "image_headline": "A wall hid an underground city",
-      "series": "LOST & FOUND"
+      "series": "LOST & FOUND",
+      "image_search": "Derinkuyu underground city"
     },
     {
       "slot": "b",
@@ -33,7 +34,8 @@
         },
         {
           "image_prompt": "A West African king of the fourteenth century in flowing robes and a gold crown seated on a throne in an earthen palace, attendants around him, warm light",
-          "narration": "He was Mansa Musa, ruler of the Mali Empire in West Africa, a land famous for its gold."
+          "narration": "He was Mansa Musa, ruler of the Mali Empire in West Africa, a land famous for its gold.",
+          "image_search": "Mansa Musa Catalan Atlas"
         },
         {
           "image_prompt": "A medieval Cairo street with minarets and crowded markets, a grand procession arriving, merchants watching in awe, dusty golden light",
@@ -45,7 +47,8 @@
         },
         {
           "image_prompt": "An illuminated medieval map-maker's workshop with a large painted parchment map showing a crowned king on a throne holding a golden object, no lettering",
-          "narration": "His fame spread to Europe. A famous European map made in thirteen seventy-five shows him on a throne, holding a piece of gold."
+          "narration": "His fame spread to Europe. A famous European map made in thirteen seventy-five shows him on a throne, holding a piece of gold.",
+          "image_search": "Catalan Atlas"
         },
         {
           "image_prompt": "A lone camel silhouetted on a desert ridge at sunset, warm orange sky",
@@ -81,7 +84,8 @@
         "https://www.worldhistory.org/Indus_Script/",
         "https://www.britannica.com/topic/Harappan-script"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Indus script seal Mohenjo-daro"
     },
     {
       "slot": "d",
@@ -93,7 +97,8 @@
         {
           "image_prompt": "Wooden warships of 1707 smashing onto jagged black rocks in a stormy night sea, lantern lights, crashing white surf",
           "narration": "On this night in 1707, a whole British fleet hit the rocks.",
-          "label": "1707"
+          "label": "1707",
+          "image_search": "Scilly naval disaster 1707 painting"
         },
         {
           "image_prompt": "A fleet of 18th-century warships under full sail in fog, sailing toward a dim rocky coastline, grey dusk",
@@ -102,7 +107,8 @@
         },
         {
           "image_prompt": "Navigators in tricorn hats bent over a sea chart with dividers by lamplight, worried faces",
-          "narration": "The navigators believed they were clear of land. They were wrong about where they were."
+          "narration": "The navigators believed they were clear of land. They were wrong about where they were.",
+          "image_search": "Cloudesley Shovell portrait"
         },
         {
           "image_prompt": "A massive warship splitting on a reef, masts falling, tiny lifeboat in towering waves",
@@ -116,7 +122,8 @@
         {
           "image_prompt": "A beautifully crafted brass and wood marine clock with intricate gears on a velvet table, soft workshop light",
           "narration": "A clockmaker named John Harrison spent decades building sea clocks to solve it.",
-          "label": "JOHN HARRISON"
+          "label": "JOHN HARRISON",
+          "image_search": "John Harrison H1 marine chronometer"
         },
         {
           "image_prompt": "Old nautical charts with faded coastlines spread on a table, a brass compass and candle on top",

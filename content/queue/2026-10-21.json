@@ -19,7 +19,8 @@
         "https://www.historyhit.com/facts-about-mary-anning/"
       ],
       "layout": "card",
-      "image_headline": "The woman science tried to forget"
+      "image_headline": "The woman science tried to forget",
+      "image_search": "Mary Anning portrait"
     },
     {
       "slot": "b",
@@ -29,7 +30,8 @@
       "scenes": [
         {
           "image_prompt": "A nineteenth-century two-masted sailing ship drifting alone on a grey Atlantic ocean, sails partly torn, no people on deck, fog",
-          "narration": "In eighteen seventy-two, sailors found a drifting ship. Everyone aboard had vanished."
+          "narration": "In eighteen seventy-two, sailors found a drifting ship. Everyone aboard had vanished.",
+          "image_search": "Mary Celeste painting"
         },
         {
           "image_prompt": "Sailors on the deck of a sailing ship in 1870s clothing peering through a telescope at a distant vessel, choppy grey sea",
@@ -45,7 +47,8 @@
         },
         {
           "image_prompt": "A Victorian writer at a desk by gaslight writing with a quill pen, stacks of magazines nearby, cozy study",
-          "narration": "Theories piled up. Mutiny. Pirates. A young Arthur Conan Doyle even wrote a fictional tale about it. One modern idea: a faulty pump made the captain think the ship was sinking."
+          "narration": "Theories piled up. Mutiny. Pirates. A young Arthur Conan Doyle even wrote a fictional tale about it. One modern idea: a faulty pump made the captain think the ship was sinking.",
+          "image_search": "Arthur Conan Doyle portrait"
         },
         {
           "image_prompt": "A tiny lifeboat on a vast dark ocean under a stormy sky, the distant silhouette of a sailing ship",
@@ -80,7 +83,8 @@
         "https://publicmedievalist.com/flat-earth/",
         "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Flammarion engraving"
     },
     {
       "slot": "d",
@@ -92,12 +96,14 @@
         {
           "image_prompt": "A wooden 18th-century naval flagship with tattered sails in heavy gunsmoke at sea, autumn light, 1805",
           "narration": "Britain's greatest admiral went home in a barrel of brandy.",
-          "label": "TRAFALGAR"
+          "label": "TRAFALGAR",
+          "image_search": "HMS Victory Portsmouth"
         },
         {
           "image_prompt": "Two lines of wooden warships firing broadsides on a grey Atlantic sea, smoke clouds, distant Spanish coastline",
           "narration": "On October 21, 1805, Admiral Horatio Nelson won the Battle of Trafalgar. But he was shot during the fight and died that afternoon.",
-          "label": "1805"
+          "label": "1805",
+          "image_search": "Battle of Trafalgar painting Turner"
         },
         {
           "image_prompt": "A ship's surgeon in a Georgian naval coat standing thoughtfully below deck by lantern light, medical chest open",
@@ -114,7 +120,8 @@
         {
           "image_prompt": "A grand cathedral crypt with a black marble tomb lit by candles, Georgian mourners in black",
           "narration": "The fact? There is no reliable evidence anyone drank from it. Historians treat it as a sailors' tall tale. Nelson was buried in St Paul's Cathedral.",
-          "label": "MYTH vs FACT"
+          "label": "MYTH vs FACT",
+          "image_search": "Nelson tomb St Paul's Cathedral crypt"
         },
         {
           "image_prompt": "An antique wooden barrel on a moonlit ship's deck, empty tin cup beside it, calm sea",

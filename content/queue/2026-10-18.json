@@ -19,7 +19,8 @@
       ],
       "layout": "card",
       "image_headline": "The stone city of Great Zimbabwe",
-      "series": "MYTH vs FACT"
+      "series": "MYTH vs FACT",
+      "image_search": "Great Zimbabwe Great Enclosure wall"
     },
     {
       "slot": "b",
@@ -29,11 +30,13 @@
       "scenes": [
         {
           "image_prompt": "A dark wooden tablet covered in rows of tiny carved bird and human-like symbols, lit by a single beam of light in a museum vault",
-          "narration": "On a remote Pacific island, people carved a script no one can read today."
+          "narration": "On a remote Pacific island, people carved a script no one can read today.",
+          "image_search": "Rongorongo tablet"
         },
         {
           "image_prompt": "Moai statues on a grassy Easter Island hillside under a dramatic Pacific sky, waves in the distance, cinematic",
-          "narration": "It's called rongorongo, from Rapa Nui, also known as Easter Island. The first outsider to report it was a missionary, in eighteen sixty-four."
+          "narration": "It's called rongorongo, from Rapa Nui, also known as Easter Island. The first outsider to report it was a missionary, in eighteen sixty-four.",
+          "image_search": "Moai Ahu Tongariki Easter Island"
         },
         {
           "image_prompt": "Close-up of hands turning an ancient carved wooden tablet upside down, rows of small engraved symbols, warm candlelight",
@@ -80,7 +83,8 @@
         "https://invent.org/inductees/hedy-lamarr",
         "https://ethw.org/Hedy_Lamarr"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Hedy Lamarr publicity photo"
     },
     {
       "slot": "d",
@@ -97,7 +101,8 @@
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
           "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her.",
-          "label": "NANTUCKET"
+          "label": "NANTUCKET",
+          "image_search": "whaleship Essex"
         },
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
@@ -114,12 +119,14 @@
         },
         {
           "image_prompt": "A 19th-century writer at a candlelit desk reading an old printed shipwreck narrative, sea charts and a quill nearby",
-          "narration": "First mate Owen Chase wrote it all down. Years later, a writer named Herman Melville read his account."
+          "narration": "First mate Owen Chase wrote it all down. Years later, a writer named Herman Melville read his account.",
+          "image_search": "Herman Melville portrait"
         },
         {
           "image_prompt": "A blue cloth-bound book with a gold embossed whale on the cover resting on a ship's wooden deck, sea mist",
           "narration": "Here's the twist. On October 18, 1851, Melville's novel came out in London under a different title: The Whale. Today we call it Moby-Dick.",
-          "label": "1851"
+          "label": "1851",
+          "image_search": "Moby-Dick 1851 first edition"
         },
         {
           "image_prompt": "A huge sperm whale's tail rising above a stormy sea at dusk, no ships in sight",

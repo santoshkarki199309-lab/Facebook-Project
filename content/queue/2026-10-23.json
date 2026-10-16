@@ -19,7 +19,8 @@
       ],
       "layout": "card",
       "image_headline": "Did Vikings reach Minnesota?",
-      "series": "MYTH vs FACT"
+      "series": "MYTH vs FACT",
+      "image_search": "Kensington Runestone"
     },
     {
       "slot": "b",
@@ -33,7 +34,8 @@
         },
         {
           "image_prompt": "A Greek engineer in a simple tunic working at a wooden workbench with brass gears, pipes and scrolls of diagrams in ancient Alexandria, warm oil lamp light",
-          "narration": "It was described by Hero of Alexandria, a Greek engineer in Roman Egypt, who lived around the first century AD."
+          "narration": "It was described by Hero of Alexandria, a Greek engineer in Roman Egypt, who lived around the first century AD.",
+          "image_search": "Hero of Alexandria"
         },
         {
           "image_prompt": "Cutaway illustration of a bronze box showing a coin falling onto a small lever, a beam connected to a plug inside a water container, clean technical style without text",
@@ -45,7 +47,8 @@
         },
         {
           "image_prompt": "A small spinning bronze sphere on a stand releasing jets of steam from two bent nozzles, ancient workshop, dramatic lighting",
-          "narration": "Hero is also credited with the aeolipile, an early steam-powered spinning device, and with theatre automatons."
+          "narration": "Hero is also credited with the aeolipile, an early steam-powered spinning device, and with theatre automatons.",
+          "image_search": "Aeolipile illustration"
         },
         {
           "image_prompt": "A modern vending machine glowing in a dark corridor next to the ghostly image of an ancient bronze temple dispenser",
@@ -80,7 +83,8 @@
         "https://worldhistorycommons.org/cahokia-mounds-state-historic-site",
         "https://www.thecollector.com/cahokia-largest-native-american-city"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Monks Mound Cahokia"
     },
     {
       "slot": "d",
@@ -92,7 +96,8 @@
         {
           "image_prompt": "Two wooden 19th-century Royal Navy ships trapped in thick sea ice under a pale Arctic sky, masts frosted, vast white emptiness",
           "narration": "In 1845, two British ships sailed into the Arctic and vanished.",
-          "label": "1845"
+          "label": "1845",
+          "image_search": "HMS Erebus HMS Terror in the ice"
         },
         {
           "image_prompt": "Two sailing ships departing an English harbour in 1845, crowds waving from the dock, flags flying",
@@ -101,7 +106,8 @@
         },
         {
           "image_prompt": "Close-up of an old handwritten note on weathered paper inside a tin cylinder, set on Arctic stones",
-          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not."
+          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not.",
+          "image_search": "Franklin expedition Victory Point note"
         },
         {
           "image_prompt": "Sailors in heavy wool coats pulling sledges across endless sea ice, abandoned ships in the far distance",
@@ -110,7 +116,8 @@
         {
           "image_prompt": "A Victorian gentleman reading a newspaper in a London club, shocked expression, gaslight, 1854",
           "narration": "On October 23, 1854, The Times reported explorer John Rae's grim news: the men had died. Britain was stunned.",
-          "label": "1854"
+          "label": "1854",
+          "image_search": "Franklin expedition reward poster 1849"
         },
         {
           "image_prompt": "Dozens of search ships and sledge teams spread across Arctic ice and islands, map-like wide view",

@@ -19,7 +19,8 @@
       ],
       "layout": "card",
       "image_headline": "Farmers digging a well found an army",
-      "series": "LOST & FOUND"
+      "series": "LOST & FOUND",
+      "image_search": "Terracotta Army pit 1 Xi'an"
     },
     {
       "slot": "b",
@@ -33,11 +34,13 @@
         },
         {
           "image_prompt": "A medieval European city with half-timbered houses and a cathedral spire, crowded street, summer haze, cinematic",
-          "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days."
+          "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days.",
+          "image_search": "Strasbourg 16th century engraving"
         },
         {
           "image_prompt": "A growing crowd of townspeople in Renaissance-era clothing dancing wildly in a market square, exhausted faces, dust rising",
-          "narration": "Within a week, more than thirty people had joined her. One chronicle claims that within a month, about four hundred were affected."
+          "narration": "Within a week, more than thirty people had joined her. One chronicle claims that within a month, about four hundred were affected.",
+          "image_search": "Dancing mania Hendrik Hondius engraving"
         },
         {
           "image_prompt": "Musicians with drums, fifes and lutes playing on a wooden stage in a medieval guildhall while people dance, candlelight",
@@ -80,7 +83,8 @@
         "https://www.britannica.com/story/was-napoleon-short",
         "https://www.scienceabc.com/eyeopeners/was-napoleon-really-short.html"
       ],
-      "layout": "full"
+      "layout": "full",
+      "image_search": "Napoleon in his study Tuileries Jacques-Louis David"
     },
     {
       "slot": "d",
@@ -96,12 +100,14 @@
         },
         {
           "image_prompt": "A grim medieval English king in a dark cloak on horseback, surrounded by mounted soldiers, flat marshland behind him",
-          "narration": "King John was marching across eastern England, already in deep trouble."
+          "narration": "King John was marching across eastern England, already in deep trouble.",
+          "image_search": "King John of England manuscript"
         },
         {
           "image_prompt": "A vast tidal estuary at low tide, glistening mudflats and channels stretching to the horizon, autumn light",
           "narration": "In October, his baggage train tried to cross the Wash, a huge tidal estuary full of quicksand.",
-          "label": "THE WASH"
+          "label": "THE WASH",
+          "image_search": "The Wash estuary mudflats"
         },
         {
           "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
@@ -114,7 +120,8 @@
         {
           "image_prompt": "A dark stone castle bedroom lit by lightning during a storm, a sick king in a canopied bed, monks at the bedside",
           "narration": "Days later, on the night of October 18 to 19, King John died of dysentery at Newark Castle during a thunderstorm.",
-          "label": "NEWARK CASTLE"
+          "label": "NEWARK CASTLE",
+          "image_search": "Newark Castle Nottinghamshire"
         },
         {
           "image_prompt": "Modern flat farmland with drainage ditches under a wide sky where the medieval coastline once lay",
