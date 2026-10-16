@@ -99,23 +99,22 @@
           "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
           "narration": "In 1820, a whale rammed a ship twice, and sank it.",
           "label": "1820",
-          "image_search": "Whaleship Essex"
+          "image_search": "Whale Fishery Attacking Sperm Whale"
         },
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
           "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her.",
           "label": "NANTUCKET",
-          "image_search": "Nantucket harbour"
+          "image_search": "Nantucket Massachusetts whaling"
         },
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
           "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats.",
-          "image_search": "sperm whale ramming ship"
+          "image_search": "Moby Dick final chase"
         },
         {
           "image_prompt": "Three tiny open wooden boats adrift on an endless empty ocean under a blazing sun, gaunt sailors in ragged shirts",
-          "narration": "Far from any land, they chose a long route toward South America.",
-          "image_search": "Owen Chase"
+          "narration": "Far from any land, they chose a long route toward South America."
         },
         {
           "image_prompt": "A lone rescue ship with full sails approaching a battered small boat on a grey sea, distant figures waving",
