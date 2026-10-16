@@ -124,9 +124,9 @@
     "query": "Great Zimbabwe Great Enclosure wall",
     "topic": "Great Zimbabwe",
     "hit": {
-      "title": "File:Wall of the great enclosure (far), Great Zimbabwe.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure_(far),_Great_Zimbabwe.JPG",
+      "title": "File:Wall of the great enclosure, Great Zimbabwe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure,_Great_Zimbabwe.JPG",
       "license": "CC BY",
       "credit": "Jens Klinzing / Wikimedia Commons"
     }
@@ -187,9 +187,15 @@
     }
   },
   "2026-10-18:d:scene 1": {
-    "query": "Whale Fishery Attacking Sperm Whale",
+    "query": "whaling ship painting",
     "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": null
+    "hit": {
+      "title": "File:Jan Peeters (I) - Whaling Ship Lured onto Rocks by a Whale.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jan_Peeters_%28I%29_-_Whaling_Ship_Lured_onto_Rocks_by_a_Whale.jpg/1920px-Jan_Peeters_%28I%29_-_Whaling_Ship_Lured_onto_Rocks_by_a_Whale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jan_Peeters_(I)_-_Whaling_Ship_Lured_onto_Rocks_by_a_Whale.jpg",
+      "license": "Public domain",
+      "credit": "Jan Peeters the Elder / Wikimedia Commons"
+    }
   },
   "2026-10-18:d:scene 2": {
     "query": "Nantucket Massachusetts whaling",
@@ -203,9 +209,15 @@
     }
   },
   "2026-10-18:d:scene 3": {
-    "query": "Moby Dick final chase",
+    "query": "sperm whale engraving",
     "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": null
+    "hit": {
+      "title": "File:A narwhal and large sperm whale. Engraving. Wellcome V0021599.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg/1920px-A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg",
+      "license": "CC BY",
+      "credit": "Unknown author / Wikimedia Commons"
+    }
   },
   "2026-10-18:d:scene 6": {
     "query": "Herman Melville portrait",
@@ -332,9 +344,9 @@
     "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:Nan Madol ruins 13.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
+      "title": "File:Nan Madol ruins 1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nan_Madol_ruins_1.jpg/1920px-Nan_Madol_ruins_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_1.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons"
     }
@@ -662,11 +674,11 @@
     "query": "Cloudesley Shovell portrait",
     "topic": "Scilly naval disaster of 1707",
     "hit": {
-      "title": "File:Sir Cloudesley Shovell, 1650-1707.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell%2C_1650-1707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg",
-      "license": "Public domain",
-      "credit": "Michael Dahl / Wikimedia Commons"
+      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
+      "license": "CC0",
+      "credit": "jacquemart from England / Wikimedia Commons"
     }
   },
   "2026-10-22:d:scene 6": {
