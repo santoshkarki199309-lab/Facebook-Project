@@ -17,7 +17,10 @@
       "sources": [
         "https://idp.bl.uk/learning/dunhuang/collection-items/cave-17-the-library-cave/",
         "https://en.wikipedia.org/wiki/Dunhuang_manuscripts"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "A wall that hid a library",
+      "series": "LOST & FOUND"
     },
     {
       "slot": "b",
@@ -77,7 +80,8 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Antikythera_mechanism",
         "https://www.lindahall.org/about/news/scientist-of-the-day/the-antikythera-mechanism/"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -88,7 +92,8 @@
       "scenes": [
         {
           "image_prompt": "A towering wave of dark brown liquid bursting through a brick brewery wall onto a narrow cobbled London street, 1814, dramatic low angle",
-          "narration": "In 1814, a wave of beer about fifteen feet high hit London."
+          "narration": "In 1814, a wave of beer about fifteen feet high hit London.",
+          "label": "1814"
         },
         {
           "image_prompt": "A giant wooden brewing vat about 22 feet tall bound with iron hoops inside a cavernous Georgian brewery, workers looking tiny beside it",
@@ -96,15 +101,18 @@
         },
         {
           "image_prompt": "Close-up of a massive iron hoop slipping on the side of a wooden vat, liquid seeping between the staves, gas lamp light",
-          "narration": "On the afternoon of October 17, an iron hoop holding the vat together slipped. About an hour later, the vat burst."
+          "narration": "On the afternoon of October 17, an iron hoop holding the vat together slipped. About an hour later, the vat burst.",
+          "label": "OCTOBER 17"
         },
         {
           "image_prompt": "Wooden vats toppling like dominoes inside a brewery, wave of porter surging, splintered timber, motion blur",
-          "narration": "The blast broke open other vats. More than one hundred and twenty-eight thousand gallons of beer poured out."
+          "narration": "The blast broke open other vats. More than one hundred and twenty-eight thousand gallons of beer poured out.",
+          "label": "128K GALLONS"
         },
         {
           "image_prompt": "A flooded crowded slum street in Regency London, cellars filling with dark liquid, people in period clothes climbing onto furniture",
-          "narration": "It smashed through a wall and flooded the packed streets of St Giles, pouring into basements where families lived. Eight people died."
+          "narration": "It smashed through a wall and flooded the packed streets of St Giles, pouring into basements where families lived. Eight people died.",
+          "label": "ST GILES"
         },
         {
           "image_prompt": "A Georgian courtroom with a coroner and jurors in period dress, papers on a wooden table, sombre light",

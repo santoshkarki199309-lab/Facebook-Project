@@ -16,7 +16,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Nan_Madol",
         "https://smarthistory.org/?p=31902"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "The stone city built on the sea",
+      "series": "UNSOLVED FILES"
     },
     {
       "slot": "b",
@@ -76,7 +79,8 @@
       "sources": [
         "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
         "https://www.dezeen.com/2023/01/17/self-healing-roman-concrete-mit-harvard/amp/"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -87,11 +91,13 @@
       "scenes": [
         {
           "image_prompt": "A deserted 16th-century wooden palisade fort in a coastal pine forest, overgrown, mist drifting, empty doorway",
-          "narration": "In 1590, an English governor came home and found everyone gone."
+          "narration": "In 1590, an English governor came home and found everyone gone.",
+          "label": "1590"
         },
         {
           "image_prompt": "Small wooden ships anchored off a sandy island coastline with thatched huts and colonists in Elizabethan clothing, 1587",
-          "narration": "In 1587, about one hundred and fifteen colonists settled on Roanoke Island, in what is now North Carolina."
+          "narration": "In 1587, about one hundred and fifteen colonists settled on Roanoke Island, in what is now North Carolina.",
+          "label": "1587"
         },
         {
           "image_prompt": "A newborn baby wrapped in linen held by a young Elizabethan woman inside a rough timber cabin, warm firelight",
@@ -107,11 +113,13 @@
         },
         {
           "image_prompt": "Close-up of the word CROATOAN carved into a weathered wooden post, rough hand-cut letters, forest light",
-          "narration": "Carved on a post was one word: Croatoan. The name of an island about fifty miles south. And there was no cross, their agreed sign of distress."
+          "narration": "Carved on a post was one word: Croatoan. The name of an island about fifty miles south. And there was no cross, their agreed sign of distress.",
+          "label": "CROATOAN"
         },
         {
           "image_prompt": "Archaeologists brushing soil from a corroded sword hilt and pottery shards at a sandy dig site near the sea",
-          "narration": "The twist? Digs on that island, now part of Hatteras, found sixteenth-century European objects. Experts still argue over what they prove."
+          "narration": "The twist? Digs on that island, now part of Hatteras, found sixteenth-century European objects. Experts still argue over what they prove.",
+          "label": "HATTERAS"
         },
         {
           "image_prompt": "A lonely beach at dusk with a weathered wooden post standing in the dunes, waves rolling in",

@@ -16,7 +16,10 @@
       "sources": [
         "https://thechinaproject.com/2022/03/30/terracotta-warriors-an-archaeological-find-for-the-ages/",
         "https://worldatlas.com/articles/when-was-the-terracotta-army-discovered.html"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "Farmers digging a well found an army",
+      "series": "LOST & FOUND"
     },
     {
       "slot": "b",
@@ -76,7 +79,8 @@
       "sources": [
         "https://www.britannica.com/story/was-napoleon-short",
         "https://www.scienceabc.com/eyeopeners/was-napoleon-really-short.html"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -87,7 +91,8 @@
       "scenes": [
         {
           "image_prompt": "A medieval baggage train of horses and wooden carts swallowed by a rushing tide across wet tidal sands, grey English sky, 1216",
-          "narration": "In 1216, the King of England lost his treasure to the sea."
+          "narration": "In 1216, the King of England lost his treasure to the sea.",
+          "label": "1216"
         },
         {
           "image_prompt": "A grim medieval English king in a dark cloak on horseback, surrounded by mounted soldiers, flat marshland behind him",
@@ -95,7 +100,8 @@
         },
         {
           "image_prompt": "A vast tidal estuary at low tide, glistening mudflats and channels stretching to the horizon, autumn light",
-          "narration": "In October, his baggage train tried to cross the Wash, a huge tidal estuary full of quicksand."
+          "narration": "In October, his baggage train tried to cross the Wash, a huge tidal estuary full of quicksand.",
+          "label": "THE WASH"
         },
         {
           "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
@@ -107,7 +113,8 @@
         },
         {
           "image_prompt": "A dark stone castle bedroom lit by lightning during a storm, a sick king in a canopied bed, monks at the bedside",
-          "narration": "Days later, on the night of October 18 to 19, King John died of dysentery at Newark Castle during a thunderstorm."
+          "narration": "Days later, on the night of October 18 to 19, King John died of dysentery at Newark Castle during a thunderstorm.",
+          "label": "NEWARK CASTLE"
         },
         {
           "image_prompt": "Modern flat farmland with drainage ditches under a wide sky where the medieval coastline once lay",

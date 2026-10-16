@@ -16,7 +16,10 @@
       "sources": [
         "https://www.minnpost.com/mnopedia/2020/05/the-kensington-runestone-minnesotas-most-brilliant-and-durable-hoax/",
         "https://www.penn.museum/sites/expedition/a-new-north-american-fantasy/"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "Did Vikings reach Minnesota?",
+      "series": "MYTH vs FACT"
     },
     {
       "slot": "b",
@@ -76,7 +79,8 @@
       "sources": [
         "https://worldhistorycommons.org/cahokia-mounds-state-historic-site",
         "https://www.thecollector.com/cahokia-largest-native-american-city"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -87,11 +91,13 @@
       "scenes": [
         {
           "image_prompt": "Two wooden 19th-century Royal Navy ships trapped in thick sea ice under a pale Arctic sky, masts frosted, vast white emptiness",
-          "narration": "In 1845, two British ships sailed into the Arctic and vanished."
+          "narration": "In 1845, two British ships sailed into the Arctic and vanished.",
+          "label": "1845"
         },
         {
           "image_prompt": "Two sailing ships departing an English harbour in 1845, crowds waving from the dock, flags flying",
-          "narration": "Sir John Franklin led one hundred and twenty-nine men on HMS Erebus and HMS Terror to find the Northwest Passage."
+          "narration": "Sir John Franklin led one hundred and twenty-nine men on HMS Erebus and HMS Terror to find the Northwest Passage.",
+          "label": "129 MEN"
         },
         {
           "image_prompt": "Close-up of an old handwritten note on weathered paper inside a tin cylinder, set on Arctic stones",
@@ -103,7 +109,8 @@
         },
         {
           "image_prompt": "A Victorian gentleman reading a newspaper in a London club, shocked expression, gaslight, 1854",
-          "narration": "On October 23, 1854, The Times reported explorer John Rae's grim news: the men had died. Britain was stunned."
+          "narration": "On October 23, 1854, The Times reported explorer John Rae's grim news: the men had died. Britain was stunned.",
+          "label": "1854"
         },
         {
           "image_prompt": "Dozens of search ships and sledge teams spread across Arctic ice and islands, map-like wide view",
@@ -111,7 +118,8 @@
         },
         {
           "image_prompt": "An underwater view of a wooden shipwreck on the seabed in green Arctic water, a ship's bell visible, divers' lights",
-          "narration": "Until the twist. Erebus was found in 2014, Terror in 2016. Both sitting on the Arctic seabed."
+          "narration": "Until the twist. Erebus was found in 2014, Terror in 2016. Both sitting on the Arctic seabed.",
+          "label": "2014 · 2016"
         },
         {
           "image_prompt": "An empty Arctic shoreline with a lone stone cairn at sunset, ice floes drifting",

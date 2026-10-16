@@ -17,7 +17,9 @@
       "sources": [
         "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html",
         "https://www.historyhit.com/facts-about-mary-anning/"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "The woman science tried to forget"
     },
     {
       "slot": "b",
@@ -77,7 +79,8 @@
       "sources": [
         "https://publicmedievalist.com/flat-earth/",
         "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -88,11 +91,13 @@
       "scenes": [
         {
           "image_prompt": "A wooden 18th-century naval flagship with tattered sails in heavy gunsmoke at sea, autumn light, 1805",
-          "narration": "Britain's greatest admiral went home in a barrel of brandy."
+          "narration": "Britain's greatest admiral went home in a barrel of brandy.",
+          "label": "TRAFALGAR"
         },
         {
           "image_prompt": "Two lines of wooden warships firing broadsides on a grey Atlantic sea, smoke clouds, distant Spanish coastline",
-          "narration": "On October 21, 1805, Admiral Horatio Nelson won the Battle of Trafalgar. But he was shot during the fight and died that afternoon."
+          "narration": "On October 21, 1805, Admiral Horatio Nelson won the Battle of Trafalgar. But he was shot during the fight and died that afternoon.",
+          "label": "1805"
         },
         {
           "image_prompt": "A ship's surgeon in a Georgian naval coat standing thoughtfully below deck by lantern light, medical chest open",
@@ -108,7 +113,8 @@
         },
         {
           "image_prompt": "A grand cathedral crypt with a black marble tomb lit by candles, Georgian mourners in black",
-          "narration": "The fact? There is no reliable evidence anyone drank from it. Historians treat it as a sailors' tall tale. Nelson was buried in St Paul's Cathedral."
+          "narration": "The fact? There is no reliable evidence anyone drank from it. Historians treat it as a sailors' tall tale. Nelson was buried in St Paul's Cathedral.",
+          "label": "MYTH vs FACT"
         },
         {
           "image_prompt": "An antique wooden barrel on a moonlit ship's deck, empty tin cup beside it, calm sea",

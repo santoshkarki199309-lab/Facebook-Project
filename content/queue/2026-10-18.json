@@ -16,7 +16,10 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Great_Zimbabwe",
         "https://www.metmuseum.org/perspectives/great-zimbabwe"
-      ]
+      ],
+      "layout": "card",
+      "image_headline": "The stone city of Great Zimbabwe",
+      "series": "MYTH vs FACT"
     },
     {
       "slot": "b",
@@ -76,7 +79,8 @@
       "sources": [
         "https://invent.org/inductees/hedy-lamarr",
         "https://ethw.org/Hedy_Lamarr"
-      ]
+      ],
+      "layout": "full"
     },
     {
       "slot": "d",
@@ -87,11 +91,13 @@
       "scenes": [
         {
           "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
-          "narration": "In 1820, a whale rammed a ship twice, and sank it."
+          "narration": "In 1820, a whale rammed a ship twice, and sank it.",
+          "label": "1820"
         },
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
-          "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her."
+          "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her.",
+          "label": "NANTUCKET"
         },
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
@@ -103,7 +109,8 @@
         },
         {
           "image_prompt": "A lone rescue ship with full sails approaching a battered small boat on a grey sea, distant figures waving",
-          "narration": "About three months later, rescue ships found the boats. Only eight men survived the ordeal."
+          "narration": "About three months later, rescue ships found the boats. Only eight men survived the ordeal.",
+          "label": "8 SURVIVORS"
         },
         {
           "image_prompt": "A 19th-century writer at a candlelit desk reading an old printed shipwreck narrative, sea charts and a quill nearby",
@@ -111,7 +118,8 @@
         },
         {
           "image_prompt": "A blue cloth-bound book with a gold embossed whale on the cover resting on a ship's wooden deck, sea mist",
-          "narration": "Here's the twist. On October 18, 1851, Melville's novel came out in London under a different title: The Whale. Today we call it Moby-Dick."
+          "narration": "Here's the twist. On October 18, 1851, Melville's novel came out in London under a different title: The Whale. Today we call it Moby-Dick.",
+          "label": "1851"
         },
         {
           "image_prompt": "A huge sperm whale's tail rising above a stormy sea at dusk, no ships in sight",
