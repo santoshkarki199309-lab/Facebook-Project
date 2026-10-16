@@ -79,11 +79,11 @@
     "query": "Rongorongo tablet",
     "topic": "Rongorongo, the script of Easter Island",
     "hit": {
-      "title": "File:Rongorongo R-a Atua-Mata-Riri.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Rongorongo_R-a_Atua-Mata-Riri.jpg/1920px-Rongorongo_R-a_Atua-Mata-Riri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_R-a_Atua-Mata-Riri.jpg",
-      "license": "CC BY-SA",
-      "credit": "unknown (for GFDL, cite source above as old copyright holder) / Wikimedia Commons"
+      "title": "File:Rongorongo tablet (4275771908).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rongorongo_tablet_%284275771908%29.jpg/1920px-Rongorongo_tablet_%284275771908%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_tablet_(4275771908).jpg",
+      "license": "CC BY",
+      "credit": "christopherhu / Wikimedia Commons"
     }
   },
   "2026-10-18:b:scene 2": {
@@ -109,15 +109,9 @@
     }
   },
   "2026-10-18:d:scene 2": {
-    "query": "whaleship Essex",
+    "query": "whaleship Essex sperm whale",
     "topic": "The whaleship Essex, the real Moby-Dick",
-    "hit": {
-      "title": "File:Essex Gospel Community Church, Essex, Ontario, 2025-08-30 05.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Essex_Gospel_Community_Church%2C_Essex%2C_Ontario%2C_2025-08-30_05.jpg/1920px-Essex_Gospel_Community_Church%2C_Essex%2C_Ontario%2C_2025-08-30_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Essex_Gospel_Community_Church,_Essex,_Ontario,_2025-08-30_05.jpg",
-      "license": "CC BY-SA",
-      "credit": "Chris Woodrich / Wikimedia Commons"
-    }
+    "hit": null
   },
   "2026-10-18:d:scene 6": {
     "query": "Herman Melville portrait",
@@ -145,9 +139,9 @@
     "query": "Terracotta Army pit 1 Xi'an",
     "topic": "The Terracotta Army",
     "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
+      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051282).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg",
       "license": "CC BY",
       "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons"
     }
@@ -155,13 +149,7 @@
   "2026-10-19:b:scene 2": {
     "query": "Strasbourg 16th century engraving",
     "topic": "The Dancing Plague of 1518",
-    "hit": {
-      "title": "File:Netherlandish 16th Century or Attributed to Cornelis Cort after Albrecht D\u00fcrer - Joachim Patinir.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Netherlandish_16th_Century_or_Attributed_to_Cornelis_Cort_after_Albrecht_D%C3%BCrer_-_Joachim_Patinir.jpg/1920px-Netherlandish_16th_Century_or_Attributed_to_Cornelis_Cort_after_Albrecht_D%C3%BCrer_-_Joachim_Patinir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Netherlandish_16th_Century_or_Attributed_to_Cornelis_Cort_after_Albrecht_D%C3%BCrer_-_Joachim_Patinir.jpg",
-      "license": "Public domain",
-      "credit": "Attributed to Cornelis Cort / After Albrecht D\u00fcrer / Wikimedia Commons"
-    }
+    "hit": null
   },
   "2026-10-19:b:scene 3": {
     "query": "Dancing mania Hendrik Hondius engraving",
@@ -196,17 +184,6 @@
       "credit": "See description / Wikimedia Commons"
     }
   },
-  "2026-10-19:d:scene 3": {
-    "query": "The Wash estuary mudflats",
-    "topic": "King John's lost treasure in the Wash",
-    "hit": {
-      "title": "File:Sunrise Over Mudflats - Flickr - bob in swamp.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunrise_Over_Mudflats_-_Flickr_-_bob_in_swamp.jpg/1920px-Sunrise_Over_Mudflats_-_Flickr_-_bob_in_swamp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Sunrise_Over_Mudflats_-_Flickr_-_bob_in_swamp.jpg",
-      "license": "CC BY",
-      "credit": "Bob Peterson from Fort Myers Beach, Planet Earth! / Wikimedia Commons"
-    }
-  },
   "2026-10-19:d:scene 6": {
     "query": "Newark Castle Nottinghamshire",
     "topic": "King John's lost treasure in the Wash",
@@ -219,14 +196,14 @@
     }
   },
   "2026-10-20:a:post": {
-    "query": "Nan Madol Pohnpei ruins basalt",
+    "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:U S Coast Guard experience culture in Pohnpei, part of Operation Rematau (7545904).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/U_S_Coast_Guard_experience_culture_in_Pohnpei%2C_part_of_Operation_Rematau_%287545904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:U_S_Coast_Guard_experience_culture_in_Pohnpei,_part_of_Operation_Rematau_(7545904).jpg",
-      "license": "Public domain",
-      "credit": "U.S. Coast Guard photo by Chief Warrant Officer Sara Muir / Wikimedia Commons"
+      "title": "File:Nan Madol ruins 13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
+      "license": "CC BY-SA",
+      "credit": "Uhooep / Wikimedia Commons"
     }
   },
   "2026-10-20:b:scene 1": {
@@ -255,11 +232,11 @@
     "query": "Dolphin fresco Knossos",
     "topic": "Linear A, the undeciphered Minoan script",
     "hit": {
-      "title": "File:Dauphins de knossos.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dauphins_de_knossos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Dauphins_de_knossos.jpg",
+      "title": "File:Knossos fresco of dolphins in queen's palace.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Knossos_fresco_of_dolphins_in_queen%27s_palace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Knossos_fresco_of_dolphins_in_queen%27s_palace.JPG",
       "license": "CC BY-SA",
-      "credit": "Armagnac-commons / Wikimedia Commons"
+      "credit": "Unknown author / Wikimedia Commons"
     }
   },
   "2026-10-20:c:post": {
@@ -282,11 +259,11 @@
     "query": "Spanish Armada battle painting",
     "topic": "The Lost Colony of Roanoke",
     "hit": {
-      "title": "File:La batalla de Gravelinas, por Nicholas Hilliard.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg/1920px-La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:La_batalla_de_Gravelinas,_por_Nicholas_Hilliard.jpg",
+      "title": "File:Spanish Armada fireships.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Spanish_Armada_fireships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Spanish_Armada_fireships.jpg",
       "license": "Public domain",
-      "credit": "Unknown authorUnknown author / Wikimedia Commons"
+      "credit": "anonymous / Wikimedia Commons"
     }
   },
   "2026-10-20:d:scene 6": {
@@ -298,22 +275,22 @@
     "query": "Mary Anning portrait",
     "topic": "Mary Anning, fossil hunter of Lyme Regis",
     "hit": {
-      "title": "File:Portrait of Lady Dinorben (4670613).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Portrait_of_Lady_Dinorben_%284670613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lady_Dinorben_(4670613).jpg",
+      "title": "File:Mary Anning by B. J. Donne.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mary_Anning_by_B._J._Donne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Anning_by_B._J._Donne.jpg",
       "license": "Public domain",
-      "credit": "Mary Ann Knight / Wikimedia Commons"
+      "credit": "B. J. Donne / Wikimedia Commons"
     }
   },
   "2026-10-21:b:scene 1": {
     "query": "Mary Celeste painting",
     "topic": "The Mary Celeste",
     "hit": {
-      "title": "File:Marianne Celeste Dragon Dimitry.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Marianne_Celeste_Dragon_Dimitry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Marianne_Celeste_Dragon_Dimitry.jpg",
+      "title": "File:Mary Celeste as Amazon in 1861.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mary_Celeste_as_Amazon_in_1861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Celeste_as_Amazon_in_1861.jpg",
       "license": "Public domain",
-      "credit": "Jos\u00e9 Francisco Xavier de Salazar y Mendoza / Wikimedia Commons"
+      "credit": "Unconfirmed, possibly Honore Pellegrin (1800\u2013c.1870). This speculative attributi / Wikimedia Commons"
     }
   },
   "2026-10-21:b:scene 5": {
@@ -331,9 +308,9 @@
     "query": "Flammarion engraving",
     "topic": "Myth: medieval people thought the Earth was flat",
     "hit": {
-      "title": "File:FlammarionWoodcut.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/FlammarionWoodcut.jpg/1920px-FlammarionWoodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:FlammarionWoodcut.jpg",
+      "title": "File:Flammarion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Flammarion.jpg/1920px-Flammarion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flammarion.jpg",
       "license": "Public domain",
       "credit": "AnonymousUnknown author / Wikimedia Commons"
     }
@@ -405,14 +382,14 @@
     }
   },
   "2026-10-22:c:post": {
-    "query": "Indus script seal Mohenjo-daro",
+    "query": "Indus Valley unicorn seal",
     "topic": "The Indus script",
     "hit": {
-      "title": "File:Disha Kaka Boat with Direction Finding Birds, model of Mohenjo-Daro seal, 3000 BCE.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Disha_Kaka_Boat_with_Direction_Finding_Birds%2C_model_of_Mohenjo-Daro_seal%2C_3000_BCE.jpg/1920px-Disha_Kaka_Boat_with_Direction_Finding_Birds%2C_model_of_Mohenjo-Daro_seal%2C_3000_BCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Disha_Kaka_Boat_with_Direction_Finding_Birds,_model_of_Mohenjo-Daro_seal,_3000_BCE.jpg",
+      "title": "File:Unicorn. Mold of Seal, Indus valley civilization.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Unicorn._Mold_of_Seal%2C_Indus_valley_civilization.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Unicorn._Mold_of_Seal,_Indus_valley_civilization.jpg",
       "license": "CC0",
-      "credit": "Gary Todd / Wikimedia Commons"
+      "credit": "Ismoon (talk) 17:48, 21 February 2012 (UTC) / Wikimedia Commons"
     }
   },
   "2026-10-22:d:scene 1": {
