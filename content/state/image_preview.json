@@ -10,8 +10,30 @@
       "credit": "Unknown author / Wikimedia Commons"
     }
   },
+  "2026-10-17:b:scene 1": {
+    "query": "Voynich manuscript astronomical",
+    "topic": "The Voynich Manuscript",
+    "hit": {
+      "title": "File:Voynich manuscript astronomical example 70r crop.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Voynich_manuscript_astronomical_example_70r_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Voynich_manuscript_astronomical_example_70r_crop.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons"
+    }
+  },
   "2026-10-17:b:scene 2": {
-    "query": "Voynich manuscript botanical folio",
+    "query": "Voynich manuscript plant",
+    "topic": "The Voynich Manuscript",
+    "hit": {
+      "title": "File:Voynich Manuscript (63).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Voynich_Manuscript_%2863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(63).jpg",
+      "license": "Public domain",
+      "credit": "Unknown authorUnknown author / Wikimedia Commons"
+    }
+  },
+  "2026-10-17:b:scene 3": {
+    "query": "Wilfrid Voynich",
     "topic": "The Voynich Manuscript",
     "hit": null
   },
@@ -59,10 +81,32 @@
       "credit": "Scan by NYPL / Wikimedia Commons"
     }
   },
-  "2026-10-17:d:scene 5": {
-    "query": "St Giles rookery London engraving",
+  "2026-10-17:d:scene 3": {
+    "query": "brewery vat interior engraving",
     "topic": "The London Beer Flood of 1814",
     "hit": null
+  },
+  "2026-10-17:d:scene 5": {
+    "query": "Hogarth Gin Lane",
+    "topic": "The London Beer Flood of 1814",
+    "hit": {
+      "title": "File:William Hogarth - Gin Lane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/William_Hogarth_-_Gin_Lane.jpg/1920px-William_Hogarth_-_Gin_Lane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:William_Hogarth_-_Gin_Lane.jpg",
+      "license": "Public domain",
+      "credit": "William Hogarth / Wikimedia Commons"
+    }
+  },
+  "2026-10-17:d:scene 6": {
+    "query": "Tottenham Court Road engraving",
+    "topic": "The London Beer Flood of 1814",
+    "hit": {
+      "title": "File:Anonymous - Chapel of St Giles in the Fields, Church of St James, Tottenham Court Road - B1977.14.18218 - Yale Center for British Art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Anonymous_-_Chapel_of_St_Giles_in_the_Fields%2C_Church_of_St_James%2C_Tottenham_Court_Road_-_B1977.14.18218_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Chapel_of_St_Giles_in_the_Fields,_Church_of_St_James,_Tottenham_Court_Road_-_B1977.14.18218_-_Yale_Center_for_British_Art.jpg",
+      "license": "CC0",
+      "credit": "anonymous / Wikimedia Commons"
+    }
   },
   "2026-10-18:a:post": {
     "query": "Great Zimbabwe Great Enclosure wall",
@@ -97,19 +141,50 @@
       "credit": "Rivi / Wikimedia Commons"
     }
   },
-  "2026-10-18:c:post": {
-    "query": "Hedy Lamarr publicity photo",
-    "topic": "Hedy Lamarr and frequency hopping",
+  "2026-10-18:b:scene 3": {
+    "query": "Rongorongo Aruku Kurenga",
+    "topic": "Rongorongo, the script of Easter Island",
     "hit": {
-      "title": "File:Clark Gable and Hedy Lamarr Publicity Photo for Comrade X 1940.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Clark_Gable_and_Hedy_Lamarr_Publicity_Photo_for_Comrade_X_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Clark_Gable_and_Hedy_Lamarr_Publicity_Photo_for_Comrade_X_1940.jpg",
-      "license": "Public domain",
-      "credit": "Unknown authorUnknown author / Wikimedia Commons"
+      "title": "File:Rongorongo B-v Aruku-Kurenga (end).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rongorongo_B-v_Aruku-Kurenga_%28end%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_B-v_Aruku-Kurenga_(end).jpg",
+      "license": "CC BY-SA",
+      "credit": "Photograph from the Trocadero Museum (for GFDL, cite source above as old copyrig / Wikimedia Commons"
     }
   },
+  "2026-10-18:b:scene 4": {
+    "query": "Rano Raraku moai Rapa Nui",
+    "topic": "Rongorongo, the script of Easter Island",
+    "hit": {
+      "title": "File:Moai Rano raraku.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/1920px-Moai_Rano_raraku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Moai_Rano_raraku.jpg",
+      "license": "Public domain",
+      "credit": "Aurbina / Wikimedia Commons"
+    }
+  },
+  "2026-10-18:b:scene 5": {
+    "query": "Rongorongo Santiago Staff",
+    "topic": "Rongorongo, the script of Easter Island",
+    "hit": null
+  },
+  "2026-10-18:c:post": {
+    "query": "Hedy Lamarr Heavenly Body 1944 publicity",
+    "topic": "Hedy Lamarr and frequency hopping",
+    "hit": null
+  },
+  "2026-10-18:d:scene 1": {
+    "query": "sperm whale attacking whaleboat",
+    "topic": "The whaleship Essex, the real Moby-Dick",
+    "hit": null
+  },
   "2026-10-18:d:scene 2": {
-    "query": "whaleship Essex sperm whale",
+    "query": "Nantucket harbor whaling",
+    "topic": "The whaleship Essex, the real Moby-Dick",
+    "hit": null
+  },
+  "2026-10-18:d:scene 3": {
+    "query": "Whale-Ship Essex narrative Owen Chase",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
@@ -139,15 +214,20 @@
     "query": "Terracotta Army pit 1 Xi'an",
     "topic": "The Terracotta Army",
     "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051282).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg",
+      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
       "license": "CC BY",
       "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons"
     }
   },
+  "2026-10-19:b:scene 1": {
+    "query": "Brueghel dancing pilgrims Molenbeek",
+    "topic": "The Dancing Plague of 1518",
+    "hit": null
+  },
   "2026-10-19:b:scene 2": {
-    "query": "Strasbourg 16th century engraving",
+    "query": "Strasbourg Merian engraving",
     "topic": "The Dancing Plague of 1518",
     "hit": null
   },
@@ -162,6 +242,11 @@
       "credit": "Unknown author / Wikimedia Commons"
     }
   },
+  "2026-10-19:b:scene 5": {
+    "query": "Saint Vitus altarpiece",
+    "topic": "The Dancing Plague of 1518",
+    "hit": null
+  },
   "2026-10-19:c:post": {
     "query": "Napoleon in his study Tuileries Jacques-Louis David",
     "topic": "Myth: Napoleon was short",
@@ -171,6 +256,17 @@
       "page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
       "license": "Public domain",
       "credit": "Jacques-Louis David / Wikimedia Commons"
+    }
+  },
+  "2026-10-19:d:scene 1": {
+    "query": "King John effigy Worcester Cathedral",
+    "topic": "King John's lost treasure in the Wash",
+    "hit": {
+      "title": "File:Worcester Cathedral. The Choir. (NBY 441801).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Worcester_Cathedral._The_Choir._%28NBY_441801%29.jpg/1920px-Worcester_Cathedral._The_Choir._%28NBY_441801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Worcester_Cathedral._The_Choir._(NBY_441801).jpg",
+      "license": "Public domain",
+      "credit": "Unknown authorUnknown author / Wikimedia Commons"
     }
   },
   "2026-10-19:d:scene 2": {
@@ -183,6 +279,22 @@
       "license": "Public domain",
       "credit": "See description / Wikimedia Commons"
     }
+  },
+  "2026-10-19:d:scene 3": {
+    "query": "The Wash Norfolk coast",
+    "topic": "King John's lost treasure in the Wash",
+    "hit": {
+      "title": "File:The Wash, Hunstanton to Heacham, Norfolk UK (47316716362).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Wash%2C_Hunstanton_to_Heacham%2C_Norfolk_UK_%2847316716362%29.jpg/1920px-The_Wash%2C_Hunstanton_to_Heacham%2C_Norfolk_UK_%2847316716362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Wash,_Hunstanton_to_Heacham,_Norfolk_UK_(47316716362).jpg",
+      "license": "CC BY-SA",
+      "credit": "Peter Reed / Wikimedia Commons"
+    }
+  },
+  "2026-10-19:d:scene 4": {
+    "query": "King John treasure Wash",
+    "topic": "King John's lost treasure in the Wash",
+    "hit": null
   },
   "2026-10-19:d:scene 6": {
     "query": "Newark Castle Nottinghamshire",
@@ -199,9 +311,9 @@
     "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:Nan Madol ruins 13.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
+      "title": "File:Nan Madol ruins 6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons"
     }
@@ -228,6 +340,17 @@
       "credit": "Moonik / Wikimedia Commons"
     }
   },
+  "2026-10-20:b:scene 3": {
+    "query": "Linear B tablet Knossos",
+    "topic": "Linear A, the undeciphered Minoan script",
+    "hit": {
+      "title": "File:Linear B plaque cretan administration Knossos AMH.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Linear_B_plaque_cretan_administration_Knossos_AMH.jpg/1920px-Linear_B_plaque_cretan_administration_Knossos_AMH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Linear_B_plaque_cretan_administration_Knossos_AMH.jpg",
+      "license": "CC0",
+      "credit": "Jebulon / Wikimedia Commons"
+    }
+  },
   "2026-10-20:b:scene 4": {
     "query": "Dolphin fresco Knossos",
     "topic": "Linear A, the undeciphered Minoan script",
@@ -250,10 +373,38 @@
       "credit": "Wilfredor / Wikimedia Commons"
     }
   },
-  "2026-10-20:d:scene 2": {
-    "query": "John White Roanoke watercolour village",
+  "2026-10-20:d:scene 1": {
+    "query": "La Virginea Pars John White",
     "topic": "The Lost Colony of Roanoke",
-    "hit": null
+    "hit": {
+      "title": "File:John White - La Virginea Pars, map of the E coast of N America from Chesapeake bay to Cape Lookout, 1906,0509.1.3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/John_White_-_La_Virginea_Pars%2C_map_of_the_E_coast_of_N_America_from_Chesapeake_bay_to_Cape_Lookout%2C_1906%2C0509.1.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:John_White_-_La_Virginea_Pars,_map_of_the_E_coast_of_N_America_from_Chesapeake_bay_to_Cape_Lookout,_1906,0509.1.3.jpg",
+      "license": "Public domain",
+      "credit": "John White / Wikimedia Commons"
+    }
+  },
+  "2026-10-20:d:scene 2": {
+    "query": "Secotan village John White",
+    "topic": "The Lost Colony of Roanoke",
+    "hit": {
+      "title": "File:Village of Secotan) - T.B LCCN2001695723.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Village_of_Secotan%29_-_T.B_LCCN2001695723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Village_of_Secotan)_-_T.B_LCCN2001695723.jpg",
+      "license": "Public domain",
+      "credit": "Bry, Theodor de, 1528-1598, engraver; White, John, active 1585-1593, artist / Wikimedia Commons"
+    }
+  },
+  "2026-10-20:d:scene 3": {
+    "query": "Baptism of Virginia Dare",
+    "topic": "The Lost Colony of Roanoke",
+    "hit": {
+      "title": "File:Baptism of Virginia Dare.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Baptism_of_Virginia_Dare.jpeg/1920px-Baptism_of_Virginia_Dare.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Baptism_of_Virginia_Dare.jpeg",
+      "license": "Public domain",
+      "credit": "William Ludwell Sheppard / Wikimedia Commons"
+    }
   },
   "2026-10-20:d:scene 4": {
     "query": "Spanish Armada battle painting",
@@ -266,10 +417,16 @@
       "credit": "anonymous / Wikimedia Commons"
     }
   },
-  "2026-10-20:d:scene 6": {
-    "query": "Croatoan tree carving engraving",
+  "2026-10-20:d:scene 5": {
+    "query": "Fort Raleigh Roanoke Island",
     "topic": "The Lost Colony of Roanoke",
-    "hit": null
+    "hit": {
+      "title": "File:Freedmen's Colony on Roanoke Island, Fort Raleigh National Historic Site, Manteo, Roanoke Island, North Carolina (14459267164).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Freedmen%27s_Colony_on_Roanoke_Island%2C_Fort_Raleigh_National_Historic_Site%2C_Manteo%2C_Roanoke_Island%2C_North_Carolina_%2814459267164%29.jpg/1920px-Freedmen%27s_Colony_on_Roanoke_Island%2C_Fort_Raleigh_National_Historic_Site%2C_Manteo%2C_Roanoke_Island%2C_North_Carolina_%2814459267164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Freedmen%27s_Colony_on_Roanoke_Island,_Fort_Raleigh_National_Historic_Site,_Manteo,_Roanoke_Island,_North_Carolina_(14459267164).jpg",
+      "license": "CC BY-SA",
+      "credit": "Ken Lund from Reno, Nevada, USA / Wikimedia Commons"
+    }
   },
   "2026-10-21:a:post": {
     "query": "Mary Anning portrait",
@@ -293,6 +450,22 @@
       "credit": "Unconfirmed, possibly Honore Pellegrin (1800\u2013c.1870). This speculative attributi / Wikimedia Commons"
     }
   },
+  "2026-10-21:b:scene 2": {
+    "query": "Dei Gratia brigantine",
+    "topic": "The Mary Celeste",
+    "hit": {
+      "title": "File:Globus terrestris projectus - D. Philippo IV, Dei Gratia Catholico Hispaniarum Indiarumque Reg. totius monarchar - Invectissimo, Octavii Pisani delineavit - btv1b7200176v (3 of 7).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Globus_terrestris_projectus_-_D._Philippo_IV%2C_Dei_Gratia_Catholico_Hispaniarum_Indiarumque_Reg._totius_monarchar_-_Invectissimo%2C_Octavii_Pisani_delineavit_-_btv1b7200176v_%283_of_7%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Globus_terrestris_projectus_-_D._Philippo_IV,_Dei_Gratia_Catholico_Hispaniarum_Indiarumque_Reg._totius_monarchar_-_Invectissimo,_Octavii_Pisani_delineavit_-_btv1b7200176v_(3_of_7).jpg",
+      "license": "Public domain",
+      "credit": "Pisani, Octavio (1575-16..). Cartographe Philippe IV (1605-1665 ; roi d'Espagne) / Wikimedia Commons"
+    }
+  },
+  "2026-10-21:b:scene 4": {
+    "query": "Benjamin Spooner Briggs",
+    "topic": "The Mary Celeste",
+    "hit": null
+  },
   "2026-10-21:b:scene 5": {
     "query": "Arthur Conan Doyle portrait",
     "topic": "The Mary Celeste",
@@ -305,14 +478,14 @@
     }
   },
   "2026-10-21:c:post": {
-    "query": "Flammarion engraving",
+    "query": "Gossuin Image du monde",
     "topic": "Myth: medieval people thought the Earth was flat",
     "hit": {
-      "title": "File:Flammarion.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Flammarion.jpg/1920px-Flammarion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Flammarion.jpg",
+      "title": "File:Gossuin de Metz, Image du monde, en vers. - btv1b84496854 (039 of 155).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Gossuin_de_Metz%2C_Image_du_monde%2C_en_vers._-_btv1b84496854_%28039_of_155%29.jpg/1920px-Gossuin_de_Metz%2C_Image_du_monde%2C_en_vers._-_btv1b84496854_%28039_of_155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Gossuin_de_Metz,_Image_du_monde,_en_vers._-_btv1b84496854_(039_of_155).jpg",
       "license": "Public domain",
-      "credit": "AnonymousUnknown author / Wikimedia Commons"
+      "credit": "Gossuin de Metz. Auteur du texte / Wikimedia Commons"
     }
   },
   "2026-10-21:d:scene 1": {
@@ -337,6 +510,28 @@
       "credit": "J. M. W. Turner / Wikimedia Commons"
     }
   },
+  "2026-10-21:d:scene 3": {
+    "query": "William Beatty surgeon portrait",
+    "topic": "Myth: sailors drank Nelson's brandy cask",
+    "hit": {
+      "title": "File:Portrait of Sir William Beatty (1773-1842) Wellcome M0006154.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_Sir_William_Beatty_%281773-1842%29_Wellcome_M0006154.jpg/1920px-Portrait_of_Sir_William_Beatty_%281773-1842%29_Wellcome_M0006154.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_William_Beatty_(1773-1842)_Wellcome_M0006154.jpg",
+      "license": "CC BY",
+      "credit": "Unknown author / Wikimedia Commons"
+    }
+  },
+  "2026-10-21:d:scene 5": {
+    "query": "Death of Nelson Arthur Devis",
+    "topic": "Myth: sailors drank Nelson's brandy cask",
+    "hit": {
+      "title": "File:Arthur William Devis (1762-1822) - The Death of Nelson - RCIN 405920 - Royal Collection.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Arthur_William_Devis_%281762-1822%29_-_The_Death_of_Nelson_-_RCIN_405920_-_Royal_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Arthur_William_Devis_(1762-1822)_-_The_Death_of_Nelson_-_RCIN_405920_-_Royal_Collection.jpg",
+      "license": "Public domain",
+      "credit": "Arthur William Devis / Wikimedia Commons"
+    }
+  },
   "2026-10-21:d:scene 6": {
     "query": "Nelson tomb St Paul's Cathedral crypt",
     "topic": "Myth: sailors drank Nelson's brandy cask",
@@ -359,6 +554,17 @@
       "credit": "Nevit Dilmen (talk) / Wikimedia Commons"
     }
   },
+  "2026-10-22:b:scene 1": {
+    "query": "Djinguereber Mosque Timbuktu",
+    "topic": "Mansa Musa's pilgrimage through Cairo",
+    "hit": {
+      "title": "File:Djinguereber Mosque, Timbuktu, Mali.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Djinguereber_Mosque%2C_Timbuktu%2C_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Djinguereber_Mosque,_Timbuktu,_Mali.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dr. Ond\u0159ej Havelka (cestovatel) / Wikimedia Commons"
+    }
+  },
   "2026-10-22:b:scene 2": {
     "query": "Mansa Musa Catalan Atlas",
     "topic": "Mansa Musa's pilgrimage through Cairo",
@@ -368,6 +574,28 @@
       "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
       "license": "Public domain",
       "credit": "attributed to Abraham Cresques / Wikimedia Commons"
+    }
+  },
+  "2026-10-22:b:scene 3": {
+    "query": "Sultan Hassan mosque Cairo",
+    "topic": "Mansa Musa's pilgrimage through Cairo",
+    "hit": {
+      "title": "File:Mosque-Madrassa of Sultan Hassan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mosque-Madrassa_of_Sultan_Hassan.jpg/1920px-Mosque-Madrassa_of_Sultan_Hassan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mosque-Madrassa_of_Sultan_Hassan.jpg",
+      "license": "CC BY-SA",
+      "credit": "Mohammed Moussa / Wikimedia Commons"
+    }
+  },
+  "2026-10-22:b:scene 4": {
+    "query": "Mamluk gold dinar",
+    "topic": "Mansa Musa's pilgrimage through Cairo",
+    "hit": {
+      "title": "File:Gold dinar of Lajin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gold_dinar_of_Lajin.jpg/1920px-Gold_dinar_of_Lajin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_dinar_of_Lajin.jpg",
+      "license": "CC0",
+      "credit": "American Numismatic Society / Wikimedia Commons"
     }
   },
   "2026-10-22:b:scene 5": {
@@ -393,9 +621,26 @@
     }
   },
   "2026-10-22:d:scene 1": {
-    "query": "Scilly naval disaster 1707 painting",
+    "query": "Wreck of HMS Association Scilly",
     "topic": "Scilly naval disaster of 1707",
-    "hit": null
+    "hit": {
+      "title": "File:Cannon from HMS Association 02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cannon_from_HMS_Association_02.jpg/1920px-Cannon_from_HMS_Association_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Cannon_from_HMS_Association_02.jpg",
+      "license": "CC BY-SA",
+      "credit": "Andrewrabbott / Wikimedia Commons"
+    }
+  },
+  "2026-10-22:d:scene 2": {
+    "query": "Isles of Scilly Western Rocks",
+    "topic": "Scilly naval disaster of 1707",
+    "hit": {
+      "title": "File:Isles of Scilly, The Western Rocks from Gorregan - geograph.org.uk - 7865009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Isles_of_Scilly%2C_The_Western_Rocks_from_Gorregan_-_geograph.org.uk_-_7865009.jpg/1920px-Isles_of_Scilly%2C_The_Western_Rocks_from_Gorregan_-_geograph.org.uk_-_7865009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Isles_of_Scilly,_The_Western_Rocks_from_Gorregan_-_geograph.org.uk_-_7865009.jpg",
+      "license": "CC BY-SA",
+      "credit": "Michael Earnshaw / Wikimedia Commons"
+    }
   },
   "2026-10-22:d:scene 3": {
     "query": "Cloudesley Shovell portrait",
@@ -409,9 +654,15 @@
     }
   },
   "2026-10-22:d:scene 6": {
-    "query": "John Harrison H1 marine chronometer",
+    "query": "John Harrison clockmaker",
     "topic": "Scilly naval disaster of 1707",
-    "hit": null
+    "hit": {
+      "title": "File:Wakefield Stars- John Harrison, clockmaker - geograph.org.uk - 2735075.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Wakefield_Stars-_John_Harrison%2C_clockmaker_-_geograph.org.uk_-_2735075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Wakefield_Stars-_John_Harrison,_clockmaker_-_geograph.org.uk_-_2735075.jpg",
+      "license": "CC BY-SA",
+      "credit": "Mike Kirby / Wikimedia Commons"
+    }
   },
   "2026-10-23:a:post": {
     "query": "Kensington Runestone",
@@ -424,6 +675,17 @@
       "credit": "Book author: George T. Flom / Wikimedia Commons"
     }
   },
+  "2026-10-23:b:scene 1": {
+    "query": "Pneumatica Hero Alexandria",
+    "topic": "Hero of Alexandria's coin-operated holy water machine",
+    "hit": {
+      "title": "File:Hero of Alexandria, Pneumatica, Venice, Gr. 516.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hero_of_Alexandria%2C_Pneumatica%2C_Venice%2C_Gr._516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hero_of_Alexandria,_Pneumatica,_Venice,_Gr._516.jpg",
+      "license": "Public domain",
+      "credit": "Hero of Alexandria / Wikimedia Commons"
+    }
+  },
   "2026-10-23:b:scene 2": {
     "query": "Hero of Alexandria",
     "topic": "Hero of Alexandria's coin-operated holy water machine",
@@ -434,6 +696,11 @@
       "license": "CC BY-SA",
       "credit": "Hero of Alexandria / Wikimedia Commons"
     }
+  },
+  "2026-10-23:b:scene 3": {
+    "query": "Hero holy water vending machine",
+    "topic": "Hero of Alexandria's coin-operated holy water machine",
+    "hit": null
   },
   "2026-10-23:b:scene 5": {
     "query": "Aeolipile illustration",
@@ -468,14 +735,48 @@
       "credit": "John Edward Davis / Wikimedia Commons"
     }
   },
-  "2026-10-23:d:scene 3": {
-    "query": "Franklin expedition Victory Point note",
+  "2026-10-23:d:scene 2": {
+    "query": "Sir John Franklin portrait",
     "topic": "The lost Franklin Expedition",
-    "hit": null
+    "hit": {
+      "title": "File:Portrait of The Late Sir John Franklin (4670731).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Portrait_of_The_Late_Sir_John_Franklin_%284670731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_The_Late_Sir_John_Franklin_(4670731).jpg",
+      "license": "Public domain",
+      "credit": "Daniel John Pound / Wikimedia Commons"
+    }
+  },
+  "2026-10-23:d:scene 4": {
+    "query": "Beechey Island graves Franklin",
+    "topic": "The lost Franklin Expedition",
+    "hit": {
+      "title": "File:Beechey Island Graves 1 1997-08-02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Beechey_Island_Graves_1_1997-08-02.jpg/1920px-Beechey_Island_Graves_1_1997-08-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Beechey_Island_Graves_1_1997-08-02.jpg",
+      "license": "CC BY-SA",
+      "credit": "Ansgar Walk / Wikimedia Commons"
+    }
   },
   "2026-10-23:d:scene 5": {
-    "query": "Franklin expedition reward poster 1849",
+    "query": "John Rae explorer",
     "topic": "The lost Franklin Expedition",
-    "hit": null
+    "hit": {
+      "title": "File:1862 painting of Scottish explorer John Rae by Canadian artist William Armstrong.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/1862_painting_of_Scottish_explorer_John_Rae_by_Canadian_artist_William_Armstrong.jpg/1920px-1862_painting_of_Scottish_explorer_John_Rae_by_Canadian_artist_William_Armstrong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1862_painting_of_Scottish_explorer_John_Rae_by_Canadian_artist_William_Armstrong.jpg",
+      "license": "Public domain",
+      "credit": "William Armstrong (1822-1914) / Wikimedia Commons"
+    }
+  },
+  "2026-10-23:d:scene 6": {
+    "query": "HMS Resolute Franklin search",
+    "topic": "The lost Franklin Expedition",
+    "hit": {
+      "title": "File:Fran\u00e7ois Musin - The Search for Sir John Franklin in the Arctic.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Fran%C3%A7ois_Musin_-_The_Search_for_Sir_John_Franklin_in_the_Arctic.jpeg/1920px-Fran%C3%A7ois_Musin_-_The_Search_for_Sir_John_Franklin_in_the_Arctic.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Musin_-_The_Search_for_Sir_John_Franklin_in_the_Arctic.jpeg",
+      "license": "Public domain",
+      "credit": "Fran\u00e7ois Musin / Wikimedia Commons"
+    }
   }
 }
