@@ -32,11 +32,6 @@
       "credit": "Unknown authorUnknown author / Wikimedia Commons"
     }
   },
-  "2026-10-17:b:scene 3": {
-    "query": "Wilfrid Voynich",
-    "topic": "The Voynich Manuscript",
-    "hit": null
-  },
   "2026-10-17:b:scene 5": {
     "query": "Voynich manuscript page",
     "topic": "The Voynich Manuscript",
@@ -81,11 +76,6 @@
       "credit": "Scan by NYPL / Wikimedia Commons"
     }
   },
-  "2026-10-17:d:scene 3": {
-    "query": "brewery vat interior engraving",
-    "topic": "The London Beer Flood of 1814",
-    "hit": null
-  },
   "2026-10-17:d:scene 5": {
     "query": "Hogarth Gin Lane",
     "topic": "The London Beer Flood of 1814",
@@ -106,6 +96,17 @@
       "page": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Chapel_of_St_Giles_in_the_Fields,_Church_of_St_James,_Tottenham_Court_Road_-_B1977.14.18218_-_Yale_Center_for_British_Art.jpg",
       "license": "CC0",
       "credit": "anonymous / Wikimedia Commons"
+    }
+  },
+  "2026-10-17:d:scene 7": {
+    "query": "St Giles in the Fields church",
+    "topic": "The London Beer Flood of 1814",
+    "hit": {
+      "title": "File:Peyto Gateway - St. Giles Church, Chesterton.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Peyto_Gateway_-_St._Giles_Church%2C_Chesterton.jpg/1920px-Peyto_Gateway_-_St._Giles_Church%2C_Chesterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Peyto_Gateway_-_St._Giles_Church,_Chesterton.jpg",
+      "license": "CC BY-SA",
+      "credit": "DeFacto / Wikimedia Commons"
     }
   },
   "2026-10-18:a:post": {
@@ -163,28 +164,29 @@
       "credit": "Aurbina / Wikimedia Commons"
     }
   },
-  "2026-10-18:b:scene 5": {
-    "query": "Rongorongo Santiago Staff",
-    "topic": "Rongorongo, the script of Easter Island",
-    "hit": null
-  },
   "2026-10-18:c:post": {
-    "query": "Hedy Lamarr Heavenly Body 1944 publicity",
+    "query": "Hedy Lamarr 1940 MGM publicity still",
     "topic": "Hedy Lamarr and frequency hopping",
-    "hit": null
+    "hit": {
+      "title": "File:Hedy Lamarr in a 1940 MGM publicity still.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hedy_Lamarr_in_a_1940_MGM_publicity_still.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_in_a_1940_MGM_publicity_still.jpg",
+      "license": "Public domain",
+      "credit": "Employee(s) of MGM / Wikimedia Commons"
+    }
   },
   "2026-10-18:d:scene 1": {
-    "query": "sperm whale attacking whaleboat",
+    "query": "Garneray sperm whale hunt",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
   "2026-10-18:d:scene 2": {
-    "query": "Nantucket harbor whaling",
+    "query": "Nantucket whaleship",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
-  "2026-10-18:d:scene 3": {
-    "query": "Whale-Ship Essex narrative Owen Chase",
+  "2026-10-18:d:scene 4": {
+    "query": "whaleboat whaling engraving",
     "topic": "The whaleship Essex, the real Moby-Dick",
     "hit": null
   },
@@ -214,20 +216,26 @@
     "query": "Terracotta Army pit 1 Xi'an",
     "topic": "The Terracotta Army",
     "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
+      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051282).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg",
       "license": "CC BY",
       "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons"
     }
   },
   "2026-10-19:b:scene 1": {
-    "query": "Brueghel dancing pilgrims Molenbeek",
+    "query": "Dancing mania Pieter Brueghel",
     "topic": "The Dancing Plague of 1518",
-    "hit": null
+    "hit": {
+      "title": "File:Pieter Brueghel, the Elder. \u00abThe Dancing Mania. Pilgrimage of the Epileptics to the Church at Molenbeek\u00bb. 1564.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pieter_Brueghel%2C_the_Elder._%C2%ABThe_Dancing_Mania._Pilgrimage_of_the_Epileptics_to_the_Church_at_Molenbeek%C2%BB._1564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel,_the_Elder._%C2%ABThe_Dancing_Mania._Pilgrimage_of_the_Epileptics_to_the_Church_at_Molenbeek%C2%BB._1564.jpg",
+      "license": "Public domain",
+      "credit": "Pieter Breugel de Oude / Wikimedia Commons"
+    }
   },
   "2026-10-19:b:scene 2": {
-    "query": "Strasbourg Merian engraving",
+    "query": "Strasbourg Nuremberg Chronicle",
     "topic": "The Dancing Plague of 1518",
     "hit": null
   },
@@ -242,10 +250,27 @@
       "credit": "Unknown author / Wikimedia Commons"
     }
   },
-  "2026-10-19:b:scene 5": {
-    "query": "Saint Vitus altarpiece",
+  "2026-10-19:b:scene 4": {
+    "query": "Strasbourg Cathedral",
     "topic": "The Dancing Plague of 1518",
-    "hit": null
+    "hit": {
+      "title": "File:Strasbourg Cathedral Exterior - Diliff.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Strasbourg_Cathedral_Exterior_-_Diliff.jpg/1920px-Strasbourg_Cathedral_Exterior_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg",
+      "license": "CC BY-SA",
+      "credit": "Diliff / Wikimedia Commons"
+    }
+  },
+  "2026-10-19:b:scene 5": {
+    "query": "Saint Vitus",
+    "topic": "The Dancing Plague of 1518",
+    "hit": {
+      "title": "File:Saint Vitus (venue).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Saint_Vitus_%28venue%29.jpg/1920px-Saint_Vitus_%28venue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Saint_Vitus_(venue).jpg",
+      "license": "CC BY-SA",
+      "credit": "Mikeyfrecks / Wikimedia Commons"
+    }
   },
   "2026-10-19:c:post": {
     "query": "Napoleon in his study Tuileries Jacques-Louis David",
@@ -291,11 +316,6 @@
       "credit": "Peter Reed / Wikimedia Commons"
     }
   },
-  "2026-10-19:d:scene 4": {
-    "query": "King John treasure Wash",
-    "topic": "King John's lost treasure in the Wash",
-    "hit": null
-  },
   "2026-10-19:d:scene 6": {
     "query": "Newark Castle Nottinghamshire",
     "topic": "King John's lost treasure in the Wash",
@@ -311,9 +331,9 @@
     "query": "Nan Madol ruins",
     "topic": "Nan Madol",
     "hit": {
-      "title": "File:Nan Madol ruins 6.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
+      "title": "File:Nan Madol ruins 13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons"
     }
@@ -417,17 +437,6 @@
       "credit": "anonymous / Wikimedia Commons"
     }
   },
-  "2026-10-20:d:scene 5": {
-    "query": "Fort Raleigh Roanoke Island",
-    "topic": "The Lost Colony of Roanoke",
-    "hit": {
-      "title": "File:Freedmen's Colony on Roanoke Island, Fort Raleigh National Historic Site, Manteo, Roanoke Island, North Carolina (14459267164).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Freedmen%27s_Colony_on_Roanoke_Island%2C_Fort_Raleigh_National_Historic_Site%2C_Manteo%2C_Roanoke_Island%2C_North_Carolina_%2814459267164%29.jpg/1920px-Freedmen%27s_Colony_on_Roanoke_Island%2C_Fort_Raleigh_National_Historic_Site%2C_Manteo%2C_Roanoke_Island%2C_North_Carolina_%2814459267164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Freedmen%27s_Colony_on_Roanoke_Island,_Fort_Raleigh_National_Historic_Site,_Manteo,_Roanoke_Island,_North_Carolina_(14459267164).jpg",
-      "license": "CC BY-SA",
-      "credit": "Ken Lund from Reno, Nevada, USA / Wikimedia Commons"
-    }
-  },
   "2026-10-21:a:post": {
     "query": "Mary Anning portrait",
     "topic": "Mary Anning, fossil hunter of Lyme Regis",
@@ -450,21 +459,27 @@
       "credit": "Unconfirmed, possibly Honore Pellegrin (1800\u2013c.1870). This speculative attributi / Wikimedia Commons"
     }
   },
-  "2026-10-21:b:scene 2": {
-    "query": "Dei Gratia brigantine",
+  "2026-10-21:b:scene 3": {
+    "query": "Mary Celeste Gibraltar",
     "topic": "The Mary Celeste",
     "hit": {
-      "title": "File:Globus terrestris projectus - D. Philippo IV, Dei Gratia Catholico Hispaniarum Indiarumque Reg. totius monarchar - Invectissimo, Octavii Pisani delineavit - btv1b7200176v (3 of 7).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Globus_terrestris_projectus_-_D._Philippo_IV%2C_Dei_Gratia_Catholico_Hispaniarum_Indiarumque_Reg._totius_monarchar_-_Invectissimo%2C_Octavii_Pisani_delineavit_-_btv1b7200176v_%283_of_7%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Globus_terrestris_projectus_-_D._Philippo_IV,_Dei_Gratia_Catholico_Hispaniarum_Indiarumque_Reg._totius_monarchar_-_Invectissimo,_Octavii_Pisani_delineavit_-_btv1b7200176v_(3_of_7).jpg",
+      "title": "File:Mary Celeste engraving.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mary_Celeste_engraving.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Celeste_engraving.jpg",
       "license": "Public domain",
-      "credit": "Pisani, Octavio (1575-16..). Cartographe Philippe IV (1605-1665 ; roi d'Espagne) / Wikimedia Commons"
+      "credit": "Original uploader was RedCoat10 at en.wikipedia (Original text : No illustrator  / Wikimedia Commons"
     }
   },
   "2026-10-21:b:scene 4": {
-    "query": "Benjamin Spooner Briggs",
+    "query": "Mary Celeste captain Briggs",
     "topic": "The Mary Celeste",
-    "hit": null
+    "hit": {
+      "title": "File:Lap desk of Captain Benjamin Briggs from the Mary Celeste (PEM M6557) 01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Lap_desk_of_Captain_Benjamin_Briggs_from_the_Mary_Celeste_%28PEM_M6557%29_01.jpg/1920px-Lap_desk_of_Captain_Benjamin_Briggs_from_the_Mary_Celeste_%28PEM_M6557%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lap_desk_of_Captain_Benjamin_Briggs_from_the_Mary_Celeste_(PEM_M6557)_01.jpg",
+      "license": "CC0",
+      "credit": "Crawdad Blues / Wikimedia Commons"
+    }
   },
   "2026-10-21:b:scene 5": {
     "query": "Arthur Conan Doyle portrait",
@@ -478,14 +493,14 @@
     }
   },
   "2026-10-21:c:post": {
-    "query": "Gossuin Image du monde",
+    "query": "La Terre est ronde Image du Monde",
     "topic": "Myth: medieval people thought the Earth was flat",
     "hit": {
-      "title": "File:Gossuin de Metz, Image du monde, en vers. - btv1b84496854 (039 of 155).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Gossuin_de_Metz%2C_Image_du_monde%2C_en_vers._-_btv1b84496854_%28039_of_155%29.jpg/1920px-Gossuin_de_Metz%2C_Image_du_monde%2C_en_vers._-_btv1b84496854_%28039_of_155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Gossuin_de_Metz,_Image_du_monde,_en_vers._-_btv1b84496854_(039_of_155).jpg",
+      "title": "File:La Terre est ronde, Image du Monde, Gossuin de Metz.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/La_Terre_est_ronde%2C_Image_du_Monde%2C_Gossuin_de_Metz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:La_Terre_est_ronde,_Image_du_Monde,_Gossuin_de_Metz.png",
       "license": "Public domain",
-      "credit": "Gossuin de Metz. Auteur du texte / Wikimedia Commons"
+      "credit": "Enlumineur inconnu / Wikimedia Commons"
     }
   },
   "2026-10-21:d:scene 1": {
@@ -646,11 +661,11 @@
     "query": "Cloudesley Shovell portrait",
     "topic": "Scilly naval disaster of 1707",
     "hit": {
-      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
-      "license": "CC0",
-      "credit": "jacquemart from England / Wikimedia Commons"
+      "title": "File:Sir Cloudesley Shovell, 1650-1707.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell%2C_1650-1707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg",
+      "license": "Public domain",
+      "credit": "Michael Dahl / Wikimedia Commons"
     }
   },
   "2026-10-22:d:scene 6": {
@@ -696,11 +711,6 @@
       "license": "CC BY-SA",
       "credit": "Hero of Alexandria / Wikimedia Commons"
     }
-  },
-  "2026-10-23:b:scene 3": {
-    "query": "Hero holy water vending machine",
-    "topic": "Hero of Alexandria's coin-operated holy water machine",
-    "hit": null
   },
   "2026-10-23:b:scene 5": {
     "query": "Aeolipile illustration",
