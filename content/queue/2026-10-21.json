@@ -35,7 +35,8 @@
         },
         {
           "image_prompt": "Sailors on the deck of a sailing ship in 1870s clothing peering through a telescope at a distant vessel, choppy grey sea",
-          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores."
+          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores.",
+          "image_search": "Dei Gratia brigantine"
         },
         {
           "image_prompt": "Interior of an empty nineteenth-century ship cabin, wooden barrels in the hold, a captain's desk with a logbook and oil lamp, dim light",
@@ -43,7 +44,8 @@
         },
         {
           "image_prompt": "Empty davits and ropes hanging over the side of an old wooden sailing ship where a lifeboat should be, ocean below",
-          "narration": "But its only lifeboat was gone. So were all ten people: Captain Benjamin Briggs, his wife, their two-year-old daughter, and seven crew."
+          "narration": "But its only lifeboat was gone. So were all ten people: Captain Benjamin Briggs, his wife, their two-year-old daughter, and seven crew.",
+          "image_search": "Benjamin Spooner Briggs"
         },
         {
           "image_prompt": "A Victorian writer at a desk by gaslight writing with a quill pen, stacks of magazines nearby, cozy study",
@@ -84,7 +86,7 @@
         "https://dhayton.haverford.edu/blog/2014/12/02/washington-irvings-columbus-and-the-flat-earth/"
       ],
       "layout": "full",
-      "image_search": "Flammarion engraving"
+      "image_search": "Gossuin Image du monde"
     },
     {
       "slot": "d",
@@ -107,7 +109,8 @@
         },
         {
           "image_prompt": "A ship's surgeon in a Georgian naval coat standing thoughtfully below deck by lantern light, medical chest open",
-          "narration": "His surgeon, William Beatty, had a problem. The voyage home would take weeks, and Nelson deserved a state funeral."
+          "narration": "His surgeon, William Beatty, had a problem. The voyage home would take weeks, and Nelson deserved a state funeral.",
+          "image_search": "William Beatty surgeon portrait"
         },
         {
           "image_prompt": "A large wooden cask strapped down below deck of a sailing warship, a marine guard standing beside it, lantern glow",
@@ -115,7 +118,8 @@
         },
         {
           "image_prompt": "Sailors in striped shirts whispering in a dark ship's hold, one holding a tin cup, conspiratorial mood",
-          "narration": "Then came the legend. Sailors supposedly sneaked drinks from the cask, calling it tapping the admiral. Rum even got the nickname Nelson's blood."
+          "narration": "Then came the legend. Sailors supposedly sneaked drinks from the cask, calling it tapping the admiral. Rum even got the nickname Nelson's blood.",
+          "image_search": "Death of Nelson Arthur Devis"
         },
         {
           "image_prompt": "A grand cathedral crypt with a black marble tomb lit by candles, Georgian mourners in black",

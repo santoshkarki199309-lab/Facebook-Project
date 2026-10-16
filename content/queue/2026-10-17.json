@@ -31,16 +31,18 @@
       "scenes": [
         {
           "image_prompt": "An ancient vellum book lying open on a dark library table, pages covered in looping unknown handwriting and strange botanical drawings, single candle, dramatic shadows",
-          "narration": "There is a book in a library at Yale that nobody on Earth can read."
+          "narration": "There is a book in a library at Yale that nobody on Earth can read.",
+          "image_search": "Voynich manuscript astronomical"
         },
         {
           "image_prompt": "Close-up of hand-drawn botanical illustrations of impossible plants with tangled roots on aged parchment, faded green and brown inks",
           "narration": "It is called the Voynich Manuscript. Around two hundred and forty pages, written in a script that matches no known language, next to drawings of plants that botanists cannot identify.",
-          "image_search": "Voynich manuscript botanical folio"
+          "image_search": "Voynich manuscript plant"
         },
         {
           "image_prompt": "A 1910s rare book dealer in a tweed suit examining an old manuscript under a magnifying glass in a cluttered antique bookshop",
-          "narration": "It is named after Wilfrid Voynich, a rare book dealer who bought it in 1912. For a long time, many experts suspected it was a clever modern forgery."
+          "narration": "It is named after Wilfrid Voynich, a rare book dealer who bought it in 1912. For a long time, many experts suspected it was a clever modern forgery.",
+          "image_search": "Wilfrid Voynich"
         },
         {
           "image_prompt": "A laboratory scientist in a modern lab holding a tiny parchment sample with tweezers, radiocarbon dating equipment softly lit in the background",
@@ -108,7 +110,8 @@
         {
           "image_prompt": "Close-up of a massive iron hoop slipping on the side of a wooden vat, liquid seeping between the staves, gas lamp light",
           "narration": "On the afternoon of October 17, an iron hoop holding the vat together slipped. About an hour later, the vat burst.",
-          "label": "OCTOBER 17"
+          "label": "OCTOBER 17",
+          "image_search": "brewery vat interior engraving"
         },
         {
           "image_prompt": "Wooden vats toppling like dominoes inside a brewery, wave of porter surging, splintered timber, motion blur",
@@ -119,11 +122,12 @@
           "image_prompt": "A flooded crowded slum street in Regency London, cellars filling with dark liquid, people in period clothes climbing onto furniture",
           "narration": "It smashed through a wall and flooded the packed streets of St Giles, pouring into basements where families lived. Eight people died.",
           "label": "ST GILES",
-          "image_search": "St Giles rookery London engraving"
+          "image_search": "Hogarth Gin Lane"
         },
         {
           "image_prompt": "A Georgian courtroom with a coroner and jurors in period dress, papers on a wooden table, sombre light",
-          "narration": "So who was punished? Nobody. The inquest ruled it an accident, an act of God. The brewery even got its beer tax refunded."
+          "narration": "So who was punished? Nobody. The inquest ruled it an accident, an act of God. The brewery even got its beer tax refunded.",
+          "image_search": "Tottenham Court Road engraving"
         },
         {
           "image_prompt": "An empty cobbled London street at dusk after a flood, puddles of dark liquid reflecting gas lamps, broken barrel staves",

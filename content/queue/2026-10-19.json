@@ -30,12 +30,13 @@
       "scenes": [
         {
           "image_prompt": "A lone woman in early sixteenth-century peasant clothing dancing alone on a cobbled medieval street, puzzled onlookers in doorways, summer afternoon light",
-          "narration": "In fifteen eighteen, a woman started dancing in the street. She couldn't stop."
+          "narration": "In fifteen eighteen, a woman started dancing in the street. She couldn't stop.",
+          "image_search": "Brueghel dancing pilgrims Molenbeek"
         },
         {
           "image_prompt": "A medieval European city with half-timbered houses and a cathedral spire, crowded street, summer haze, cinematic",
           "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days.",
-          "image_search": "Strasbourg 16th century engraving"
+          "image_search": "Strasbourg Merian engraving"
         },
         {
           "image_prompt": "A growing crowd of townspeople in Renaissance-era clothing dancing wildly in a market square, exhausted faces, dust rising",
@@ -48,7 +49,8 @@
         },
         {
           "image_prompt": "A small stone mountain shrine at dawn with a procession of tired pilgrims in sixteenth-century clothing walking toward it",
-          "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded."
+          "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded.",
+          "image_search": "Saint Vitus altarpiece"
         },
         {
           "image_prompt": "An empty cobbled square at night under moonlight, a single abandoned shoe on the stones, eerie calm",
@@ -96,7 +98,8 @@
         {
           "image_prompt": "A medieval baggage train of horses and wooden carts swallowed by a rushing tide across wet tidal sands, grey English sky, 1216",
           "narration": "In 1216, the King of England lost his treasure to the sea.",
-          "label": "1216"
+          "label": "1216",
+          "image_search": "King John effigy Worcester Cathedral"
         },
         {
           "image_prompt": "A grim medieval English king in a dark cloak on horseback, surrounded by mounted soldiers, flat marshland behind him",
@@ -106,11 +109,13 @@
         {
           "image_prompt": "A vast tidal estuary at low tide, glistening mudflats and channels stretching to the horizon, autumn light",
           "narration": "In October, his baggage train tried to cross the Wash, a huge tidal estuary full of quicksand.",
-          "label": "THE WASH"
+          "label": "THE WASH",
+          "image_search": "The Wash Norfolk coast"
         },
         {
           "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
-          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions."
+          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions.",
+          "image_search": "King John treasure Wash"
         },
         {
           "image_prompt": "An ornate medieval jewelled crown and a ceremonial sword lying in murky water, faint light from above",

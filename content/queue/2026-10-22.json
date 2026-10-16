@@ -30,7 +30,8 @@
       "scenes": [
         {
           "image_prompt": "A long royal caravan of camels and richly dressed travelers crossing golden Sahara dunes at sunrise, banners fluttering, cinematic wide shot",
-          "narration": "In thirteen twenty-four, one king spent so much gold its value crashed."
+          "narration": "In thirteen twenty-four, one king spent so much gold its value crashed.",
+          "image_search": "Djinguereber Mosque Timbuktu"
         },
         {
           "image_prompt": "A West African king of the fourteenth century in flowing robes and a gold crown seated on a throne in an earthen palace, attendants around him, warm light",
@@ -39,11 +40,13 @@
         },
         {
           "image_prompt": "A medieval Cairo street with minarets and crowded markets, a grand procession arriving, merchants watching in awe, dusty golden light",
-          "narration": "On his pilgrimage to Mecca, he stopped in Cairo. The scholar al-Umari wrote that he gave loads of gold to the treasury and to court officials."
+          "narration": "On his pilgrimage to Mecca, he stopped in Cairo. The scholar al-Umari wrote that he gave loads of gold to the treasury and to court officials.",
+          "image_search": "Sultan Hassan mosque Cairo"
         },
         {
           "image_prompt": "Close-up of a merchant's wooden table in a medieval market covered in gold nuggets and silver coins, a balance scale, candlelight",
-          "narration": "Cairo's merchants profited so much that gold became cheap. Al-Umari said its value had still not recovered about twelve years later."
+          "narration": "Cairo's merchants profited so much that gold became cheap. Al-Umari said its value had still not recovered about twelve years later.",
+          "image_search": "Mamluk gold dinar"
         },
         {
           "image_prompt": "An illuminated medieval map-maker's workshop with a large painted parchment map showing a crowned king on a throne holding a golden object, no lettering",
@@ -98,12 +101,13 @@
           "image_prompt": "Wooden warships of 1707 smashing onto jagged black rocks in a stormy night sea, lantern lights, crashing white surf",
           "narration": "On this night in 1707, a whole British fleet hit the rocks.",
           "label": "1707",
-          "image_search": "Scilly naval disaster 1707 painting"
+          "image_search": "Wreck of HMS Association Scilly"
         },
         {
           "image_prompt": "A fleet of 18th-century warships under full sail in fog, sailing toward a dim rocky coastline, grey dusk",
           "narration": "Admiral Sir Cloudesley Shovell was bringing his warships home to England. In the dark, they reached the Isles of Scilly.",
-          "label": "SCILLY"
+          "label": "SCILLY",
+          "image_search": "Isles of Scilly Western Rocks"
         },
         {
           "image_prompt": "Navigators in tricorn hats bent over a sea chart with dividers by lamplight, worried faces",
@@ -123,7 +127,7 @@
           "image_prompt": "A beautifully crafted brass and wood marine clock with intricate gears on a velvet table, soft workshop light",
           "narration": "A clockmaker named John Harrison spent decades building sea clocks to solve it.",
           "label": "JOHN HARRISON",
-          "image_search": "John Harrison H1 marine chronometer"
+          "image_search": "John Harrison clockmaker"
         },
         {
           "image_prompt": "Old nautical charts with faded coastlines spread on a table, a brass compass and candle on top",

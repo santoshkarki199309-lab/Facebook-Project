@@ -40,15 +40,18 @@
         },
         {
           "image_prompt": "Close-up of hands turning an ancient carved wooden tablet upside down, rows of small engraved symbols, warm candlelight",
-          "narration": "The signs run in alternating lines. After each line, the reader turns the tablet upside down to continue."
+          "narration": "The signs run in alternating lines. After each line, the reader turns the tablet upside down to continue.",
+          "image_search": "Rongorongo Aruku Kurenga"
         },
         {
           "image_prompt": "An empty Polynesian coastal village at dusk, abandoned canoes on the beach, somber mood, nineteenth century",
-          "narration": "But in the eighteen sixties, slave raids and epidemics devastated the island. The people who could read the tablets were lost."
+          "narration": "But in the eighteen sixties, slave raids and epidemics devastated the island. The people who could read the tablets were lost.",
+          "image_search": "Rano Raraku moai Rapa Nui"
         },
         {
           "image_prompt": "A scientist in a modern laboratory examining a tiny wood sample beside an ancient carved tablet, soft blue light",
-          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived."
+          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived.",
+          "image_search": "Rongorongo Santiago Staff"
         },
         {
           "image_prompt": "A carved wooden tablet resting on volcanic rock at sunset, the ocean glowing behind it",
@@ -84,7 +87,7 @@
         "https://ethw.org/Hedy_Lamarr"
       ],
       "layout": "full",
-      "image_search": "Hedy Lamarr publicity photo"
+      "image_search": "Hedy Lamarr Heavenly Body 1944 publicity"
     },
     {
       "slot": "d",
@@ -96,17 +99,19 @@
         {
           "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
           "narration": "In 1820, a whale rammed a ship twice, and sank it.",
-          "label": "1820"
+          "label": "1820",
+          "image_search": "sperm whale attacking whaleboat"
         },
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
           "narration": "The Essex sailed from Nantucket with twenty-one men. On November 20, 1820, deep in the Pacific, a huge sperm whale rammed her.",
           "label": "NANTUCKET",
-          "image_search": "whaleship Essex sperm whale"
+          "image_search": "Nantucket harbor whaling"
         },
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
-          "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats."
+          "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats.",
+          "image_search": "Whale-Ship Essex narrative Owen Chase"
         },
         {
           "image_prompt": "Three tiny open wooden boats adrift on an endless empty ocean under a blazing sun, gaunt sailors in ragged shirts",

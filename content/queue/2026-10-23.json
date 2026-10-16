@@ -30,7 +30,8 @@
       "scenes": [
         {
           "image_prompt": "An ornate bronze box with a small coin slot on top sitting at the entrance of an ancient Egyptian-Greek temple, columns and sunlight behind, cinematic",
-          "narration": "The first vending machine is about two thousand years old."
+          "narration": "The first vending machine is about two thousand years old.",
+          "image_search": "Pneumatica Hero Alexandria"
         },
         {
           "image_prompt": "A Greek engineer in a simple tunic working at a wooden workbench with brass gears, pipes and scrolls of diagrams in ancient Alexandria, warm oil lamp light",
@@ -39,7 +40,8 @@
         },
         {
           "image_prompt": "Cutaway illustration of a bronze box showing a coin falling onto a small lever, a beam connected to a plug inside a water container, clean technical style without text",
-          "narration": "Drop a coin into the slot. It lands on a lever, the lever lifts a plug, and holy water pours out. When the coin slides off, the flow stops."
+          "narration": "Drop a coin into the slot. It lands on a lever, the lever lifts a plug, and holy water pours out. When the coin slides off, the flow stops.",
+          "image_search": "Hero holy water vending machine"
         },
         {
           "image_prompt": "Worshippers in ancient Egyptian and Greek clothing washing their hands at a temple basin, priests watching, soft morning light",
@@ -102,26 +104,28 @@
         {
           "image_prompt": "Two sailing ships departing an English harbour in 1845, crowds waving from the dock, flags flying",
           "narration": "Sir John Franklin led one hundred and twenty-nine men on HMS Erebus and HMS Terror to find the Northwest Passage.",
-          "label": "129 MEN"
+          "label": "129 MEN",
+          "image_search": "Sir John Franklin portrait"
         },
         {
           "image_prompt": "Close-up of an old handwritten note on weathered paper inside a tin cylinder, set on Arctic stones",
-          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not.",
-          "image_search": "Franklin expedition Victory Point note"
+          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not."
         },
         {
           "image_prompt": "Sailors in heavy wool coats pulling sledges across endless sea ice, abandoned ships in the far distance",
-          "narration": "Franklin had died in 1847. The ships were trapped in ice and abandoned. One hundred and five survivors set off on foot."
+          "narration": "Franklin had died in 1847. The ships were trapped in ice and abandoned. One hundred and five survivors set off on foot.",
+          "image_search": "Beechey Island graves Franklin"
         },
         {
           "image_prompt": "A Victorian gentleman reading a newspaper in a London club, shocked expression, gaslight, 1854",
           "narration": "On October 23, 1854, The Times reported explorer John Rae's grim news: the men had died. Britain was stunned.",
           "label": "1854",
-          "image_search": "Franklin expedition reward poster 1849"
+          "image_search": "John Rae explorer"
         },
         {
           "image_prompt": "Dozens of search ships and sledge teams spread across Arctic ice and islands, map-like wide view",
-          "narration": "More than thirty search expeditions went looking. The ships stayed lost."
+          "narration": "More than thirty search expeditions went looking. The ships stayed lost.",
+          "image_search": "HMS Resolute Franklin search"
         },
         {
           "image_prompt": "An underwater view of a wooden shipwreck on the seabed in green Arctic water, a ship's bell visible, divers' lights",
