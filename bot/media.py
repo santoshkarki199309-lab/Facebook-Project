@@ -122,7 +122,9 @@ def commons_search(query: str, limit: int = 20) -> dict | None:
             continue
         if min(info.get("width", 0), info.get("height", 0)) < 700:
             continue
-        artist = _clean(meta.get("Artist", {}).get("value", ""))[:80] or "Unknown author"
+        artist = _clean(meta.get("Artist", {}).get("value", ""))
+        artist = re.sub(r"(?i)^(unknown author)+$", "", artist.replace("Unknown authorUnknown author", ""))
+        artist = artist[:80] or "Unknown author"
         return {
             "title": title,
             "url": info.get("thumburl") or info.get("url"),
