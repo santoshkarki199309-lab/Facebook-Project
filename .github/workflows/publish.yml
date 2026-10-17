@@ -6,6 +6,12 @@ on:
     - cron: "52 16 * * *"   # slot a — photo  (US lunch / UK evening)
     - cron: "13 23 * * *"   # slot d — reel   (US prime time)
     - cron: "7 2 * * *"     # slot c — photo  (US late evening / West coast prime time)
+    # Backups ~45 min later: GitHub sometimes delays or drops scheduled runs. A backup does
+    # nothing if its slot was already published.
+    - cron: "33 13 * * *"   # backup b
+    - cron: "37 17 * * *"   # backup a
+    - cron: "58 23 * * *"   # backup d
+    - cron: "53 2 * * *"    # backup c
   workflow_dispatch:
     inputs:
       slot:
@@ -50,6 +56,10 @@ jobs:
             "52 16 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
             "13 23 * * *") echo "slot=d" >> "$GITHUB_OUTPUT" ;;
             "7 2 * * *")   echo "slot=c" >> "$GITHUB_OUTPUT" ;;
+            "33 13 * * *") echo "slot=b" >> "$GITHUB_OUTPUT" ;;
+            "37 17 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
+            "58 23 * * *") echo "slot=d" >> "$GITHUB_OUTPUT" ;;
+            "53 2 * * *")  echo "slot=c" >> "$GITHUB_OUTPUT" ;;
             *)             echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT" ;;
           esac
 
@@ -75,6 +85,7 @@ jobs:
             exit 0
           fi
           ARGS="--slot ${{ steps.slot.outputs.slot }}"
+          if [ "${{ github.event_name }}" = "schedule" ]; then ARGS="$ARGS --scheduled"; fi
           if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"

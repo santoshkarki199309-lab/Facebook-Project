@@ -8,7 +8,7 @@ Usage:
 """
 import argparse
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from . import brand, config, facebook, media, reel
 from . import queue as q
@@ -109,11 +109,23 @@ def backfill_comments() -> int:
     return added
 
 
+def intended_date(slot: str, now: datetime | None = None) -> str:
+    """UTC date of the slot's most recent scheduled time (handles late-starting cron runs)."""
+    now = now or datetime.now(timezone.utc)
+    hh, mm = map(int, config.SLOT_TIMES[slot].split(":"))
+    sched = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    if sched > now:
+        sched -= timedelta(days=1)
+    return sched.strftime("%Y-%m-%d")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slot", choices=sorted(config.SLOTS))
     ap.add_argument("--date", default=None, help="UTC date YYYY-MM-DD (default: today)")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--scheduled", action="store_true",
+                    help="cron run: use the date of the slot's most recent scheduled time")
     ap.add_argument("--offline", action="store_true", help="placeholder images + silent audio")
     ap.add_argument("--check", action="store_true", help="verify Facebook credentials and exit")
     ap.add_argument("--backfill-comments", action="store_true",
@@ -134,7 +146,13 @@ def main() -> None:
 
     if not args.slot:
         ap.error("--slot is required")
-    code = run(args.slot, args.date or q.today_utc(), args.dry_run, args.offline)
+    date = args.date or (intended_date(args.slot) if args.scheduled else q.today_utc())
+    try:
+        code = run(args.slot, date, args.dry_run, args.offline)
+    except Exception as exc:  # noqa: BLE001 — surface the reason as a run annotation
+        msg = f"{type(exc).__name__}: {exc}".replace("\n", " ")[:900]
+        print(f"::error::Publishing {date}:{args.slot} failed — {msg}")
+        raise
     if code == 0 and not args.dry_run:
         try:
             backfill_comments()  # self-heal comments missed by earlier runs

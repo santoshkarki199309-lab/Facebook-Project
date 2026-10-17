@@ -20,6 +20,10 @@ SLOTS = {
     "c": "photo",  # 02:07 UTC — US late evening / West coast prime time
 }
 
+# Scheduled UTC time of each slot. GitHub's scheduler can start runs hours late, so a
+# scheduled run publishes the post for the date of the slot's most recent scheduled time.
+SLOT_TIMES = {"b": "12:47", "a": "16:52", "d": "23:13", "c": "02:07"}
+
 # Facebook Graph API
 GRAPH_VERSION = os.environ.get("GRAPH_VERSION", "v24.0")
 FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "")
