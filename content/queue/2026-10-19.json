@@ -158,8 +158,8 @@
           "image_prompt": "A metal detector resting on a muddy field at sunset, a single gold coin glinting in the soil",
           "narration": "Lost treasure, or a legend? Tell us what you think. Follow for more untold history.",
           "image_search": [
-            "King John of England portrait",
-            "King John of England manuscript"
+            "King John De Rege Johanne",
+            "Great Seal of King John"
           ]
         }
       ],
@@ -241,17 +241,15 @@
               "narration": "Alcatraz sat on a rocky island in San Francisco Bay. The cold water and fast tides around it were meant to make escape close to impossible.",
               "label": "SAN FRANCISCO",
               "image_search": [
-                "Alcatraz Island 1950s",
-                "Alcatraz Island Golden Gate",
-                "Alcatraz Island"
+                "Alcatraz Island March 1962",
+                "Alcatraz Main Prison"
               ]
             },
             {
               "narration": "Morris and the Anglins were not violent killers. They were bank robbers, sent to Alcatraz because they kept escaping from other prisons.",
               "image_search": [
-                "John Anglin mugshot",
-                "Clarence Anglin mugshot",
-                "Anglin brothers Alcatraz"
+                "Anglin brothers",
+                "Alcatraz Main Prison 2022"
               ]
             },
             {
@@ -291,15 +289,15 @@
             {
               "narration": "Above the cell block they set up a hidden workshop. There they built a raft and life vests from more than fifty stolen raincoats.",
               "image_search": [
-                "Alcatraz escape raft replica",
-                "Alcatraz escape life vest"
+                "Alcatraz escape raft",
+                "Alcatraz utility corridor"
               ]
             },
             {
               "narration": "The seams were sealed with heat from the prison's steam pipes. They made paddles from plywood, and a musical instrument was converted to pump air into the raft.",
               "image_search": [
                 "Alcatraz escape paddle",
-                "Alcatraz escape tools"
+                "Alcatraz cell vent"
               ]
             },
             {
@@ -325,8 +323,8 @@
             {
               "narration": "The other three climbed up to the roof through a ventilator, crossed it in the dark, and slid down a bakery smokestack to the ground.",
               "image_search": [
-                "Alcatraz smokestack",
-                "Alcatraz Island buildings"
+                "Alcatraz water tower",
+                "Alcatraz Main Prison"
               ]
             },
             {
@@ -352,8 +350,8 @@
             {
               "narration": "The search began at once. Investigators recovered pieces of paddles and rubber debris from the water, and a packet of sealed personal letters.",
               "image_search": [
-                "Alcatraz escape evidence FBI",
-                "Alcatraz escape paddle"
+                "Alcatraz escape evidence",
+                "Alcatraz Island March 1962"
               ]
             },
             {
