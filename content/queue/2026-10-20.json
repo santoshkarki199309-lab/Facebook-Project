@@ -50,11 +50,20 @@
         },
         {
           "image_prompt": "Scattered clay tablet fragments on a museum table under bright lights, a magnifying glass resting beside them",
-          "narration": "Tablets and inscriptions have turned up across Crete and on nearby islands like Santorini. It may not belong to any known language family."
+          "narration": "Tablets and inscriptions have turned up across Crete and on nearby islands like Santorini. It may not belong to any known language family.",
+          "image_search": [
+            "Linear A Akrotiri Santorini",
+            "Linear A inscription Crete",
+            "Linear A tablet"
+          ]
         },
         {
           "image_prompt": "A sunset over the Aegean Sea seen from the ruins of an ancient Cretan palace, golden light",
-          "narration": "Will anyone ever crack it? Tell us in the comments, and follow for more."
+          "narration": "Will anyone ever crack it? Tell us in the comments, and follow for more.",
+          "image_search": [
+            "Linear A tablet Heraklion museum",
+            "Linear A tablet"
+          ]
         }
       ],
       "caption": "🏺 The Minoans wrote it. Nobody can read it.\n\nLinear A was used on Crete in the Bronze Age. Its younger cousin, Linear B, was deciphered as early Greek in 1952 — but Linear A's language is still unknown.\n\nWill it ever be cracked? Give us your prediction 👇",
@@ -119,21 +128,38 @@
         },
         {
           "image_prompt": "An Elizabethan man in a cloak walking through an abandoned overgrown settlement, scattered chests and rusted armour",
-          "narration": "When he returned in August 1590, the settlement was empty. No bodies. No sign of a struggle."
+          "narration": "When he returned in August 1590, the settlement was empty. No bodies. No sign of a struggle.",
+          "image_search": [
+            "Fort Raleigh National Historic Site",
+            "Roanoke Island fort"
+          ]
         },
         {
           "image_prompt": "Close-up of the word CROATOAN carved into a weathered wooden post, rough hand-cut letters, forest light",
           "narration": "Carved on a post was one word: Croatoan. The name of an island about fifty miles south. And there was no cross, their agreed sign of distress.",
-          "label": "CROATOAN"
+          "label": "CROATOAN",
+          "image_search": [
+            "Croatoan carving Roanoke",
+            "Lost Colony Croatoan",
+            "Roanoke Croatoan"
+          ]
         },
         {
           "image_prompt": "Archaeologists brushing soil from a corroded sword hilt and pottery shards at a sandy dig site near the sea",
           "narration": "The twist? Digs on that island, now part of Hatteras, found sixteenth-century European objects. Experts still argue over what they prove.",
-          "label": "HATTERAS"
+          "label": "HATTERAS",
+          "image_search": [
+            "Hatteras Island North Carolina",
+            "Cape Hatteras lighthouse"
+          ]
         },
         {
           "image_prompt": "A lonely beach at dusk with a weathered wooden post standing in the dunes, waves rolling in",
-          "narration": "So where did they go? Tell us your theory. Follow for more untold history."
+          "narration": "So where did they go? Tell us your theory. Follow for more untold history.",
+          "image_search": [
+            "John White map Virginia Roanoke",
+            "La Virginea Pars John White"
+          ]
         }
       ],
       "caption": "🕵️ UNSOLVED FILES: 115 English colonists vanished from Roanoke Island — and left just one word behind.\n\nGovernor John White left the colony in 1587 to fetch supplies. War with Spain kept him away for three years. When he returned in August 1590, the settlement was empty. \"CROATOAN\" was carved on a post, with no cross — the sign they'd agreed to use if they were in danger.\n\nDigs on Hatteras Island and inland have turned up 16th-century European objects, but there is still no proof of what happened.\n\nDid they join Native neighbours, move inland, or try to sail home? 👇",
@@ -147,6 +173,267 @@
       "sources": [
         "https://www.nationalgeographic.com/magazine/article/lost-colony-roanoke-history-theories-croatoan",
         "https://livescience.com/vanished-colonists-at-roanoke"
+      ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "Sydney Opera House and Jørn Utzon",
+      "image_search": [
+        "Sydney Opera House under construction",
+        "Sydney Opera House 1973",
+        "Sydney Opera House Bennelong Point"
+      ],
+      "layout": "card",
+      "image_headline": "The masterpiece its architect never saw",
+      "series": "ON THIS DAY",
+      "caption": "📅 ON THIS DAY in 1973, the Sydney Opera House opened — and the man who designed it wasn't there.\n\nOn October 20, 1973, Queen Elizabeth II formally opened what would become one of the most recognisable buildings on Earth.\n\nIt started in 1957, when Danish architect Jørn Utzon won an international competition that drew 233 entries from 32 countries.\n\nThe estimate: about A$7 million, finished by January 1963. The final bill: A$102 million — and it opened ten years late.\n\nThe famous shells were the problem. Nobody knew how to build them until 1961, when the team found a trick: shape every shell from the surface of the same sphere. Who first had the idea is still disputed.\n\nIn 1966, after disputes over fees and control, Utzon resigned and left Australia. He never came back — not even for the opening.\n\nHe won the Pritzker Prize in 2003, and the building became a UNESCO World Heritage Site in 2007. Utzon died in 2008.\n\nWas the Opera House worth going that far over budget?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "SydneyOperaHouse",
+        "Architecture"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+        "https://whc.unesco.org/en/list/166/"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "The disappearance of Amelia Earhart",
+      "title": "The Last Message: What Really Happened to Amelia Earhart?",
+      "hook_text": "HER LAST WORDS: FUEL IS RUNNING LOW",
+      "chapters": [
+        {
+          "title": "We Must Be On You",
+          "scenes": [
+            {
+              "narration": "On the morning of July 2, 1937, a voice crackled over the radio of a U.S. Coast Guard ship in the middle of the Pacific. It was Amelia Earhart.",
+              "label": "2 JUL 1937",
+              "image_search": [
+                "USCGC Itasca 1937",
+                "USCGC Itasca"
+              ]
+            },
+            {
+              "narration": "Her message, as the ship's log recorded it: we must be on you, but we cannot see you. Fuel is running low.",
+              "image_search": [
+                "Amelia Earhart radio log Itasca",
+                "Amelia Earhart 1937"
+              ]
+            },
+            {
+              "narration": "In this film you'll hear her final transmissions, see the biggest search America had ever mounted, and learn about the bones found on a remote island in 1940.",
+              "image_search": [
+                "Amelia Earhart Lockheed Electra 10E",
+                "Amelia Earhart Lockheed Electra"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Queen of the Air",
+          "scenes": [
+            {
+              "narration": "By 1937, Earhart was one of the most famous people in the world. In 1928 she had become the first woman to cross the Atlantic by plane, as a passenger.",
+              "label": "1928",
+              "image_search": [
+                "Amelia Earhart Friendship 1928",
+                "Amelia Earhart 1928"
+              ]
+            },
+            {
+              "narration": "Four years later, in 1932, she did it alone — the first woman to fly solo and nonstop across the Atlantic. She was awarded the Distinguished Flying Cross.",
+              "label": "1932",
+              "image_search": [
+                "Amelia Earhart 1932 Lockheed Vega",
+                "Amelia Earhart Lockheed Vega"
+              ]
+            },
+            {
+              "narration": "Now she wanted something bigger still: a flight around the world, close to the equator, the longest way round.",
+              "image_search": [
+                "Amelia Earhart portrait 1935",
+                "Amelia Earhart portrait"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "One Tiny Island",
+          "scenes": [
+            {
+              "narration": "Her aircraft was a twin-engine Lockheed Electra 10E. Her navigator was Fred Noonan, an experienced airline navigator.",
+              "image_search": [
+                "Fred Noonan Amelia Earhart",
+                "Fred Noonan navigator"
+              ]
+            },
+            {
+              "narration": "By the end of June they had flown most of the way around the world and reached Lae, in New Guinea. Only the Pacific Ocean remained, and the hardest leg of all.",
+              "label": "LAE",
+              "image_search": [
+                "Amelia Earhart Lae New Guinea",
+                "Lae New Guinea 1937"
+              ]
+            },
+            {
+              "narration": "On July 2, they took off for Howland Island, about 2,556 miles away. The plane was heavily loaded with around 1,100 gallons of fuel.",
+              "label": "2,556 MILES",
+              "image_search": [
+                "Amelia Earhart Electra takeoff",
+                "Amelia Earhart Lockheed Electra 10E"
+              ]
+            },
+            {
+              "narration": "Howland is a tiny, flat speck of land. To help guide them in, the Coast Guard cutter Itasca waited offshore, ready with radio and direction-finding equipment.",
+              "image_search": [
+                "Howland Island aerial",
+                "Howland Island"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Last Morning",
+          "scenes": [
+            {
+              "narration": "At 7:42 a.m., her voice came through: they must be on top of the ship but could not see it, fuel was low, and they were flying at 1,000 feet.",
+              "label": "07:42",
+              "image_search": [
+                "USCGC Itasca radio room",
+                "USCGC Itasca 1930s"
+              ]
+            },
+            {
+              "narration": "The Itasca tried again and again to answer and to take a bearing on her signal. It never got a usable fix on the plane.",
+              "image_search": [
+                "USCGC Itasca cutter",
+                "USCGC Itasca"
+              ]
+            },
+            {
+              "narration": "At 8:43 a.m. came the final message. They were on a line 157 to 337, running north and south. After that, nothing. The Itasca never heard from Amelia Earhart or Fred Noonan again.",
+              "label": "08:43",
+              "image_search": [
+                "Amelia Earhart last flight map",
+                "Amelia Earhart flight route 1937"
+              ]
+            },
+            {
+              "narration": "Historians point to several possible problems: a direction finder that may have failed, Earhart's limited training on it, and confusion between time systems used by plane and ship.",
+              "image_search": [
+                "Amelia Earhart cockpit Electra",
+                "Amelia Earhart Fred Noonan 1937"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Search",
+          "scenes": [
+            {
+              "narration": "The U.S. Navy and Coast Guard launched a huge search. It ran until July 19 and cost about four million dollars, the most expensive American search up to that time.",
+              "label": "$4 MILLION",
+              "image_search": [
+                "USS Lexington 1937",
+                "USS Lexington CV-2"
+              ]
+            },
+            {
+              "narration": "Ships and aircraft covered huge areas of ocean around Howland. They found no wreckage and no survivors. Not a single piece of physical evidence was ever recovered.",
+              "image_search": [
+                "Howland Island Earhart Light",
+                "Earhart Light Howland Island"
+              ]
+            },
+            {
+              "narration": "On January 5, 1939, Amelia Earhart was declared legally dead. She was 41 years old. The mystery was only beginning.",
+              "label": "1939",
+              "image_search": [
+                "Amelia Earhart newspaper 1937",
+                "Amelia Earhart missing newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "New Clues",
+          "scenes": [
+            {
+              "narration": "One theory is the simplest: the Electra ran out of fuel and went down in the open ocean somewhere near Howland, and the wreck has simply never been found.",
+              "image_search": [
+                "Amelia Earhart Electra Oakland 1937",
+                "Lockheed Electra 10E"
+              ]
+            },
+            {
+              "narration": "Another says they missed Howland and flew on south along that 157 to 337 line, to Gardner Island, now called Nikumaroro.",
+              "label": "NIKUMARORO",
+              "image_search": [
+                "Nikumaroro atoll",
+                "Nikumaroro Gardner Island"
+              ]
+            },
+            {
+              "narration": "In 1940, a British official on Nikumaroro found thirteen human bones near the remains of a campfire. They were sent to Fiji for examination.",
+              "label": "1940",
+              "image_search": [
+                "Nikumaroro shipwreck SS Norwich City",
+                "Nikumaroro lagoon"
+              ]
+            },
+            {
+              "narration": "A doctor there, David Hoodless, decided they came from a European male. Then the bones vanished. Only his seven measurements survive.",
+              "image_search": [
+                "Suva Fiji 1940",
+                "Suva Fiji"
+              ]
+            },
+            {
+              "narration": "In 2018, University of Tennessee anthropologist Richard Jantz compared those measurements with Earhart's. He concluded they strongly support the bones being hers, though without the bones, nothing can be proven.",
+              "label": "2018",
+              "image_search": [
+                "Amelia Earhart 1936",
+                "Amelia Earhart portrait"
+              ]
+            },
+            {
+              "narration": "A third theory claims the pair were captured by Japanese forces. Numerous expeditions have searched, but no theory has yet produced definitive proof.",
+              "image_search": [
+                "Marshall Islands map 1930s",
+                "Jaluit Atoll"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Open Question",
+          "scenes": [
+            {
+              "narration": "Sank near Howland, castaway on Nikumaroro, or captured? Which theory do you believe, and why? Follow for more untold history.",
+              "image_search": [
+                "Amelia Earhart Lockheed Electra 10E",
+                "Amelia Earhart 1937"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "✈️ \"We must be on you, but we cannot see you. Fuel is running low.\"\n\nThose were among the last words Amelia Earhart sent to the Coast Guard cutter Itasca on July 2, 1937, as she and navigator Fred Noonan searched for tiny Howland Island in the Pacific.\n\nThis documentary follows her rise, the final morning minute by minute, the $4 million search that found nothing — and the 13 bones discovered on a remote atoll in 1940.\n\nSank at sea, castaway, or captured? Which theory do you believe?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "AmeliaEarhart",
+        "UnsolvedMysteries",
+        "AviationHistory",
+        "Documentary"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amelia_Earhart",
+        "https://www.docsteach.org/documents/document/earhart-radio-log",
+        "https://www.nationalgeographic.com/history/article/amelia-earhart-bones-forensic-analysis"
       ]
     }
   ]
