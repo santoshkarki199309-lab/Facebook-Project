@@ -40,11 +40,19 @@
         },
         {
           "image_prompt": "Cutaway illustration of a bronze box showing a coin falling onto a small lever, a beam connected to a plug inside a water container, clean technical style without text",
-          "narration": "Drop a coin into the slot. It lands on a lever, the lever lifts a plug, and holy water pours out. When the coin slides off, the flow stops."
+          "narration": "Drop a coin into the slot. It lands on a lever, the lever lifts a plug, and holy water pours out. When the coin slides off, the flow stops.",
+          "image_search": [
+            "Hero of Alexandria holy water dispenser",
+            "Hero of Alexandria Pneumatica"
+          ]
         },
         {
           "image_prompt": "Worshippers in ancient Egyptian and Greek clothing washing their hands at a temple basin, priests watching, soft morning light",
-          "narration": "Why build it? One explanation is that temple visitors in Roman Egypt were taking more holy water than they paid for."
+          "narration": "Why build it? One explanation is that temple visitors in Roman Egypt were taking more holy water than they paid for.",
+          "image_search": [
+            "Hero of Alexandria Pneumatica",
+            "Hero of Alexandria automaton"
+          ]
         },
         {
           "image_prompt": "A small spinning bronze sphere on a stand releasing jets of steam from two bent nozzles, ancient workshop, dramatic lighting",
@@ -53,7 +61,11 @@
         },
         {
           "image_prompt": "A modern vending machine glowing in a dark corridor next to the ghostly image of an ancient bronze temple dispenser",
-          "narration": "So which ancient invention surprises you most? Tell us in the comments, and follow for more."
+          "narration": "So which ancient invention surprises you most? Tell us in the comments, and follow for more.",
+          "image_search": [
+            "Aeolipile Hero of Alexandria",
+            "Hero of Alexandria"
+          ]
         }
       ],
       "caption": "🪙 Insert coin. Receive holy water. Around 2,000 years ago.\n\nHero of Alexandria described a coin-operated dispenser for temples: the coin's weight tipped a lever that briefly opened the flow.\n\nWhat modern gadget do you think the ancients would have loved? 👇",
@@ -108,7 +120,12 @@
         },
         {
           "image_prompt": "Close-up of an old handwritten note on weathered paper inside a tin cylinder, set on Arctic stones",
-          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not."
+          "narration": "Years later, searchers found a note in a stone cairn. The first message said, all well. A second one, added in 1848, did not.",
+          "image_search": [
+            "Victory Point note Franklin expedition",
+            "Franklin expedition note 1848",
+            "Franklin expedition cairn"
+          ]
         },
         {
           "image_prompt": "Sailors in heavy wool coats pulling sledges across endless sea ice, abandoned ships in the far distance",
@@ -129,11 +146,19 @@
         {
           "image_prompt": "An underwater view of a wooden shipwreck on the seabed in green Arctic water, a ship's bell visible, divers' lights",
           "narration": "Until the twist. Erebus was found in 2014, Terror in 2016. Both sitting on the Arctic seabed.",
-          "label": "2014 · 2016"
+          "label": "2014 · 2016",
+          "image_search": [
+            "HMS Erebus wreck",
+            "HMS Erebus Terror"
+          ]
         },
         {
           "image_prompt": "An empty Arctic shoreline with a lone stone cairn at sunset, ice floes drifting",
-          "narration": "What should explorers search for next? Follow for more untold history."
+          "narration": "What should explorers search for next? Follow for more untold history.",
+          "image_search": [
+            "HMS Erebus HMS Terror in the ice",
+            "Franklin expedition"
+          ]
         }
       ],
       "caption": "🧊 ON THIS DAY in 1854, The Times carried explorer John Rae's report on the fate of the lost Franklin Expedition.\n\nIn 1845, 129 men sailed for the Arctic on HMS Erebus and HMS Terror and never came home. A note left in a cairn in 1848 said the ships had been abandoned in the ice and Franklin was already dead.\n\nMore than 30 search expeditions failed to find the ships. Then Erebus was discovered in 2014 and Terror in 2016.\n\nWe still don't fully know how the men died. What do you think went wrong? 👇",
@@ -148,6 +173,273 @@
         "https://canadianmysteries.ca/sites/franklin/home/homeIntro_en.htm",
         "https://www.historymuseum.ca/blog/a-very-special-piece-of-paper/",
         "https://canadianmysteries.ca/sites/franklin/archive/text/TimesRae_en.htm"
+      ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "Archbishop Ussher's date for creation, 4004 BC",
+      "image_search": [
+        "James Ussher portrait",
+        "James Ussher Peter Lely",
+        "Annales Veteris Testamenti Ussher"
+      ],
+      "layout": "full",
+      "caption": "📅 ON THIS DAY, according to a famous 17th-century calculation, the world began: October 23, 4004 BC.\n\nThe date came from James Ussher, Archbishop of Armagh in Ireland and one of the most respected scholars of his time.\n\nIn 1650 he published a vast chronology, the Annales Veteris Testamenti. He added up the generations and reigns listed in the Old Testament, and anchored them to a known date in Babylonian history: 562 BC.\n\nHis answer: creation began at nightfall before Sunday, October 23, 4004 BC — near the autumn equinox, which he worked out using Johannes Kepler's astronomical tables.\n\nHe wasn't the only one trying. Bede had suggested 3952 BC. Kepler himself came up with 3992 BC.\n\nUssher's date was widely accepted in the Western world until the 19th century, and was printed in popular Bibles. Then geology revealed an Earth far older than anyone had imagined.\n\nEven so, the scientist Stephen Jay Gould defended Ussher as a serious scholar for his age.\n\nShould we judge thinkers of the past by what they could know then, or by what we know now?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "HistoryOfScience",
+        "IrishHistory"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ussher_chronology",
+        "https://www.britannica.com/biography/James-Ussher"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "The Tacoma Narrows Bridge collapse, 1940",
+      "title": "Galloping Gertie: The Bridge That Shook Itself Apart in 1940",
+      "hook_text": "THIS BRIDGE TWISTED ITSELF APART",
+      "chapters": [
+        {
+          "title": "Caught on Camera",
+          "scenes": [
+            {
+              "narration": "On the morning of November 7, 1940, a brand-new bridge in Washington State began to twist like a ribbon in the wind. And cameras were rolling.",
+              "label": "7 NOV 1940",
+              "video_search": [
+                "Tacoma Narrows Bridge collapse 1940 film",
+                "Tacoma Narrows Bridge destruction"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge collapse 1940",
+                "Tacoma Narrows Bridge twisting"
+              ]
+            },
+            {
+              "narration": "Within about an hour, its centre span had torn loose and plunged into Puget Sound. The bridge had been open for just four months and seven days.",
+              "video_search": [
+                "Tacoma Narrows Bridge collapse"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge collapse",
+                "Tacoma Narrows Bridge 1940"
+              ]
+            },
+            {
+              "narration": "In this film: the design choice that saved millions and doomed the bridge, the reporter who crawled for his life, and the myth physics textbooks still repeat.",
+              "image_search": [
+                "Galloping Gertie Tacoma Narrows",
+                "Tacoma Narrows Bridge 1940"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A Cheaper Bridge",
+          "scenes": [
+            {
+              "narration": "The bridge crossed the Tacoma Narrows, a strait of Puget Sound. Construction began in November 1938.",
+              "label": "1938",
+              "image_search": [
+                "Tacoma Narrows Bridge construction 1939",
+                "Tacoma Narrows Bridge construction"
+              ]
+            },
+            {
+              "narration": "Engineer Clark Eldridge's original design was estimated at 11 million dollars. Then the famous New York engineer Leon Moisseiff proposed changes.",
+              "image_search": [
+                "Leon Moisseiff engineer",
+                "Leon Moisseiff"
+              ]
+            },
+            {
+              "narration": "Instead of 25-foot-deep stiffening trusses under the road, Moisseiff used solid steel plate girders only eight feet deep. His version cost about four million dollars less.",
+              "label": "8 FEET",
+              "image_search": [
+                "Tacoma Narrows Bridge deck girder",
+                "Tacoma Narrows Bridge roadway 1940"
+              ]
+            },
+            {
+              "narration": "The result was elegant, slim and light. Its 2,800-foot main span made it the third-longest suspension bridge in the world.",
+              "label": "2,800 FEET",
+              "image_search": [
+                "Tacoma Narrows Bridge opening 1940",
+                "Tacoma Narrows Bridge July 1940"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Galloping Gertie",
+          "scenes": [
+            {
+              "narration": "On July 1, 1940, around 10,000 people came to the opening. But even before then, workers had noticed the deck moving up and down in the wind.",
+              "label": "1 JUL 1940",
+              "image_search": [
+                "Tacoma Narrows Bridge dedication 1940",
+                "Tacoma Narrows Bridge 1940"
+              ]
+            },
+            {
+              "narration": "They nicknamed it Galloping Gertie. The narrow, shallow deck simply moved too easily. Tie-down cables were added in October to steady it.",
+              "image_search": [
+                "Galloping Gertie bridge",
+                "Tacoma Narrows Bridge oscillation"
+              ]
+            },
+            {
+              "narration": "At the University of Washington, Professor Frederick Farquharson studied a model in a wind tunnel. He proposed fixes, but his studies finished only five days before the collapse.",
+              "image_search": [
+                "Frederick Burt Farquharson",
+                "Tacoma Narrows Bridge model wind tunnel"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Last Morning",
+          "scenes": [
+            {
+              "narration": "On November 7, the wind blew from the southwest, striking the deck side-on. At around 9:30 a.m., engineers measured 42 miles per hour, up from 38 two hours earlier.",
+              "label": "42 MPH",
+              "image_search": [
+                "Tacoma Narrows Bridge November 1940",
+                "Tacoma Narrows Bridge wind"
+              ]
+            },
+            {
+              "narration": "At about 10:03, the motion changed. The deck stopped bouncing and began to twist. Officials and state police closed the bridge.",
+              "label": "10:03",
+              "video_search": [
+                "Tacoma Narrows Bridge collapse 1940 film"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge twisting",
+                "Tacoma Narrows Bridge collapse 1940"
+              ]
+            },
+            {
+              "narration": "Within minutes, the roadway was tilting up to 28 feet on each side, at angles of up to 45 degrees, roughly every five seconds.",
+              "label": "45 DEGREES",
+              "video_search": [
+                "Tacoma Narrows Bridge destruction"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge torsion",
+                "Tacoma Narrows Bridge twisting"
+              ]
+            },
+            {
+              "narration": "Newspaper editor Leonard Coatsworth was out on the span in his car, with his daughter's cocker spaniel, Tubby, in the back seat.",
+              "image_search": [
+                "Tacoma Narrows Bridge car 1940",
+                "Tacoma Narrows Bridge abandoned car"
+              ]
+            },
+            {
+              "narration": "The tilting deck threw his car against the curb. He climbed out of a window and made his way back to safety, but Tubby was still inside.",
+              "image_search": [
+                "Tacoma Narrows Bridge collapse car",
+                "Tacoma Narrows Bridge 1940 collapse"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Fall",
+          "scenes": [
+            {
+              "narration": "Around 10:55, Professor Farquharson himself went out to rescue the dog. The frightened dog bit him, and he had to retreat. Photographer Howard Clifford had already tried and turned back.",
+              "image_search": [
+                "Tacoma Narrows Bridge Farquharson",
+                "Tacoma Narrows Bridge collapse 1940"
+              ]
+            },
+            {
+              "narration": "At 11:02 a.m., a 600-foot section of the centre span broke free, flipped over and fell 195 feet into the water. Spray shot more than 100 feet high.",
+              "label": "11:02",
+              "video_search": [
+                "Tacoma Narrows Bridge collapse 1940 film",
+                "Tacoma Narrows Bridge destruction"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge collapse splash",
+                "Tacoma Narrows Bridge collapse"
+              ]
+            },
+            {
+              "narration": "By 11:10, it was over. Coatsworth's car and Tubby went down with the roadway. Tubby was the only life lost.",
+              "label": "11:10",
+              "image_search": [
+                "Tacoma Narrows Bridge after collapse",
+                "Tacoma Narrows Bridge wreckage"
+              ]
+            },
+            {
+              "narration": "The collapse was filmed by Barney Elliott and Harbine Monroe of a local camera shop. In 1998, that footage was added to the U.S. National Film Registry.",
+              "label": "FILMED",
+              "video_search": [
+                "Tacoma Narrows Bridge destruction",
+                "Tacoma Narrows Bridge collapse"
+              ],
+              "image_search": [
+                "Tacoma Narrows Bridge collapse 1940",
+                "Tacoma Narrows Bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Myth and the Lesson",
+          "scenes": [
+            {
+              "narration": "Many physics textbooks call this a classic example of resonance. Engineers now say that is wrong. It was aeroelastic flutter: the wind fed the twisting, and the twisting caught more wind.",
+              "image_search": [
+                "Tacoma Narrows Bridge twisting",
+                "Tacoma Narrows Bridge torsion"
+              ]
+            },
+            {
+              "narration": "The solid, shallow girders acted like sails. The bridge was simply not stiff or heavy enough to resist the forces the wind created. That morning, the tie-down cables failed too. The disaster ended Moisseiff's career, and he died less than three years later.",
+              "image_search": [
+                "Tacoma Narrows Bridge girder",
+                "Tacoma Narrows Bridge deck"
+              ]
+            },
+            {
+              "narration": "A replacement bridge opened in 1950, reusing the old tower foundations and cable anchorages. The fallen deck still lies below, now an artificial reef listed on the National Register of Historic Places.",
+              "label": "1950",
+              "image_search": [
+                "Tacoma Narrows Bridge 1950",
+                "Tacoma Narrows Bridges"
+              ]
+            },
+            {
+              "narration": "A cheaper design, a warning ignored, and a disaster caught on film. Who do you think was most to blame? Follow for more untold history.",
+              "image_search": [
+                "Tacoma Narrows Bridge collapse 1940",
+                "Galloping Gertie Tacoma Narrows"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "🌉 It was open for just four months — then it twisted itself apart on camera.\n\nOn November 7, 1940, the Tacoma Narrows Bridge in Washington State began swaying and twisting in a 40-mph wind. By 11:10 a.m., its centre span was at the bottom of Puget Sound.\n\nThis documentary covers the cost-cutting design, the nickname \"Galloping Gertie\", the editor who escaped on foot, the dog who didn't — and the physics myth textbooks still get wrong.\n\nWho do you think was most to blame?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "TacomaNarrowsBridge",
+        "EngineeringHistory",
+        "Documentary"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)",
+        "https://historylink.org/File/5048",
+        "https://wsdot.wa.gov/tnbhistory/collapse.htm"
       ]
     }
   ]
