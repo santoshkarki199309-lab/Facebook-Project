@@ -51,5 +51,19 @@
     "sources_comment": true,
     "topic": "The Antikythera Mechanism",
     "type": "photo"
+  },
+  "2026-10-17:d": {
+    "at": "2026-10-18T01:01:06+00:00",
+    "id": "2353598235179385",
+    "image_credits": [
+      "Richard Horwood / Wikimedia Commons (Public domain)",
+      "Scan by NYPL / Wikimedia Commons (Public domain)",
+      "William Hogarth / Wikimedia Commons (Public domain)",
+      "anonymous / Wikimedia Commons (CC0)",
+      "Prioryman / Wikimedia Commons (CC BY-SA)"
+    ],
+    "sources_comment": true,
+    "topic": "The London Beer Flood of 1814",
+    "type": "reel"
   }
 }
