@@ -176,6 +176,271 @@
         "https://blog.loa.org/2010/10/october-18-1851-melvilles-moby-dick-is.html",
         "https://education.nationalgeographic.org/resource/tragedy-whaleship-essex"
       ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "Alaska transfer ceremony at Sitka, 1867",
+      "image_search": [
+        "Alaska Purchase check",
+        "Alaska Purchase treaty 1867",
+        "Sitka Alaska 1868"
+      ],
+      "layout": "card",
+      "image_headline": "The $7.2 million flag swap",
+      "series": "ON THIS DAY",
+      "caption": "📅 ON THIS DAY in 1867, one flag came down in Sitka — and the U.S. grew by nearly 600,000 square miles.\n\nOn October 18, 1867, about 250 American soldiers marched up Castle Hill in Sitka, the capital of Russian America. At around 3:30 p.m., the Russian flag was lowered and the Stars and Stripes went up in its place.\n\nThe price: $7.2 million — less than 2 cents an acre. Secretary of State William Seward had agreed the deal with Russian minister Eduard de Stoeckl that March.\n\nThe strange part? For the Russians watching, it wasn't October 18 at all. Russia still used the old Julian calendar, 12 days behind, so their date was October 6.\n\nCritics mocked the deal as \"Seward's Folly\" and \"Seward's Icebox\" — until the Klondike gold strike of 1896 changed most minds.\n\nThe cancelled check, dated August 1, 1868, still survives in the U.S. National Archives.\n\nWhat do you think is the greatest bargain in history?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "AlaskaHistory",
+        "AlaskaPurchase"
+      ],
+      "sources": [
+        "https://www.archives.gov/milestone-documents/check-for-the-purchase-of-alaska",
+        "https://en.wikipedia.org/wiki/Alaska_Day",
+        "https://www.britannica.com/event/Alaska-Purchase"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "The sinking of the Titanic",
+      "title": "Titanic's Last 160 Minutes: Seven Warnings, 20 Lifeboats and a Silent Radio",
+      "hook_text": "SEVEN WARNINGS. TWENTY LIFEBOATS. ONE NIGHT.",
+      "chapters": [
+        {
+          "title": "Iceberg, Right Ahead",
+          "scenes": [
+            {
+              "narration": "At 11:39 p.m. on April 14, 1912, lookout Frederick Fleet saw a dark shape in front of the Titanic. He called the bridge: iceberg, right ahead.",
+              "label": "23:39",
+              "image_search": [
+                "Frederick Fleet Titanic lookout",
+                "Titanic crow's nest",
+                "RMS Titanic 1912"
+              ]
+            },
+            {
+              "narration": "A minute later, the largest ship in the world scraped along the ice. Less than three hours after that, she was gone, and around 1,500 people were dead.",
+              "image_search": [
+                "Titanic iceberg 1912",
+                "Titanic iceberg photograph"
+              ]
+            },
+            {
+              "narration": "In the next few minutes you'll hear about the seven ice warnings, the lifeboats that left half empty, and the nearby ship whose radio had just gone silent.",
+              "image_search": [
+                "Untergang der Titanic Willy Stöwer",
+                "Titanic sinking painting"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Biggest Ship Afloat",
+          "scenes": [
+            {
+              "narration": "Titanic was built by Harland and Wolff in Belfast for the White Star Line, side by side with her near-identical sister ship, the Olympic.",
+              "label": "BELFAST",
+              "image_search": [
+                "Titanic Harland and Wolff Belfast",
+                "Olympic and Titanic Belfast",
+                "Titanic under construction"
+              ]
+            },
+            {
+              "narration": "She was almost 883 feet long, with ten decks and a gross tonnage of over 46,000. Passengers and crew together, she was built to carry more than 3,300 people.",
+              "image_search": [
+                "RMS Titanic sea trials 1912",
+                "RMS Titanic Belfast Lough",
+                "RMS Titanic 1912"
+              ]
+            },
+            {
+              "narration": "On April 10, 1912, she left Southampton on her maiden voyage to New York, with roughly 2,200 passengers and crew on board.",
+              "label": "10 APR 1912",
+              "video_search": [
+                "Titanic 1912 newsreel",
+                "RMS Titanic film 1912"
+              ],
+              "image_search": [
+                "RMS Titanic departing Southampton",
+                "RMS Titanic Southampton"
+              ]
+            },
+            {
+              "narration": "In command was Captain Edward Smith. He was 62 years old, with about forty years at sea and twenty-seven years as a captain.",
+              "image_search": [
+                "Edward John Smith captain Titanic",
+                "Captain Edward Smith White Star"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Seven Warnings",
+          "scenes": [
+            {
+              "narration": "The first ice warning reached Titanic at nine in the morning on April 14, from the liner Caronia. By that night, her wireless operators had received seven.",
+              "label": "09:00",
+              "image_search": [
+                "RMS Caronia 1905 Cunard",
+                "Caronia Cunard liner"
+              ]
+            },
+            {
+              "narration": "Even so, the ship kept up a speed of about 22 knots — faster than her normal service speed of 21, and close to her top speed.",
+              "image_search": [
+                "Titanic Marconi wireless room",
+                "Harold Bride Titanic wireless"
+              ]
+            },
+            {
+              "narration": "The nearest ship, the Californian, had warned of ice too. At 11:30 p.m., her only radio operator, Cyril Evans, switched off his set and went to bed.",
+              "label": "23:30",
+              "image_search": [
+                "SS Californian 1912",
+                "SS Californian Leyland Line"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Two Hours, Forty Minutes",
+          "scenes": [
+            {
+              "narration": "Ten minutes later, Titanic struck. The ice opened at least five of her sixteen watertight compartments. She could stay afloat with four flooded — not five.",
+              "label": "23:40",
+              "image_search": [
+                "Titanic watertight compartments diagram",
+                "Titanic iceberg damage diagram",
+                "RMS Titanic profile"
+              ]
+            },
+            {
+              "narration": "Her chief designer, Thomas Andrews, was travelling on board. He worked out what the flooding meant, and concluded that the ship was doomed.",
+              "image_search": [
+                "Thomas Andrews shipbuilder",
+                "Thomas Andrews Titanic"
+              ]
+            },
+            {
+              "narration": "At 12:45 a.m., the first distress call went out, using the old code CQD, later the new SOS. That same minute, lifeboat number 7 was lowered.",
+              "label": "00:45",
+              "image_search": [
+                "Titanic Marconigram distress",
+                "Titanic wireless message Carpathia"
+              ]
+            },
+            {
+              "narration": "It had room for 65 people. Only about 28 were in it. Titanic carried just 20 lifeboats, with space for about 1,178 people, out of more than 2,200 on board.",
+              "image_search": [
+                "Titanic lifeboat Collapsible D",
+                "Titanic lifeboat 1912"
+              ]
+            },
+            {
+              "narration": "Survivors remembered the ship's band playing lively tunes, even ragtime, as the boats were loaded. Whether they ended with the hymn Nearer, My God, to Thee is still disputed.",
+              "image_search": [
+                "Wallace Hartley Titanic bandmaster",
+                "Titanic band musicians"
+              ]
+            },
+            {
+              "narration": "Around 2:15 a.m. the bow plunged and the stern rose high into the air. The ship broke apart, and by 2:20 a.m. Titanic had disappeared.",
+              "label": "02:20",
+              "image_search": [
+                "Sinking of the Titanic engraving",
+                "Titanic sinking illustration 1912"
+              ]
+            },
+            {
+              "narration": "Hundreds were left in water around minus two degrees Celsius. Most of the roughly 1,500 who died were killed by the cold.",
+              "image_search": [
+                "Titanic Engineers Memorial Southampton",
+                "Titanic memorial Belfast"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Rescue",
+          "scenes": [
+            {
+              "narration": "Fifty-eight miles away, the Cunard liner Carpathia picked up the distress call and raced towards Titanic's last reported position.",
+              "label": "58 MILES",
+              "image_search": [
+                "RMS Carpathia Cunard",
+                "RMS Carpathia"
+              ]
+            },
+            {
+              "narration": "At 4:10 a.m., Carpathia picked up the first lifeboat. By morning she had rescued every survivor — about 710 people, most of them women and children.",
+              "label": "04:10",
+              "image_search": [
+                "Titanic lifeboat Carpathia",
+                "Titanic survivors Carpathia"
+              ]
+            },
+            {
+              "narration": "On April 18, Carpathia docked in New York. Crowds and reporters were waiting, and the disaster was already front-page news around the world.",
+              "label": "18 APR 1912",
+              "image_search": [
+                "Titanic newspaper 1912 headline",
+                "Titanic disaster newspaper"
+              ]
+            },
+            {
+              "narration": "Inquiries in America and Britain followed. They led to a new treaty in 1914: the International Convention for the Safety of Life at Sea, which still exists today.",
+              "image_search": [
+                "Titanic inquiry 1912 Senate",
+                "Titanic British Wreck Commissioner inquiry"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What the Deep Revealed",
+          "scenes": [
+            {
+              "narration": "For 73 years, nobody knew exactly where she lay. Then, on September 1, 1985, a joint French and American expedition found the wreck, about two and a half miles down.",
+              "label": "1 SEP 1985",
+              "image_search": [
+                "Titanic wreck bow",
+                "RMS Titanic wreck NOAA"
+              ]
+            },
+            {
+              "narration": "On the sea floor, the wreck showed what some survivors had described from the lifeboats: Titanic had broken apart before she went under.",
+              "image_search": [
+                "Titanic wreck stern",
+                "Titanic wreck 2004 NOAA"
+              ]
+            },
+            {
+              "narration": "Seven warnings. Twenty lifeboats. A nearby ship with its radio switched off. Which one change do you think would have saved the most lives? Follow for more untold history.",
+              "image_search": [
+                "RMS Titanic departing Southampton",
+                "RMS Titanic 1912"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "🚢 Seven ice warnings. Twenty lifeboats. A nearby ship whose radio had just been switched off.\n\nThis is the minute-by-minute story of Titanic's last 160 minutes — from Frederick Fleet's call of \"Iceberg, right ahead!\" at 11:39 p.m. to the moment she vanished at 2:20 a.m. on April 15, 1912.\n\nYou'll see why a lifeboat built for 65 left with about 28 people, why the closest ship never answered, and what the wreck revealed when it was finally found in 1985.\n\nWhich single change would have saved the most lives that night?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Titanic",
+        "MaritimeHistory",
+        "Documentary"
+      ],
+      "sources": [
+        "https://www.rmg.co.uk/stories/maritime-history/rms-titanic-facts",
+        "https://www.history.com/articles/how-long-titanic-took-to-sink-hours",
+        "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+        "https://www.britannica.com/topic/Titanic"
+      ]
     }
   ]
 }
