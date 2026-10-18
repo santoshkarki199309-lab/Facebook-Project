@@ -35,5 +35,10 @@ jobs:
           git add content/state/image_preview.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "state: image preview"
-          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          # -X theirs: if the preview file changed meanwhile, keep this run's fresh version
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs -q || git rebase --abort 2>/dev/null
+            git push -q && exit 0
+            sleep 10
+          done
           echo "::notice::preview not saved (queue changed meanwhile); the next run will save it"
