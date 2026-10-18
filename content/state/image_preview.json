@@ -221,6 +221,342 @@
       "duration": 0.0
     }
   },
+  "2026-10-18:e:post": {
+    "topic": "Alaska transfer ceremony at Sitka, 1867",
+    "tried": [
+      "image:Alaska Purchase check"
+    ],
+    "hit": {
+      "title": "File:Alaska Purchase (hi-res).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Alaska_Purchase_%28hi-res%29.jpg/1920px-Alaska_Purchase_%28hi-res%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alaska_Purchase_(hi-res).jpg",
+      "license": "Public domain",
+      "credit": "Edouard de Stoeckl and William H. Seward / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 1": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Frederick Fleet Titanic lookout"
+    ],
+    "hit": {
+      "title": "File:Grave of Frederick Fleet, the Titanic lookout in Hollybrook Cemetery - geograph.org.uk - 6839747.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Grave_of_Frederick_Fleet%2C_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg/1920px-Grave_of_Frederick_Fleet%2C_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grave_of_Frederick_Fleet,_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg",
+      "license": "CC BY-SA",
+      "credit": "Marathon / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 2": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic iceberg 1912"
+    ],
+    "hit": {
+      "title": "File:Titanic iceberg.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Titanic_iceberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_iceberg.jpg",
+      "license": "Public domain",
+      "credit": "The chief steward of the liner Prinz Adalbert / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 3": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Untergang der Titanic Willy St\u00f6wer"
+    ],
+    "hit": {
+      "title": "File:St\u00f6wer Titanic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/1920px-St%C3%B6wer_Titanic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:St%C3%B6wer_Titanic.jpg",
+      "license": "Public domain",
+      "credit": "Willy St\u00f6wer / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 4": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic Harland and Wolff Belfast"
+    ],
+    "hit": {
+      "title": "File:RMS Titanic being fitted out at Harland and Wolff in Belfast, Ireland, with three funnels.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RMS_Titanic_being_fitted_out_at_Harland_and_Wolff_in_Belfast%2C_Ireland%2C_with_three_funnels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_being_fitted_out_at_Harland_and_Wolff_in_Belfast,_Ireland,_with_three_funnels.jpg",
+      "license": "Public domain",
+      "credit": "Robert John Welch (1859-1936) / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 5": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:RMS Titanic sea trials 1912"
+    ],
+    "hit": {
+      "title": "File:RMS Titanic sea trials April 2, 1912.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Titanic_sea_trials_April_2%2C_1912.jpg/1920px-RMS_Titanic_sea_trials_April_2%2C_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_sea_trials_April_2,_1912.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 6": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "video:Titanic 1912 newsreel"
+    ],
+    "hit": {
+      "title": "File:Titanic Disaster - Genuine Footage (1911-1912)(enhanced).webm",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Titanic_Disaster_-_Genuine_Footage_%281911-1912%29%28enhanced%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Disaster_-_Genuine_Footage_(1911-1912)(enhanced).webm",
+      "license": "Public domain",
+      "credit": "British Path\u00e9 / Wikimedia Commons (Public domain)",
+      "duration": 407.961
+    }
+  },
+  "2026-10-18:f:scene 7": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Edward John Smith captain Titanic"
+    ],
+    "hit": {
+      "title": "File:Edward J. Smith.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Edward_J._Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_J._Smith.jpg",
+      "license": "Public domain",
+      "credit": "New York Times / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 8": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:RMS Caronia 1905 Cunard",
+      "image:Caronia Cunard liner"
+    ],
+    "hit": null
+  },
+  "2026-10-18:f:scene 9": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic Marconi wireless room"
+    ],
+    "hit": {
+      "title": "File:Titanic Marconi Wireless Radio Room.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Titanic_Marconi_Wireless_Radio_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Marconi_Wireless_Radio_Room.jpg",
+      "license": "Public domain",
+      "credit": "Francis Browne / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 10": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:SS Californian 1912"
+    ],
+    "hit": {
+      "title": "File:Californian.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Californian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Californian.jpg",
+      "license": "Public domain",
+      "credit": "Louis Ogden / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 11": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic watertight compartments diagram",
+      "image:Titanic iceberg damage diagram",
+      "image:RMS Titanic profile"
+    ],
+    "hit": {
+      "title": "File:Titanic Quarter - RMS Titanic Slipway - geograph.org.uk - 3702648.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg/1920px-Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg",
+      "license": "CC BY-SA",
+      "credit": "Joseph Mischyshyn / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 12": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Thomas Andrews shipbuilder"
+    ],
+    "hit": {
+      "title": "File:Thomas Andrews (February 2024.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Thomas_Andrews_%28February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Thomas_Andrews_(February_2024.jpg",
+      "license": "Public domain",
+      "credit": "Ingyin Naing / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 13": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic Marconigram distress",
+      "image:Titanic wireless message Carpathia"
+    ],
+    "hit": null
+  },
+  "2026-10-18:f:scene 14": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic lifeboat Collapsible D",
+      "image:Titanic lifeboat 1912"
+    ],
+    "hit": {
+      "title": "File:Titanic lifeboat number 6.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Titanic_lifeboat_number_6.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_lifeboat_number_6.jpeg",
+      "license": "Public domain",
+      "credit": "Louis Ogden / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 15": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Wallace Hartley Titanic bandmaster"
+    ],
+    "hit": {
+      "title": "File:\"Wallace Hartley\" Bandmaster of the Titanic - geograph.org.uk - 2489897.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg/1920px-%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg",
+      "license": "CC BY-SA",
+      "credit": "Robert Wade / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 16": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Sinking of the Titanic engraving"
+    ],
+    "hit": {
+      "title": "File:Titanic sinking, painting by Willy St\u00f6wer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Titanic_sinking%2C_painting_by_Willy_St%C3%B6wer.jpg/1920px-Titanic_sinking%2C_painting_by_Willy_St%C3%B6wer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_sinking,_painting_by_Willy_St%C3%B6wer.jpg",
+      "license": "Public domain",
+      "credit": "Willy St\u00f6wer / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 17": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic Engineers Memorial Southampton"
+    ],
+    "hit": {
+      "title": "File:Titanic Engineers Memorial Southampton 2016.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Titanic_Engineers_Memorial_Southampton_2016.JPG/1920px-Titanic_Engineers_Memorial_Southampton_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Engineers_Memorial_Southampton_2016.JPG",
+      "license": "CC BY-SA",
+      "credit": "photo by Geni sculpture by Ferdinand Victor Blundstone / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 18": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:RMS Carpathia Cunard"
+    ],
+    "hit": {
+      "title": "File:Carpathia at Cunard Pier 54 1912.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Carpathia_at_Cunard_Pier_54_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Carpathia_at_Cunard_Pier_54_1912.jpg",
+      "license": "Public domain",
+      "credit": "Bain News Service / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 19": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic lifeboat Carpathia"
+    ],
+    "hit": {
+      "title": "File:Carpathia - Titanic lifeboats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Carpathia_-_Titanic_lifeboats.jpg/1920px-Carpathia_-_Titanic_lifeboats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carpathia_-_Titanic_lifeboats.jpg",
+      "license": "Public domain",
+      "credit": "HO, The New York Times / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 20": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic newspaper 1912 headline",
+      "image:Titanic disaster newspaper"
+    ],
+    "hit": null
+  },
+  "2026-10-18:f:scene 21": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic inquiry 1912 Senate"
+    ],
+    "hit": {
+      "title": "File:US Senate Titanic inquiry witnesses.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/US_Senate_Titanic_inquiry_witnesses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:US_Senate_Titanic_inquiry_witnesses.jpg",
+      "license": "Public domain",
+      "credit": "Louis F. Grant / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 22": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic wreck bow"
+    ],
+    "hit": {
+      "title": "File:Titanic wreck bow.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg",
+      "license": "Public domain",
+      "credit": "Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/ / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 23": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:Titanic wreck stern",
+      "image:Titanic wreck 2004 NOAA"
+    ],
+    "hit": {
+      "title": "File:Titanic wreck bow.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg",
+      "license": "Public domain",
+      "credit": "Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/ / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-18:f:scene 24": {
+    "topic": "The sinking of the Titanic",
+    "tried": [
+      "image:RMS Titanic departing Southampton"
+    ],
+    "hit": {
+      "title": "File:RMS Titanic 3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1920px-RMS_Titanic_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
+      "license": "Public domain",
+      "credit": "Francis Godolphin Osbourne Stuart / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
   "2026-10-19:a:post": {
     "topic": "The Terracotta Army",
     "tried": [
@@ -388,9 +724,9 @@
       "image:Nan Madol ruins"
     ],
     "hit": {
-      "title": "File:Nan Madol ruins 6.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
+      "title": "File:Nan Madol ruins 1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nan_Madol_ruins_1.jpg/1920px-Nan_Madol_ruins_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_1.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -863,11 +1199,11 @@
       "image:Cloudesley Shovell portrait"
     ],
     "hit": {
-      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
-      "license": "CC0",
-      "credit": "jacquemart from England / Wikimedia Commons (CC0)",
+      "title": "File:Admiral Sir Cloudesley Shovell, 1650-1707 RMG BHC3026.tiff",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff/lossy-page1-1920px-Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Admiral_Sir_Cloudesley_Shovell,_1650-1707_RMG_BHC3026.tiff",
+      "license": "Public domain",
+      "credit": "Michael Dahl / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
