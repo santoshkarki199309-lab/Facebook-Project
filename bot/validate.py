@@ -133,9 +133,23 @@ def main() -> None:
         from datetime import datetime, timezone
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         files = [f for f in files if f.stem >= today]
-    problems = []
+    # --strict-days N: only problems in the next N days fail the run; later days are warnings
+    # (the daily content task fills and fixes those before they are due).
+    strict = None
+    for a in sys.argv:
+        if a.startswith("--strict-days="):
+            strict = int(a.split("=", 1)[1])
+    cutoff = None
+    if strict is not None:
+        from datetime import datetime, timedelta, timezone
+        cutoff = (datetime.now(timezone.utc) + timedelta(days=strict)).strftime("%Y-%m-%d")
+    problems, warnings = [], []
     for f in files:
-        problems += validate_file(f)
+        found = validate_file(f)
+        if cutoff and f.stem >= cutoff:
+            warnings += found
+        else:
+            problems += found
     seen = {}
     for f in sorted(config.QUEUE_DIR.glob("*.json")):
         try:
@@ -148,7 +162,9 @@ def main() -> None:
             pass
     for x in problems:
         print("::error::" + x)
-    print(f"[validate] {len(files)} file(s), {len(problems)} problem(s)")
+    for x in warnings:
+        print("::warning::" + x)
+    print(f"[validate] {len(files)} file(s), {len(problems)} problem(s), {len(warnings)} warning(s)")
     sys.exit(1 if problems else 0)
 
 
