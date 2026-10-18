@@ -5,9 +5,9 @@
       "image:Great Zimbabwe Great Enclosure wall"
     ],
     "hit": {
-      "title": "File:Wall of the great enclosure, Great Zimbabwe.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure,_Great_Zimbabwe.JPG",
+      "title": "File:Wall of the great enclosure (far), Great Zimbabwe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure_(far),_Great_Zimbabwe.JPG",
       "license": "CC BY",
       "credit": "Jens Klinzing / Wikimedia Commons (CC BY)",
       "duration": 0.0
@@ -1103,9 +1103,9 @@
       "image:Nan Madol ruins"
     ],
     "hit": {
-      "title": "File:Nan Madol ruins 13.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
+      "title": "File:Nan Madol ruins 1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nan_Madol_ruins_1.jpg/1920px-Nan_Madol_ruins_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_1.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -2271,8 +2271,17 @@
   },
   "2026-10-22:b:scene 6": {
     "topic": "Mansa Musa's pilgrimage through Cairo",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Mansa Musa Catalan Atlas"
+    ],
+    "hit": {
+      "title": "File:Catalan Atlas BNF Sheet 6 Mansa Musa (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+      "license": "Public domain",
+      "credit": "attributed to Abraham Cresques / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:c:post": {
     "topic": "The Indus script",
@@ -2332,13 +2341,31 @@
   },
   "2026-10-22:d:scene 4": {
     "topic": "Scilly naval disaster of 1707",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:HMS Association 1707 wreck"
+    ],
+    "hit": {
+      "title": "File:HMS Association (1697).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HMS_Association_%281697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:HMS_Association_(1697).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:d:scene 5": {
     "topic": "Scilly naval disaster of 1707",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Longitude Act 1714"
+    ],
+    "hit": {
+      "title": "File:Longitude Act 1714.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Longitude_Act_1714.jpg/1920px-Longitude_Act_1714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Longitude_Act_1714.jpg",
+      "license": "CC BY-SA",
+      "credit": "LiveRail / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:d:scene 6": {
     "topic": "Scilly naval disaster of 1707",
@@ -2356,13 +2383,385 @@
   },
   "2026-10-22:d:scene 7": {
     "topic": "Scilly naval disaster of 1707",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:18th century sea chart Scilly",
+      "image:Isles of Scilly chart"
+    ],
+    "hit": {
+      "title": "File:Isles of Scilly RMG K0986.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Isles_of_Scilly_RMG_K0986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Isles_of_Scilly_RMG_K0986.jpg",
+      "license": "Public domain",
+      "credit": "Bayly, Simon; Thornton, John / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:d:scene 8": {
     "topic": "Scilly naval disaster of 1707",
-    "tried": [],
+    "tried": [
+      "image:Cloudesley Shovell portrait"
+    ],
+    "hit": {
+      "title": "File:Admiral Sir Cloudesley Shovell, 1650-1707 RMG BHC3026.tiff",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff/lossy-page1-1920px-Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Admiral_Sir_Cloudesley_Shovell,_1650-1707_RMG_BHC3026.tiff",
+      "license": "Public domain",
+      "credit": "Michael Dahl / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:e:post": {
+    "topic": "Garnerin's first parachute jump, 1797",
+    "tried": [
+      "image:Garnerin parachute 1797"
+    ],
+    "hit": {
+      "title": "File:Le premier parachute de Jacques Garnerin, ca. 1799.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Le_premier_parachute_de_Jacques_Garnerin%2C_ca._1799.jpg/1920px-Le_premier_parachute_de_Jacques_Garnerin%2C_ca._1799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Le_premier_parachute_de_Jacques_Garnerin,_ca._1799.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 1": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Endurance Shackleton sinking Hurley"
+    ],
+    "hit": {
+      "title": "File:Endurance Final Sinking.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Endurance_Final_Sinking.jpg/1920px-Endurance_Final_Sinking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Endurance_Final_Sinking.jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 2": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Ernest Shackleton portrait"
+    ],
+    "hit": {
+      "title": "File:Ernest Shackleton, portrait photo by Frank Hurley, 1916.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ernest_Shackleton%2C_portrait_photo_by_Frank_Hurley%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton,_portrait_photo_by_Frank_Hurley,_1916.jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 3": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:James Caird launch Elephant Island",
+      "image:James Caird Shackleton"
+    ],
+    "hit": {
+      "title": "File:James Caird bow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/James_Caird_bow.jpg/1920px-James_Caird_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Caird_bow.jpg",
+      "license": "Public domain",
+      "credit": "Rumping / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 4": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Endurance Plymouth 1914",
+      "image:Imperial Trans-Antarctic Expedition"
+    ],
+    "hit": {
+      "title": "File:British Imperial Trans-Antarctic Expedition, 1914-1917.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/British_Imperial_Trans-Antarctic_Expedition%2C_1914-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:British_Imperial_Trans-Antarctic_Expedition,_1914-1917.jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 5": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Grytviken whaling station South Georgia"
+    ],
+    "hit": {
+      "title": "File:Grytviken Harbour, Island of South Georgia, United Kingdom.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grytviken_Harbour%2C_Island_of_South_Georgia%2C_United_Kingdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Grytviken_Harbour,_Island_of_South_Georgia,_United_Kingdom.jpg",
+      "license": "CC BY-SA",
+      "credit": "Lexaxis7 / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 6": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "video:South 1919 Frank Hurley film",
+      "video:Endurance Shackleton film",
+      "image:Endurance in pack ice Hurley"
+    ],
+    "hit": {
+      "title": "File:Endurance trapped in pack ice.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Endurance_trapped_in_pack_ice.jpg/1920px-Endurance_trapped_in_pack_ice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Endurance_trapped_in_pack_ice.jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 7": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Frank Worsley captain"
+    ],
+    "hit": {
+      "title": "File:Captain Worsley standing by a large pressure ridge RMG P00008.tiff",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Captain_Worsley_standing_by_a_large_pressure_ridge_RMG_P00008.tiff/lossy-page1-1920px-Captain_Worsley_standing_by_a_large_pressure_ridge_RMG_P00008.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Captain_Worsley_standing_by_a_large_pressure_ridge_RMG_P00008.tiff",
+      "license": "Public domain",
+      "credit": "James Francis Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 8": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Endurance night ice Hurley"
+    ],
+    "hit": {
+      "title": "File:Sailing ship Endurance trapped and crushed by ice in the Antarctic, 1915 (exbt-ice-LongNight).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sailing_ship_Endurance_trapped_and_crushed_by_ice_in_the_Antarctic%2C_1915_%28exbt-ice-LongNight%29.jpg/1920px-Sailing_ship_Endurance_trapped_and_crushed_by_ice_in_the_Antarctic%2C_1915_%28exbt-ice-LongNight%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sailing_ship_Endurance_trapped_and_crushed_by_ice_in_the_Antarctic,_1915_(exbt-ice-LongNight).jpg",
+      "license": "Public domain",
+      "credit": "Hurley, F. / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 9": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Ocean Camp Shackleton"
+    ],
+    "hit": {
+      "title": "File:South - the story of Shackleton's last expedition, 1914-1917 - Ocean Camp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_Ocean_Camp.jpg/1920px-South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_Ocean_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:South_-_the_story_of_Shackleton%27s_last_expedition,_1914-1917_-_Ocean_Camp.jpg",
+      "license": "Public domain",
+      "credit": "Author Ernest Henry Shackleton Photograph by F. Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 10": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Frank Hurley photographer Endurance"
+    ],
+    "hit": {
+      "title": "File:Relieving of marooned men by Chilean tug Yelcho, 1916 - photographer Frank Hurley (8725114142).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Relieving_of_marooned_men_by_Chilean_tug_Yelcho%2C_1916_-_photographer_Frank_Hurley_%288725114142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Relieving_of_marooned_men_by_Chilean_tug_Yelcho,_1916_-_photographer_Frank_Hurley_(8725114142).jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 11": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Endurance wreck ice Hurley",
+      "image:Endurance ship 1915"
+    ],
+    "hit": {
+      "title": "File:StateLibQld 1 147919 Endurance (ship).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/StateLibQld_1_147919_Endurance_%28ship%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_147919_Endurance_(ship).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 12": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Patience Camp Shackleton"
+    ],
+    "hit": {
+      "title": "File:South - the story of Shackleton's last expedition, 1914-1917 - The Kitchen at Patience Camp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_The_Kitchen_at_Patience_Camp.jpg/1920px-South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_The_Kitchen_at_Patience_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:South_-_the_story_of_Shackleton%27s_last_expedition,_1914-1917_-_The_Kitchen_at_Patience_Camp.jpg",
+      "license": "Public domain",
+      "credit": "Author Ernest Henry Shackleton Photograph by F. Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 13": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Shackleton lifeboats ice 1916",
+      "image:Shackleton crew lifeboat"
+    ],
     "hit": null
+  },
+  "2026-10-22:f:scene 14": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Elephant Island Point Wild"
+    ],
+    "hit": {
+      "title": "File:Elephant Island by Landsat 8.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elephant_Island_by_Landsat_8.jpeg/1920px-Elephant_Island_by_Landsat_8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Elephant_Island_by_Landsat_8.jpeg",
+      "license": "Public domain",
+      "credit": "NASA Earth Observatory image by Joshua Stevens, using Landsat data from the U.S. / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 15": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Launching the James Caird"
+    ],
+    "hit": {
+      "title": "File:South - the story of Shackleton's last expedition, 1914-1917 - Launching the James Caird.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_Launching_the_James_Caird.jpg/1920px-South_-_the_story_of_Shackleton%27s_last_expedition%2C_1914-1917_-_Launching_the_James_Caird.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:South_-_the_story_of_Shackleton%27s_last_expedition,_1914-1917_-_Launching_the_James_Caird.jpg",
+      "license": "Public domain",
+      "credit": "Author Ernest Henry Shackleton Photograph by F. Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 16": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:James Caird boat Shackleton"
+    ],
+    "hit": {
+      "title": "File:James Caird bow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/James_Caird_bow.jpg/1920px-James_Caird_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Caird_bow.jpg",
+      "license": "Public domain",
+      "credit": "Rumping / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 17": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:King Haakon Bay South Georgia"
+    ],
+    "hit": {
+      "title": "File:King Haakon Bay in South Georgia Island.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/King_Haakon_Bay_in_South_Georgia_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:King_Haakon_Bay_in_South_Georgia_Island.jpg",
+      "license": "CC BY-SA",
+      "credit": "Antarctic96 / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 18": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:South Georgia mountains glacier"
+    ],
+    "hit": {
+      "title": "File:Bertrab Glacier South Georgia (200933553).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bertrab_Glacier_South_Georgia_%28200933553%29.jpg/1920px-Bertrab_Glacier_South_Georgia_%28200933553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bertrab_Glacier_South_Georgia_(200933553).jpg",
+      "license": "CC BY-SA",
+      "credit": "Georg Botz / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 19": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Stromness whaling station South Georgia"
+    ],
+    "hit": {
+      "title": "File:Stromness Whaling Station (16114522242).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Stromness_Whaling_Station_%2816114522242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Stromness_Whaling_Station_(16114522242).jpg",
+      "license": "CC BY",
+      "credit": "David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 20": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Yelcho Elephant Island 1916",
+      "image:Yelcho Luis Pardo"
+    ],
+    "hit": {
+      "title": "File:Shackleton-Pardo-Yelcho.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Shackleton-Pardo-Yelcho.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Shackleton-Pardo-Yelcho.JPG",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 21": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Shackleton Endurance crew 1914",
+      "image:Endurance crew Imperial Trans-Antarctic Expedition"
+    ],
+    "hit": null
+  },
+  "2026-10-22:f:scene 22": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Ross Sea party Aurora",
+      "image:SY Aurora ship"
+    ],
+    "hit": null
+  },
+  "2026-10-22:f:scene 23": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:S.A. Agulhas II"
+    ],
+    "hit": {
+      "title": "File:S.A. Agulhas II passage.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/S.A._Agulhas_II_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:S.A._Agulhas_II_passage.jpg",
+      "license": "CC BY-SA",
+      "credit": "warrenski / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 24": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Endurance stern Hurley 1915",
+      "image:Endurance ship 1915"
+    ],
+    "hit": {
+      "title": "File:StateLibQld 1 147919 Endurance (ship).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/StateLibQld_1_147919_Endurance_%28ship%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_147919_Endurance_(ship).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-22:f:scene 25": {
+    "topic": "Shackleton's Endurance expedition",
+    "tried": [
+      "image:Ernest Shackleton portrait"
+    ],
+    "hit": {
+      "title": "File:Ernest Shackleton, portrait photo by Frank Hurley, 1916.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ernest_Shackleton%2C_portrait_photo_by_Frank_Hurley%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton,_portrait_photo_by_Frank_Hurley,_1916.jpg",
+      "license": "Public domain",
+      "credit": "Frank Hurley / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:a:post": {
     "topic": "The Kensington Runestone hoax",
@@ -2408,13 +2807,32 @@
   },
   "2026-10-23:b:scene 3": {
     "topic": "Hero of Alexandria's coin-operated holy water machine",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Hero of Alexandria holy water dispenser",
+      "image:Hero of Alexandria Pneumatica"
+    ],
+    "hit": {
+      "title": "File:Hero of Alexandria, Pneumatica, Venice, Gr. 516.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hero_of_Alexandria%2C_Pneumatica%2C_Venice%2C_Gr._516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hero_of_Alexandria,_Pneumatica,_Venice,_Gr._516.jpg",
+      "license": "Public domain",
+      "credit": "Hero of Alexandria / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:b:scene 4": {
     "topic": "Hero of Alexandria's coin-operated holy water machine",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Hero of Alexandria Pneumatica"
+    ],
+    "hit": {
+      "title": "File:Hero of Alexandria, Pneumatica, Venice, Gr. 516.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hero_of_Alexandria%2C_Pneumatica%2C_Venice%2C_Gr._516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hero_of_Alexandria,_Pneumatica,_Venice,_Gr._516.jpg",
+      "license": "Public domain",
+      "credit": "Hero of Alexandria / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:b:scene 5": {
     "topic": "Hero of Alexandria's coin-operated holy water machine",
@@ -2432,8 +2850,17 @@
   },
   "2026-10-23:b:scene 6": {
     "topic": "Hero of Alexandria's coin-operated holy water machine",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Aeolipile Hero of Alexandria"
+    ],
+    "hit": {
+      "title": "File:Hero's Aeolipile, 1st century AD, Alexandria (reconstruction).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Hero%27s_Aeolipile%2C_1st_century_AD%2C_Alexandria_%28reconstruction%29.jpg/1920px-Hero%27s_Aeolipile%2C_1st_century_AD%2C_Alexandria_%28reconstruction%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Hero%27s_Aeolipile,_1st_century_AD,_Alexandria_(reconstruction).jpg",
+      "license": "CC BY-SA",
+      "credit": "Gts-tg / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:c:post": {
     "topic": "Cahokia, the city of the mounds",
@@ -2479,8 +2906,18 @@
   },
   "2026-10-23:d:scene 3": {
     "topic": "The lost Franklin Expedition",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Victory Point note Franklin expedition",
+      "image:Franklin expedition note 1848"
+    ],
+    "hit": {
+      "title": "File:Holy Bible during 1845-1848 Si John Franklin's arctic expedition.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Holy_Bible_during_1845-1848_Si_John_Franklin%27s_arctic_expedition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Holy_Bible_during_1845-1848_Si_John_Franklin%27s_arctic_expedition.jpg",
+      "license": "CC BY-SA",
+      "credit": "National Maritime Museum, Greenwich, London. / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:d:scene 4": {
     "topic": "The lost Franklin Expedition",
@@ -2526,12 +2963,359 @@
   },
   "2026-10-23:d:scene 7": {
     "topic": "The lost Franklin Expedition",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:HMS Erebus wreck"
+    ],
+    "hit": {
+      "title": "File:On board Parks Canada's archeology support barge \"Qiniqtiryuaq\" beside the wreck of the HMS Erebus (1926), 2019.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/On_board_Parks_Canada%27s_archeology_support_barge_%22Qiniqtiryuaq%22_beside_the_wreck_of_the_HMS_Erebus_%281926%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:On_board_Parks_Canada%27s_archeology_support_barge_%22Qiniqtiryuaq%22_beside_the_wreck_of_the_HMS_Erebus_(1926),_2019.jpg",
+      "license": "CC BY",
+      "credit": "Kerry Raymond / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:d:scene 8": {
     "topic": "The lost Franklin Expedition",
-    "tried": [],
+    "tried": [
+      "image:HMS Erebus HMS Terror in the ice"
+    ],
+    "hit": {
+      "title": "File:HMS Erebus in the Ice, 1846 RMG BHC3325.tiff",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/HMS_Erebus_in_the_Ice%2C_1846_RMG_BHC3325.tiff/lossy-page1-1920px-HMS_Erebus_in_the_Ice%2C_1846_RMG_BHC3325.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:HMS_Erebus_in_the_Ice,_1846_RMG_BHC3325.tiff",
+      "license": "Public domain",
+      "credit": "Fran\u00e7ois Musin / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:e:post": {
+    "topic": "Archbishop Ussher's date for creation, 4004 BC",
+    "tried": [
+      "image:James Ussher portrait"
+    ],
+    "hit": {
+      "title": "File:James Ussher portrait.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/James_Ussher_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Ussher_portrait.jpg",
+      "license": "Public domain",
+      "credit": "Attributed to Cornelis Janssens van Ceulen / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 1": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge collapse 1940 film"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 2": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge collapse"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 3": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Galloping Gertie Tacoma Narrows"
+    ],
+    "hit": {
+      "title": "File:Opening day of the Tacoma Narrows Bridge, Tacoma, Washington.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Opening_day_of_the_Tacoma_Narrows_Bridge%2C_Tacoma%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Opening_day_of_the_Tacoma_Narrows_Bridge,_Tacoma,_Washington.jpg",
+      "license": "Public domain",
+      "credit": "University of Washington Libraries Digital Collections / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 4": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge construction 1939",
+      "image:Tacoma Narrows Bridge construction"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge construction January 2007.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tacoma_Narrows_Bridge_construction_January_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_construction_January_2007.jpg",
+      "license": "CC BY",
+      "credit": "Kathy Calm / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 5": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Leon Moisseiff engineer",
+      "image:Leon Moisseiff"
+    ],
     "hit": null
+  },
+  "2026-10-23:f:scene 6": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge deck girder",
+      "image:Tacoma Narrows Bridge roadway 1940"
+    ],
+    "hit": {
+      "title": "File:GENERAL VIEW OF EASTERN APPROACH AND ROADWAY - Tacoma Narrows Bridge, Spanning Narrows at State Route 16, Tacoma, Pierce County, WA HAER WASH,27-TACO,11-4.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/GENERAL_VIEW_OF_EASTERN_APPROACH_AND_ROADWAY_-_Tacoma_Narrows_Bridge%2C_Spanning_Narrows_at_State_Route_16%2C_Tacoma%2C_Pierce_County%2C_WA_HAER_WASH%2C27-TACO%2C11-4.tif/lossy-page1-1920px-GENERAL_VIEW_OF_EASTERN_APPROACH_AND_ROADWAY_-_Tacoma_Narrows_Bridge%2C_Spanning_Narrows_at_State_Route_16%2C_Tacoma%2C_Pierce_County%2C_WA_HAER_WASH%2C27-TACO%2C11-4.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:GENERAL_VIEW_OF_EASTERN_APPROACH_AND_ROADWAY_-_Tacoma_Narrows_Bridge,_Spanning_Narrows_at_State_Route_16,_Tacoma,_Pierce_County,_WA_HAER_WASH,27-TACO,11-4.tif",
+      "license": "Public domain",
+      "credit": "Lowe, Jet, creator / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 7": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge opening 1940"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge opening program June 30, 1940.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tacoma_Narrows_Bridge_opening_program_June_30%2C_1940.jpg/1920px-Tacoma_Narrows_Bridge_opening_program_June_30%2C_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_opening_program_June_30,_1940.jpg",
+      "license": "Public domain",
+      "credit": "Tacoma Narrows Bridge - McChord Field Celebration Committee, Norton Clapp, Gener / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 8": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge dedication 1940"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows still.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 9": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Galloping Gertie bridge"
+    ],
+    "hit": {
+      "title": "File:Galloping Gertie fragment 01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Galloping_Gertie_fragment_01.jpg/1920px-Galloping_Gertie_fragment_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Galloping_Gertie_fragment_01.jpg",
+      "license": "CC BY-SA",
+      "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 10": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Frederick Burt Farquharson",
+      "image:Tacoma Narrows Bridge model wind tunnel"
+    ],
+    "hit": null
+  },
+  "2026-10-23:f:scene 11": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge November 1940"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows still.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 12": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge collapse 1940 film"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 13": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge destruction"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 14": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge car 1940"
+    ],
+    "hit": {
+      "title": "File:DETAIL ELEVATION OF DAMPING MECHANISM NEAR CAR RAIL - Tacoma Narrows Bridge, Spanning Narrows at State Route 16, Tacoma, Pierce County, WA HAER WASH,27-TACO,11-25.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/DETAIL_ELEVATION_OF_DAMPING_MECHANISM_NEAR_CAR_RAIL_-_Tacoma_Narrows_Bridge%2C_Spanning_Narrows_at_State_Route_16%2C_Tacoma%2C_Pierce_County%2C_WA_HAER_WASH%2C27-TACO%2C11-25.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:DETAIL_ELEVATION_OF_DAMPING_MECHANISM_NEAR_CAR_RAIL_-_Tacoma_Narrows_Bridge,_Spanning_Narrows_at_State_Route_16,_Tacoma,_Pierce_County,_WA_HAER_WASH,27-TACO,11-25.tif",
+      "license": "Public domain",
+      "credit": "Lowe, Jet / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 15": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge collapse car",
+      "image:Tacoma Narrows Bridge 1940 collapse"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows still.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 16": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge Farquharson"
+    ],
+    "hit": {
+      "title": "File:Opening day of the Tacoma Narrows Bridge, Tacoma, Washington.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Opening_day_of_the_Tacoma_Narrows_Bridge%2C_Tacoma%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Opening_day_of_the_Tacoma_Narrows_Bridge,_Tacoma,_Washington.jpg",
+      "license": "Public domain",
+      "credit": "University of Washington Libraries Digital Collections / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 17": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge collapse 1940 film"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 18": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge after collapse"
+    ],
+    "hit": {
+      "title": "File:Mount Rainier at the Tacoma Narrows Bridge (18402622459).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mount_Rainier_at_the_Tacoma_Narrows_Bridge_%2818402622459%29.jpg/1920px-Mount_Rainier_at_the_Tacoma_Narrows_Bridge_%2818402622459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mount_Rainier_at_the_Tacoma_Narrows_Bridge_(18402622459).jpg",
+      "license": "CC BY-SA",
+      "credit": "Jonathan Miske from United States / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 19": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "video:Tacoma Narrows Bridge destruction"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge destruction.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 149.6495
+    }
+  },
+  "2026-10-23:f:scene 20": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge twisting",
+      "image:Tacoma Narrows Bridge torsion"
+    ],
+    "hit": {
+      "title": "File:TACOMA NARROWS BRIDGE IN PERSPECTIVE LOOKING WEST FROM THE MILLERS ADDITION SUBDIVISION - Tacoma Narrows Bridge, Spanning Narrows at State Route 16, Tacoma, Pierce County, WA HAER WASH,27-TACO,11-1.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/TACOMA_NARROWS_BRIDGE_IN_PERSPECTIVE_LOOKING_WEST_FROM_THE_MILLERS_ADDITION_SUBDIVISION_-_Tacoma_Narrows_Bridge%2C_Spanning_Narrows_at_State_Route_16%2C_Tacoma%2C_Pierce_County%2C_WA_HAER_WASH%2C27-TACO%2C11-1.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:TACOMA_NARROWS_BRIDGE_IN_PERSPECTIVE_LOOKING_WEST_FROM_THE_MILLERS_ADDITION_SUBDIVISION_-_Tacoma_Narrows_Bridge,_Spanning_Narrows_at_State_Route_16,_Tacoma,_Pierce_County,_WA_HAER_WASH,27-TACO,11-1.tif",
+      "license": "Public domain",
+      "credit": "Lowe, Jet, creator / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 21": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge girder",
+      "image:Tacoma Narrows Bridge deck"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows Bridge Panorama.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tacoma_Narrows_Bridge_Panorama.jpg/1920px-Tacoma_Narrows_Bridge_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_Panorama.jpg",
+      "license": "CC BY",
+      "credit": "Farwestern Photo by Gregg M. Erickson / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 22": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge 1950"
+    ],
+    "hit": {
+      "title": "File:SOUTHEAST CABLE ANCHORAGE WITHOUT MEASURING STICK - Tacoma Narrows Bridge, Spanning Narrows at State Route 16, Tacoma, Pierce County, WA HAER WASH,27-TACO,11-26.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/SOUTHEAST_CABLE_ANCHORAGE_WITHOUT_MEASURING_STICK_-_Tacoma_Narrows_Bridge%2C_Spanning_Narrows_at_State_Route_16%2C_Tacoma%2C_Pierce_County%2C_WA_HAER_WASH%2C27-TACO%2C11-26.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:SOUTHEAST_CABLE_ANCHORAGE_WITHOUT_MEASURING_STICK_-_Tacoma_Narrows_Bridge,_Spanning_Narrows_at_State_Route_16,_Tacoma,_Pierce_County,_WA_HAER_WASH,27-TACO,11-26.tif",
+      "license": "Public domain",
+      "credit": "Lowe, Jet, creator / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-23:f:scene 23": {
+    "topic": "The Tacoma Narrows Bridge collapse, 1940",
+    "tried": [
+      "image:Tacoma Narrows Bridge collapse 1940"
+    ],
+    "hit": {
+      "title": "File:Tacoma Narrows still.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   }
 }
