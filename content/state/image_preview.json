@@ -255,11 +255,11 @@
       "image:Titanic iceberg 1912"
     ],
     "hit": {
-      "title": "File:Titanic iceberg.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Titanic_iceberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_iceberg.jpg",
+      "title": "File:Titanic Iceberg 1912.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Titanic_Iceberg_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Iceberg_1912.jpg",
       "license": "Public domain",
-      "credit": "The chief steward of the liner Prinz Adalbert / Wikimedia Commons (Public domain)",
+      "credit": "Captain W. F. Wood of a ship named S. S. Etonian, two days prior to the Titanic  / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -563,9 +563,9 @@
       "image:Terracotta Army pit 1 Xi'an"
     ],
     "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051282).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg",
+      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
       "license": "CC BY",
       "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons (CC BY)",
       "duration": 0.0
@@ -587,8 +587,18 @@
   },
   "2026-10-19:b:scene 2": {
     "topic": "The Dancing Plague of 1518",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Strasbourg 16th century engraving",
+      "image:Strasbourg Merian 1644"
+    ],
+    "hit": {
+      "title": "File:Absolute Strasbourg 1644 Merian 01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Absolute_Strasbourg_1644_Merian_01.jpg/1920px-Absolute_Strasbourg_1644_Merian_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Absolute_Strasbourg_1644_Merian_01.jpg",
+      "license": "CC BY-SA",
+      "credit": "Jonathan M / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:b:scene 3": {
     "topic": "The Dancing Plague of 1518",
@@ -620,13 +630,31 @@
   },
   "2026-10-19:b:scene 5": {
     "topic": "The Dancing Plague of 1518",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Saint Vitus painting"
+    ],
+    "hit": {
+      "title": "File:German Martyrdom of Saint Vitus.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/German_Martyrdom_of_Saint_Vitus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:German_Martyrdom_of_Saint_Vitus.jpg",
+      "license": "Public domain",
+      "credit": "Anonymous (Germany)Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:b:scene 6": {
     "topic": "The Dancing Plague of 1518",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Dancing mania Hondius"
+    ],
+    "hit": {
+      "title": "File:The dancing mania, by Hondius Wellcome M0013485.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg/1920px-The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:The_dancing_mania,_by_Hondius_Wellcome_M0013485.jpg",
+      "license": "CC BY",
+      "credit": "Unknown author / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:c:post": {
     "topic": "Myth: Napoleon was short",
@@ -686,13 +714,31 @@
   },
   "2026-10-19:d:scene 4": {
     "topic": "King John's lost treasure in the Wash",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:The Wash Norfolk tide"
+    ],
+    "hit": {
+      "title": "File:The Wash at low tide - geograph.org.uk - 2061775.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg/1920px-The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg",
+      "license": "CC BY-SA",
+      "credit": "Ben Harris / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:d:scene 5": {
     "topic": "King John's lost treasure in the Wash",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:King John of England seal"
+    ],
+    "hit": {
+      "title": "File:Great Seal of King John - Articles of the Barons (1215) - BL Add MS 4838.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Great_Seal_of_King_John_-_Articles_of_the_Barons_%281215%29_-_BL_Add_MS_4838.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_King_John_-_Articles_of_the_Barons_(1215)_-_BL_Add_MS_4838.jpg",
+      "license": "CC0",
+      "credit": "Unknown author / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:d:scene 6": {
     "topic": "King John's lost treasure in the Wash",
@@ -710,13 +756,346 @@
   },
   "2026-10-19:d:scene 7": {
     "topic": "King John's lost treasure in the Wash",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:King John tomb Worcester Cathedral"
+    ],
+    "hit": {
+      "title": "File:Tomb of King John, Worcester Cathedral - geograph.org.uk - 7214713.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tomb_of_King_John%2C_Worcester_Cathedral_-_geograph.org.uk_-_7214713.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_King_John,_Worcester_Cathedral_-_geograph.org.uk_-_7214713.jpg",
+      "license": "CC BY-SA",
+      "credit": "Jeff Gogarty / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:d:scene 8": {
     "topic": "King John's lost treasure in the Wash",
-    "tried": [],
+    "tried": [
+      "image:King John of England portrait"
+    ],
+    "hit": {
+      "title": "File:John de Critz - James VI and I, 1566 - 1625. King of Scotland 1567 - 1625. King of England and Ireland 1603 - 1625 - PG 561 - National Galleries of Scotland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/John_de_Critz_-_James_VI_and_I%2C_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg/1920px-John_de_Critz_-_James_VI_and_I%2C_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:John_de_Critz_-_James_VI_and_I,_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg",
+      "license": "Public domain",
+      "credit": "John de Critz / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:e:post": {
+    "topic": "The surrender at Yorktown, 1781",
+    "tried": [
+      "image:Surrender of Lord Cornwallis Trumbull"
+    ],
+    "hit": {
+      "title": "File:Surrender of Lord Cornwallis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/1920px-Surrender_of_Lord_Cornwallis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg",
+      "license": "Public domain",
+      "credit": "John Trumbull / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 1": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz dummy head 1962"
+    ],
+    "hit": {
+      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
+      "license": "Public domain",
+      "credit": "FBI / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 2": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Frank Morris Alcatraz mugshot",
+      "image:Frank Lee Morris"
+    ],
+    "hit": {
+      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
+      "license": "Public domain",
+      "credit": "FBI / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 3": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz Island San Francisco Bay"
+    ],
+    "hit": {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Officers' Club -- 2022 -- 3124.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Officers%27_Club_--_2022_--_3124.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 4": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz Island 1950s"
+    ],
+    "hit": {
+      "title": "File:Frank Deras Jr., Photographer July 1998 CONTEXTUAL VIEW OF BRIDGE FROM SAN FRANCISCO TO YERBA BUENA ISLAND, NORTH SIDE. PHOTOGRAPHED FROM ABOVE ALCATRAZ ISLAND, FACING HAER CAL,38-SANFRA,141-58.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Frank_Deras_Jr.%2C_Photographer_July_1998_CONTEXTUAL_VIEW_OF_BRIDGE_FROM_SAN_FRANCISCO_TO_YERBA_BUENA_ISLAND%2C_NORTH_SIDE._PHOTOGRAPHED_FROM_ABOVE_ALCATRAZ_ISLAND%2C_FACING_HAER_CAL%2C38-SANFRA%2C141-58.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Frank_Deras_Jr.,_Photographer_July_1998_CONTEXTUAL_VIEW_OF_BRIDGE_FROM_SAN_FRANCISCO_TO_YERBA_BUENA_ISLAND,_NORTH_SIDE._PHOTOGRAPHED_FROM_ABOVE_ALCATRAZ_ISLAND,_FACING_HAER_CAL,38-SANFRA,141-58.tif",
+      "license": "Public domain",
+      "credit": "Related names: Purcell, C H; California Toll Bridge Authority; California Divisi / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 5": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:John Anglin mugshot",
+      "image:Clarence Anglin mugshot",
+      "image:Anglin brothers Alcatraz"
+    ],
     "hit": null
+  },
+  "2026-10-19:f:scene 6": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz cell block B"
+    ],
+    "hit": {
+      "title": "File:VIEW LOOKING SOUTH BETWEEN CELL BLOCKS 'C' AND 'B', 'BROADWAY' - Alcatraz, Cell House, Alcatraz Island, San Francisco Bay, San Francisco, San Francisco County, CA HABS CAL,38-ALCA,1-A-21.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/VIEW_LOOKING_SOUTH_BETWEEN_CELL_BLOCKS_%27C%27_AND_%27B%27%2C_%27BROADWAY%27_-_Alcatraz%2C_Cell_House%2C_Alcatraz_Island%2C_San_Francisco_Bay%2C_San_Francisco%2C_San_Francisco_County%2C_CA_HABS_CAL%2C38-ALCA%2C1-A-21.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:VIEW_LOOKING_SOUTH_BETWEEN_CELL_BLOCKS_%27C%27_AND_%27B%27,_%27BROADWAY%27_-_Alcatraz,_Cell_House,_Alcatraz_Island,_San_Francisco_Bay,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-ALCA,1-A-21.tif",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 7": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz cellhouse roof",
+      "image:Alcatraz prison building"
+    ],
+    "hit": {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Main Prison -- 2022 -- 3138.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3138.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Main_Prison_--_2022_--_3138.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 8": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz cell vent escape"
+    ],
+    "hit": {
+      "title": "File:Alcatraz cell vent.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Alcatraz_cell_vent.JPG/1920px-Alcatraz_cell_vent.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_cell_vent.JPG",
+      "license": "Public domain",
+      "credit": "Benlechlitner / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 9": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz utility corridor"
+    ],
+    "hit": {
+      "title": "File:Alcatraz utility corridor .jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alcatraz_utility_corridor_.jpg/1920px-Alcatraz_utility_corridor_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_utility_corridor_.jpg",
+      "license": "CC BY-SA",
+      "credit": "nhsmith19 / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 10": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz escape raft replica",
+      "image:Alcatraz escape life vest"
+    ],
+    "hit": null
+  },
+  "2026-10-19:f:scene 11": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz escape paddle",
+      "image:Alcatraz escape tools"
+    ],
+    "hit": null
+  },
+  "2026-10-19:f:scene 12": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz dummy head Clarence Anglin",
+      "image:Alcatraz dummy head"
+    ],
+    "hit": {
+      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
+      "license": "Public domain",
+      "credit": "FBI / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 13": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Allen West Alcatraz",
+      "image:Alcatraz cell block"
+    ],
+    "hit": {
+      "title": "File:Alcatraz Cell Block 270415 04.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alcatraz_Cell_Block_270415_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Cell_Block_270415_04.jpg",
+      "license": "CC BY-SA",
+      "credit": "Oren Rozen / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 14": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz smokestack",
+      "image:Alcatraz Island buildings"
+    ],
+    "hit": null
+  },
+  "2026-10-19:f:scene 15": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Angel Island California"
+    ],
+    "hit": {
+      "title": "File:Smoke from wildfire on Angel Island blankets San Franciscon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg/1920px-Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg",
+      "license": "CC BY-SA",
+      "credit": "Brocken Inaglory / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 16": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Golden Gate Bridge 1960s"
+    ],
+    "hit": {
+      "title": "File:USS Antelope (PG-86) with Golden Gate Bridge c1967.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/USS_Antelope_%28PG-86%29_with_Golden_Gate_Bridge_c1967.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:USS_Antelope_(PG-86)_with_Golden_Gate_Bridge_c1967.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 17": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz escape evidence FBI",
+      "image:Alcatraz escape paddle"
+    ],
+    "hit": null
+  },
+  "2026-10-19:f:scene 18": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Cronkhite Beach Marin"
+    ],
+    "hit": {
+      "title": "File:Marin Headlands with Rodeo Beach.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Marin_Headlands_with_Rodeo_Beach.jpg/1920px-Marin_Headlands_with_Rodeo_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Marin_Headlands_with_Rodeo_Beach.jpg",
+      "license": "Public domain",
+      "credit": "Brocken Inaglory / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 19": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz Federal Penitentiary",
+      "image:Alcatraz penitentiary sign"
+    ],
+    "hit": {
+      "title": "File:Alcatraz Federal Penitentiary - July 2025 - Sarah Stierch 13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg/1920px-Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg",
+      "license": "CC0",
+      "credit": "Missvain / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 20": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:FBI Alcatraz wanted poster",
+      "image:Alcatraz Island 1962"
+    ],
+    "hit": {
+      "title": "File:Alcatraz Island March 1962.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alcatraz_Island_March_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_March_1962.jpg",
+      "license": "CC BY",
+      "credit": "Jdreed (talk) (Uploads) / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 21": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz Island 1963",
+      "image:Alcatraz Island lighthouse"
+    ],
+    "hit": {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Lighthouse -- 2022 -- 3155.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Lighthouse_--_2022_--_3155.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Lighthouse_--_2022_--_3155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Lighthouse_--_2022_--_3155.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 22": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz cellhouse today",
+      "image:Alcatraz Island National Park"
+    ],
+    "hit": {
+      "title": "File:San Francisco (CA, USA), Pioneer Park, Blick auf Alcatraz -- 2022 -- 3084.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/San_Francisco_%28CA%2C_USA%29%2C_Pioneer_Park%2C_Blick_auf_Alcatraz_--_2022_--_3084.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Pioneer_Park%2C_Blick_auf_Alcatraz_--_2022_--_3084.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Pioneer_Park,_Blick_auf_Alcatraz_--_2022_--_3084.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-19:f:scene 23": {
+    "topic": "The 1962 Alcatraz escape",
+    "tried": [
+      "image:Alcatraz Island San Francisco Bay"
+    ],
+    "hit": {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Officers' Club -- 2022 -- 3124.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Officers%27_Club_--_2022_--_3124.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:a:post": {
     "topic": "Nan Madol",
@@ -724,9 +1103,9 @@
       "image:Nan Madol ruins"
     ],
     "hit": {
-      "title": "File:Nan Madol ruins 1.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nan_Madol_ruins_1.jpg/1920px-Nan_Madol_ruins_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_1.jpg",
+      "title": "File:Nan Madol ruins 13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nan_Madol_ruins_13.jpg/1920px-Nan_Madol_ruins_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_13.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -1199,11 +1578,11 @@
       "image:Cloudesley Shovell portrait"
     ],
     "hit": {
-      "title": "File:Admiral Sir Cloudesley Shovell, 1650-1707 RMG BHC3026.tiff",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff/lossy-page1-1920px-Admiral_Sir_Cloudesley_Shovell%2C_1650-1707_RMG_BHC3026.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Admiral_Sir_Cloudesley_Shovell,_1650-1707_RMG_BHC3026.tiff",
-      "license": "Public domain",
-      "credit": "Michael Dahl / Wikimedia Commons (Public domain)",
+      "title": "File:Sir Cloudesley Shovell, Francis Bird, 1716 - Flickr - jacquemart.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg/1920px-Sir_Cloudesley_Shovell%2C_Francis_Bird%2C_1716_-_Flickr_-_jacquemart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_Francis_Bird,_1716_-_Flickr_-_jacquemart.jpg",
+      "license": "CC0",
+      "credit": "jacquemart from England / Wikimedia Commons (CC0)",
       "duration": 0.0
     }
   },
