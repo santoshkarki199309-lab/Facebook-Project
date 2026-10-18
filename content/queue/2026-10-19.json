@@ -35,7 +35,12 @@
         },
         {
           "image_prompt": "A medieval European city with half-timbered houses and a cathedral spire, crowded street, summer haze, cinematic",
-          "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days."
+          "narration": "It was July, in the city of Strasbourg. Her name is recorded as Frau Troffea. She danced for days.",
+          "image_search": [
+            "Strasbourg 16th century engraving",
+            "Strasbourg Merian 1644",
+            "Strasbourg Cathedral"
+          ]
         },
         {
           "image_prompt": "A growing crowd of townspeople in Renaissance-era clothing dancing wildly in a market square, exhausted faces, dust rising",
@@ -49,11 +54,19 @@
         },
         {
           "image_prompt": "A small stone mountain shrine at dawn with a procession of tired pilgrims in sixteenth-century clothing walking toward it",
-          "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded."
+          "narration": "It made things worse. Eventually, the dancers were taken to a shrine of Saint Vitus, and the outbreak faded.",
+          "image_search": [
+            "Saint Vitus painting",
+            "Saint Vitus dance"
+          ]
         },
         {
           "image_prompt": "An empty cobbled square at night under moonlight, a single abandoned shoe on the stones, eerie calm",
-          "narration": "Historians still argue over the cause. Poisoned grain, or mass panic during hard times? Tell us in the comments, and follow for more."
+          "narration": "Historians still argue over the cause. Poisoned grain, or mass panic during hard times? Tell us in the comments, and follow for more.",
+          "image_search": [
+            "Dancing mania Hondius",
+            "Dancing mania Pieter Brueghel"
+          ]
         }
       ],
       "caption": "🎻 In 1518, Strasbourg couldn't stop dancing.\n\nIt began with one woman in July. Within weeks, chronicles describe hundreds caught up in it. The city even hired musicians to help them 'dance it out'.\n\nToxic fungus or mass stress? What's your theory? 👇",
@@ -113,11 +126,19 @@
         },
         {
           "image_prompt": "Close-up of a carved wooden chest half sunk in wet sand, gold goblets and jewels spilling out, water rising around it",
-          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions."
+          "narration": "The tide came in. According to chroniclers, carts, horses and men were swept away, along with the king's precious possessions.",
+          "image_search": [
+            "The Wash Norfolk tide",
+            "The Wash Lincolnshire"
+          ]
         },
         {
           "image_prompt": "An ornate medieval jewelled crown and a ceremonial sword lying in murky water, faint light from above",
-          "narration": "England's crown jewels did disappear around this time. Some writers believed they went down in the mud."
+          "narration": "England's crown jewels did disappear around this time. Some writers believed they went down in the mud.",
+          "image_search": [
+            "King John of England seal",
+            "King John Magna Carta"
+          ]
         },
         {
           "image_prompt": "A dark stone castle bedroom lit by lightning during a storm, a sick king in a canopied bed, monks at the bedside",
@@ -127,11 +148,19 @@
         },
         {
           "image_prompt": "Modern flat farmland with drainage ditches under a wide sky where the medieval coastline once lay",
-          "narration": "The twist? Not a single piece has ever been found. Was it really lost, or did the story grow over time?"
+          "narration": "The twist? Not a single piece has ever been found. Was it really lost, or did the story grow over time?",
+          "image_search": [
+            "King John tomb Worcester Cathedral",
+            "King John effigy Worcester"
+          ]
         },
         {
           "image_prompt": "A metal detector resting on a muddy field at sunset, a single gold coin glinting in the soil",
-          "narration": "Lost treasure, or a legend? Tell us what you think. Follow for more untold history."
+          "narration": "Lost treasure, or a legend? Tell us what you think. Follow for more untold history.",
+          "image_search": [
+            "King John of England portrait",
+            "King John of England manuscript"
+          ]
         }
       ],
       "caption": "👑 ON THIS DAY in 1216, King John of England died — days after his baggage train was swept away in the Wash.\n\nMedieval chroniclers said carts, horses and treasure vanished into the tidal sands near King's Lynn. England's crown jewels did disappear around this time, but nobody knows exactly what was lost — and nothing has ever been found.\n\nDo you think the treasure is still down there? 👇",
@@ -145,6 +174,252 @@
       "sources": [
         "https://www.historytoday.com/archive/history-matters/death-king-john",
         "https://historyhit.com/?p=972"
+      ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "The surrender at Yorktown, 1781",
+      "image_search": [
+        "Surrender of Lord Cornwallis Trumbull",
+        "Surrender of Lord Cornwallis",
+        "Siege of Yorktown 1781"
+      ],
+      "layout": "full",
+      "caption": "📅 ON THIS DAY in 1781, the British army surrendered at Yorktown — and its commander didn't turn up.\n\nOn October 19, 1781, after a siege by American and French forces, more than 7,000 British soldiers marched out to lay down their arms in Virginia.\n\nGeneral Cornwallis stayed away, pleading illness. He sent his deputy, Brigadier General Charles O'Hara, to hand over his sword.\n\nO'Hara first tried to surrender to the French commander, Rochambeau. Rochambeau pointed him to George Washington. Washington refused too: if Cornwallis sent a deputy, a deputy would accept. He signalled to Major General Benjamin Lincoln.\n\nThe twist? Seventeen months earlier, Lincoln had been forced to surrender Charleston to the British — and was refused the traditional honours of war.\n\nAnd that famous story that the British band played \"The World Turned Upside Down\"? No record from the day says so. It was first written down nearly a century later.\n\nWas Washington's refusal fair protocol — or payback?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "AmericanRevolution",
+        "Yorktown"
+      ],
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/388676",
+        "https://en.wikipedia.org/wiki/Siege_of_Yorktown",
+        "https://en.wikipedia.org/wiki/Benjamin_Lincoln"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "The 1962 Alcatraz escape",
+      "title": "Escape from Alcatraz: How Three Men Vanished from 'The Rock' in 1962",
+      "hook_text": "THREE MEN. ONE RAFT. NEVER FOUND.",
+      "chapters": [
+        {
+          "title": "Three Empty Beds",
+          "scenes": [
+            {
+              "narration": "On the morning of June 12, 1962, guards at Alcatraz made their bed check. Three prisoners didn't move. Their heads were fake.",
+              "label": "12 JUN 1962",
+              "image_search": [
+                "Alcatraz dummy head 1962",
+                "Alcatraz escape dummy head",
+                "Alcatraz cellhouse"
+              ]
+            },
+            {
+              "narration": "Frank Morris and brothers John and Clarence Anglin had broken out of America's most famous prison. They have never been seen again, dead or alive.",
+              "image_search": [
+                "Frank Morris Alcatraz mugshot",
+                "Frank Lee Morris"
+              ]
+            },
+            {
+              "narration": "Stay with us to see how they did it with spoons and raincoats, the clues the bay gave up, and why the case is still open today.",
+              "image_search": [
+                "Alcatraz Island San Francisco Bay",
+                "Alcatraz Island aerial"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Rock",
+          "scenes": [
+            {
+              "narration": "Alcatraz sat on a rocky island in San Francisco Bay. The cold water and fast tides around it were meant to make escape close to impossible.",
+              "label": "SAN FRANCISCO",
+              "image_search": [
+                "Alcatraz Island 1950s",
+                "Alcatraz Island Golden Gate",
+                "Alcatraz Island"
+              ]
+            },
+            {
+              "narration": "Morris and the Anglins were not violent killers. They were bank robbers, sent to Alcatraz because they kept escaping from other prisons.",
+              "image_search": [
+                "John Anglin mugshot",
+                "Clarence Anglin mugshot",
+                "Anglin brothers Alcatraz"
+              ]
+            },
+            {
+              "narration": "A fourth inmate, Allen West, was part of the plan. He would later claim the whole escape had been his idea, though officials doubted him.",
+              "image_search": [
+                "Alcatraz cell block B",
+                "Alcatraz cellhouse interior"
+              ]
+            },
+            {
+              "narration": "Their route out was simple to describe and hard to reach: through the walls, up to the roof, down to the shoreline, then across the open water of the bay.",
+              "image_search": [
+                "Alcatraz cellhouse roof",
+                "Alcatraz prison building"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Six Months of Work",
+          "scenes": [
+            {
+              "narration": "For about six months, they widened the small air vents at the back of their cells, using saw blades, metal spoons from the dining hall, and a homemade drill.",
+              "label": "6 MONTHS",
+              "image_search": [
+                "Alcatraz cell vent escape",
+                "Alcatraz Frank Morris cell"
+              ]
+            },
+            {
+              "narration": "That drill was built from the motor of a vacuum cleaner. Behind the vents ran a utility corridor, and from there they could climb up inside the cell block.",
+              "image_search": [
+                "Alcatraz utility corridor",
+                "Alcatraz cellhouse corridor"
+              ]
+            },
+            {
+              "narration": "Above the cell block they set up a hidden workshop. There they built a raft and life vests from more than fifty stolen raincoats.",
+              "image_search": [
+                "Alcatraz escape raft replica",
+                "Alcatraz escape life vest"
+              ]
+            },
+            {
+              "narration": "The seams were sealed with heat from the prison's steam pipes. They made paddles from plywood, and a musical instrument was converted to pump air into the raft.",
+              "image_search": [
+                "Alcatraz escape paddle",
+                "Alcatraz escape tools"
+              ]
+            },
+            {
+              "narration": "To fool the night guards, they sculpted heads from soap, toothpaste, concrete dust and toilet paper, painted them, and added real hair from the prison barbershop.",
+              "image_search": [
+                "Alcatraz dummy head Clarence Anglin",
+                "Alcatraz dummy head"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Into the Bay",
+          "scenes": [
+            {
+              "narration": "On the night of June 11, the three men crawled out through their vents. Allen West could not: hardened cement had narrowed his opening, and he was left behind.",
+              "label": "11 JUN 1962",
+              "image_search": [
+                "Allen West Alcatraz",
+                "Alcatraz cell block"
+              ]
+            },
+            {
+              "narration": "The other three climbed up to the roof through a ventilator, crossed it in the dark, and slid down a bakery smokestack to the ground.",
+              "image_search": [
+                "Alcatraz smokestack",
+                "Alcatraz Island buildings"
+              ]
+            },
+            {
+              "narration": "At the shoreline, they inflated their raft and pushed off into the dark. Angel Island lay about two miles to the north.",
+              "label": "2 MILES",
+              "image_search": [
+                "Angel Island California",
+                "Angel Island San Francisco Bay"
+              ]
+            },
+            {
+              "narration": "The tides there are powerful. Strong currents could have carried a small raft past the Golden Gate and out into the Pacific in under an hour.",
+              "image_search": [
+                "Golden Gate Bridge 1960s",
+                "Golden Gate strait"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What the Water Gave Back",
+          "scenes": [
+            {
+              "narration": "The search began at once. Investigators recovered pieces of paddles and rubber debris from the water, and a packet of sealed personal letters.",
+              "image_search": [
+                "Alcatraz escape evidence FBI",
+                "Alcatraz escape paddle"
+              ]
+            },
+            {
+              "narration": "A life vest washed up on Cronkhite Beach, beyond the Golden Gate. A paddle like one of theirs was found near Angel Island.",
+              "label": "CLUES",
+              "image_search": [
+                "Cronkhite Beach Marin",
+                "Rodeo Beach Marin Headlands"
+              ]
+            },
+            {
+              "narration": "Allen West, the man left behind, talked. He gave investigators details of the plan, from the vents to the raft.",
+              "image_search": [
+                "Alcatraz Federal Penitentiary",
+                "Alcatraz penitentiary sign"
+              ]
+            },
+            {
+              "narration": "The FBI concluded the men most likely drowned. No cars or clothes were reported stolen, no family help was found, and no credible sign they were alive ever emerged.",
+              "image_search": [
+                "FBI Alcatraz wanted poster",
+                "Alcatraz Island 1962"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Still Open",
+          "scenes": [
+            {
+              "narration": "Less than a year later, on March 21, 1963, Alcatraz closed for good, because it was too expensive to run and salt water was eating away the buildings.",
+              "label": "1963",
+              "image_search": [
+                "Alcatraz Island 1963",
+                "Alcatraz Island lighthouse"
+              ]
+            },
+            {
+              "narration": "The FBI closed its file at the end of 1979, the same year Clint Eastwood played Frank Morris in the film Escape from Alcatraz. But the U.S. Marshals never closed theirs. The warrants for the three men remain active.",
+              "label": "1979",
+              "image_search": [
+                "Alcatraz cellhouse today",
+                "Alcatraz Island National Park"
+              ]
+            },
+            {
+              "narration": "So: did they drown in the bay that night, or reach shore and live quietly for decades? What's your verdict? Follow for more untold history.",
+              "image_search": [
+                "Alcatraz Island San Francisco Bay",
+                "Alcatraz Island"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "🔓 Three men. One raft made of raincoats. Never found.\n\nOn June 11, 1962, Frank Morris and John and Clarence Anglin crawled out of their cells on Alcatraz — leaving fake heads in their beds made of soap, toothpaste and real human hair.\n\nThis documentary follows the six months of planning, the night of the escape, the clues that washed up afterwards, and why U.S. Marshals still haven't closed the case.\n\nDid they drown that night, or make it to shore?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Alcatraz",
+        "UnsolvedMysteries",
+        "Documentary"
+      ],
+      "sources": [
+        "https://www.fbi.gov/history/famous-cases/alcatraz-escape",
+        "https://en.wikipedia.org/wiki/June_1962_Alcatraz_escape_attempt",
+        "https://www.npr.org/2012/06/12/154766199/50-years-later-mystery-of-alcatraz-escape-endures"
       ]
     }
   ]
