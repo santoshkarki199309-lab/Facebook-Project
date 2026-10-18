@@ -55,7 +55,11 @@
         },
         {
           "image_prompt": "A lone camel silhouetted on a desert ridge at sunset, warm orange sky",
-          "narration": "Was he the richest person who ever lived? Tell us what you think, and follow for more."
+          "narration": "Was he the richest person who ever lived? Tell us what you think, and follow for more.",
+          "image_search": [
+            "Mansa Musa Catalan Atlas",
+            "Catalan Atlas Mali"
+          ]
         }
       ],
       "caption": "👑 One pilgrimage. So much gold that its price fell.\n\nIn 1324, Mansa Musa of Mali passed through Cairo on his way to Mecca. The scholar al-Umari recorded that gold lost value there for years afterwards.\n\nWas he history's richest person? Weigh in 👇",
@@ -116,12 +120,21 @@
         },
         {
           "image_prompt": "A massive warship splitting on a reef, masts falling, tiny lifeboat in towering waves",
-          "narration": "Four ships were lost. More than thirteen hundred men died, including the admiral himself."
+          "narration": "Four ships were lost. More than thirteen hundred men died, including the admiral himself.",
+          "image_search": [
+            "HMS Association 1707 wreck",
+            "Isles of Scilly shipwreck 1707",
+            "Isles of Scilly Western Rocks"
+          ]
         },
         {
           "image_prompt": "An 18th-century Parliament chamber with men in powdered wigs debating, a scroll reading a reward notice",
           "narration": "The disaster became famous. In 1714, Parliament offered up to twenty thousand pounds to anyone who could find a ship's longitude at sea.",
-          "label": "1714"
+          "label": "1714",
+          "image_search": [
+            "Longitude Act 1714",
+            "John Harrison H4 chronometer"
+          ]
         },
         {
           "image_prompt": "A beautifully crafted brass and wood marine clock with intricate gears on a velvet table, soft workshop light",
@@ -131,11 +144,19 @@
         },
         {
           "image_prompt": "Old nautical charts with faded coastlines spread on a table, a brass compass and candle on top",
-          "narration": "The twist? Historians now doubt longitude alone was to blame. Poor charts, currents and bad compasses may have mattered just as much."
+          "narration": "The twist? Historians now doubt longitude alone was to blame. Poor charts, currents and bad compasses may have mattered just as much.",
+          "image_search": [
+            "18th century sea chart Scilly",
+            "Isles of Scilly chart"
+          ]
         },
         {
           "image_prompt": "Calm sea at dawn over the jagged Western Rocks of Scilly, gulls, no ships",
-          "narration": "Human error or impossible conditions? Tell us. Follow for more untold history."
+          "narration": "Human error or impossible conditions? Tell us. Follow for more untold history.",
+          "image_search": [
+            "Cloudesley Shovell portrait",
+            "Cloudesley Shovell monument Westminster Abbey"
+          ]
         }
       ],
       "caption": "🌊 ON THIS DAY in 1707, a British fleet sailed straight onto the rocks of the Isles of Scilly.\n\nAdmiral Sir Cloudesley Shovell's navigators thought they were safely clear of land. Four ships were lost and well over a thousand men died, the admiral among them.\n\nThe disaster helped push Parliament to pass the Longitude Act of 1714, offering up to £20,000 for a reliable way to find longitude at sea — the challenge clockmaker John Harrison spent his life on.\n\nBut historians now argue over the cause: longitude, bad charts, currents or compasses. Which do you think sank the fleet? 👇",
@@ -149,6 +170,276 @@
       "sources": [
         "https://vdt.cismas.org.uk/trails/association/the-final-voyage",
         "https://historyofparliament.com/2014/07/03/finding-latitude-in-longitude-parliamentary-funding-of-early-modern-science-and-technology/"
+      ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "Garnerin's first parachute jump, 1797",
+      "image_search": [
+        "Garnerin parachute 1797",
+        "Garnerin parachute Parc Monceau",
+        "Andre-Jacques Garnerin"
+      ],
+      "layout": "card",
+      "image_headline": "The first leap from the sky",
+      "series": "ON THIS DAY",
+      "caption": "📅 ON THIS DAY in 1797, a man cut the only rope holding him to a balloon — 3,000 feet above Paris.\n\nOn October 22, 1797, André-Jacques Garnerin rose over Parc Monceau in Paris, sitting in a basket beneath a silk parachute that was tied to a balloon by a rope.\n\nAt about 1,000 metres up, he cut the rope.\n\nThe balloon shot away. Garnerin dropped. His canopy, about 23 feet across, had no hole at the top to let air escape, so the basket swung back and forth violently all the way down.\n\nHe landed unhurt — and made history with one of the first successful parachute descents.\n\nTwo years later, his student and future wife, Jeanne Geneviève Labrosse, became the first woman to make a parachute descent. In 1802 Garnerin made the first parachute descent in England.\n\nThe fix for the wild swinging, a vent at the top of the canopy, was suggested by astronomer Jérôme Lalande in 1804. Many parachutes still have one today.\n\nWould you have cut that rope?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "Parachute",
+        "AviationHistory"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin",
+        "https://www.britannica.com/biography/Andre-Jacques-Garnerin"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "Shackleton's Endurance expedition",
+      "title": "Trapped in the Ice: How Shackleton Brought All 28 Men Home from Antarctica",
+      "hook_text": "THEIR SHIP SANK. NOBODY KNEW THEY WERE ALIVE.",
+      "chapters": [
+        {
+          "title": "The Ship Is Lost",
+          "scenes": [
+            {
+              "narration": "On November 21, 1915, in the frozen Weddell Sea, 28 men watched their ship slip beneath the ice. They were hundreds of miles from help, and no one knew where they were.",
+              "label": "21 NOV 1915",
+              "image_search": [
+                "Endurance Shackleton sinking Hurley",
+                "Endurance crushed ice Hurley",
+                "Endurance ship 1915"
+              ]
+            },
+            {
+              "narration": "Their leader was Ernest Shackleton. Their ship was the Endurance. What happened next became one of the greatest survival stories ever told.",
+              "image_search": [
+                "Ernest Shackleton portrait",
+                "Ernest Shackleton 1914"
+              ]
+            },
+            {
+              "narration": "Stay to the end for an 800-mile voyage in an open lifeboat, a desperate 36-hour march across the mountains of South Georgia, and the discovery of the lost wreck in 2022.",
+              "image_search": [
+                "James Caird launch Elephant Island",
+                "James Caird Shackleton"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Into the Weddell Sea",
+          "scenes": [
+            {
+              "narration": "The Imperial Trans-Antarctic Expedition left Plymouth on August 8, 1914. Its goal was to make the first crossing of Antarctica on foot.",
+              "label": "8 AUG 1914",
+              "image_search": [
+                "Endurance Plymouth 1914",
+                "Imperial Trans-Antarctic Expedition"
+              ]
+            },
+            {
+              "narration": "By November, Endurance had reached the whaling stations of South Georgia, the last outpost before the ice. Then she sailed south.",
+              "label": "SOUTH GEORGIA",
+              "image_search": [
+                "Grytviken whaling station South Georgia",
+                "Grytviken South Georgia"
+              ]
+            },
+            {
+              "narration": "In January 1915, the pack ice closed around her. By January 24 she was frozen in, unable to move in any direction.",
+              "label": "JAN 1915",
+              "video_search": [
+                "South 1919 Frank Hurley film",
+                "Endurance Shackleton film"
+              ],
+              "image_search": [
+                "Endurance in pack ice Hurley",
+                "Endurance ship ice 1915"
+              ]
+            },
+            {
+              "narration": "Her captain and navigator was Frank Worsley. His careful position records would matter more than anyone could have imagined, more than a century later.",
+              "image_search": [
+                "Frank Worsley captain",
+                "Frank Worsley Endurance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crushed",
+          "scenes": [
+            {
+              "narration": "For months, the ship drifted with the ice. The crew lived aboard through the long polar winter, while the pressure on her hull slowly built.",
+              "image_search": [
+                "Endurance night ice Hurley",
+                "Endurance ship winter 1915"
+              ]
+            },
+            {
+              "narration": "On October 27, 1915, Shackleton gave the order to abandon ship. The men moved onto the ice with their lifeboats, their sled dogs and whatever supplies they could carry from the ship.",
+              "label": "27 OCT 1915",
+              "image_search": [
+                "Ocean Camp Shackleton",
+                "Shackleton crew ice camp"
+              ]
+            },
+            {
+              "narration": "Photographer Frank Hurley filmed the bow being crushed and the masts collapsing. His pictures are why we can still see it today.",
+              "image_search": [
+                "Frank Hurley photographer Endurance",
+                "Frank Hurley camera Antarctica"
+              ]
+            },
+            {
+              "narration": "On November 21, a pressure wave lifted the stern, and dropped her. Endurance was gone.",
+              "image_search": [
+                "Endurance wreck ice Hurley",
+                "Endurance ship 1915"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Life on the Ice",
+          "scenes": [
+            {
+              "narration": "The men lived first at Ocean Camp, then at Patience Camp, on floating ice that was slowly drifting north. They held on there for more than three months.",
+              "label": "PATIENCE CAMP",
+              "image_search": [
+                "Patience Camp Shackleton",
+                "Shackleton Patience Camp Hurley"
+              ]
+            },
+            {
+              "narration": "In April 1916, the ice began to break up. They climbed into three lifeboats and set out across freezing open water.",
+              "label": "APR 1916",
+              "image_search": [
+                "Shackleton lifeboats ice 1916",
+                "Shackleton crew lifeboat"
+              ]
+            },
+            {
+              "narration": "They reached Elephant Island, an uninhabited, storm-battered rock. There they built a shelter by turning two of the boats upside down. Twenty-two of them would wait there.",
+              "label": "ELEPHANT ISLAND",
+              "image_search": [
+                "Elephant Island Point Wild",
+                "Elephant Island Shackleton"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "800 Miles in an Open Boat",
+          "scenes": [
+            {
+              "narration": "Elephant Island was far from any shipping route. So on April 24, 1916, Shackleton and five men set off in the third boat, the James Caird, to fetch help.",
+              "label": "24 APR 1916",
+              "image_search": [
+                "Launching the James Caird",
+                "James Caird Elephant Island"
+              ]
+            },
+            {
+              "narration": "Shackleton, Worsley, Tom Crean, Harry McNish, John Vincent and Timothy McCarthy sailed about 800 miles across the Southern Ocean towards South Georgia.",
+              "label": "800 MILES",
+              "image_search": [
+                "James Caird boat Shackleton",
+                "James Caird Dulwich College"
+              ]
+            },
+            {
+              "narration": "It was a small open boat on one of the roughest oceans on Earth, and Worsley had to find a single island. On May 10, after sixteen days at sea, they landed at King Haakon Bay.",
+              "label": "10 MAY 1916",
+              "image_search": [
+                "King Haakon Bay South Georgia",
+                "South Georgia island coast"
+              ]
+            },
+            {
+              "narration": "But they had landed on the far side of the island. The whaling station at Stromness, and help, lay on the other side of its mountains.",
+              "image_search": [
+                "South Georgia mountains glacier",
+                "South Georgia Allardyce Range"
+              ]
+            },
+            {
+              "narration": "Shackleton, Worsley and Crean crossed those mountains in about 36 hours, and walked into the whaling station at Stromness.",
+              "label": "36 HOURS",
+              "image_search": [
+                "Stromness whaling station South Georgia",
+                "Stromness South Georgia"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Rescue and Rediscovery",
+          "scenes": [
+            {
+              "narration": "Getting back to Elephant Island took several failed attempts. Finally, on August 30, 1916, the Chilean ship Yelcho, under Luis Pardo, reached the island.",
+              "label": "30 AUG 1916",
+              "image_search": [
+                "Yelcho Elephant Island 1916",
+                "Yelcho Luis Pardo",
+                "Luis Pardo Villalon"
+              ]
+            },
+            {
+              "narration": "Every one of the men left behind was still alive. Of the 28 who sailed on Endurance, not one was lost.",
+              "image_search": [
+                "Shackleton Endurance crew 1914",
+                "Endurance crew Imperial Trans-Antarctic Expedition"
+              ]
+            },
+            {
+              "narration": "There was tragedy elsewhere: on the other side of Antarctica, three men of the expedition's Ross Sea party died.",
+              "image_search": [
+                "Ross Sea party Aurora",
+                "SY Aurora ship"
+              ]
+            },
+            {
+              "narration": "Then, on March 5, 2022, the Endurance22 expedition found the wreck, 3,008 metres down, about four nautical miles from Worsley's recorded position.",
+              "label": "5 MAR 2022",
+              "image_search": [
+                "S.A. Agulhas II",
+                "SA Agulhas II Antarctica"
+              ]
+            },
+            {
+              "narration": "She was standing upright in remarkable condition, her wheel intact, and the name Endurance still clear on her stern.",
+              "image_search": [
+                "Endurance stern Hurley 1915",
+                "Endurance ship 1915"
+              ]
+            },
+            {
+              "narration": "Was it Shackleton's leadership, Worsley's navigation, or plain luck that saved them? Tell us what you think. Follow for more untold history.",
+              "image_search": [
+                "Ernest Shackleton portrait",
+                "Ernest Shackleton"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "🧊 Their ship sank in the Antarctic ice. Nobody in the world knew they were alive.\n\nIn 1915, Ernest Shackleton's ship Endurance was trapped and crushed in the Weddell Sea, leaving 28 men stranded on drifting ice.\n\nThis documentary follows them from the ice camps to Elephant Island, through an 800-mile voyage in an open lifeboat and a 36-hour crossing of South Georgia's mountains — and to the moment the wreck was found, 3,008 metres down, in 2022.\n\nWhat do you think saved them: leadership, navigation, or luck?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Shackleton",
+        "Antarctica",
+        "Documentary"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Endurance_(1912_ship)",
+        "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition",
+        "https://www.aalto.fi/en/news/wreck-of-ernest-shackletons-ship-endurance-found-in-antarctica"
       ]
     }
   ]
