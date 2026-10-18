@@ -5,9 +5,9 @@
       "image:Great Zimbabwe Great Enclosure wall"
     ],
     "hit": {
-      "title": "File:Wall of the great enclosure, Great Zimbabwe.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure,_Great_Zimbabwe.JPG",
+      "title": "File:Wall of the great enclosure (far), Great Zimbabwe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure_(far),_Great_Zimbabwe.JPG",
       "license": "CC BY",
       "credit": "Jens Klinzing / Wikimedia Commons (CC BY)",
       "duration": 0.0
@@ -1169,13 +1169,31 @@
   },
   "2026-10-20:b:scene 5": {
     "topic": "Linear A, the undeciphered Minoan script",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Linear A Akrotiri Santorini"
+    ],
+    "hit": {
+      "title": "File:Archaeological site of Akrotiri - Santorini - July 12th 2012 - 98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Archaeological_site_of_Akrotiri_-_Santorini_-_July_12th_2012_-_98.jpg/1920px-Archaeological_site_of_Akrotiri_-_Santorini_-_July_12th_2012_-_98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Archaeological_site_of_Akrotiri_-_Santorini_-_July_12th_2012_-_98.jpg",
+      "license": "CC BY-SA",
+      "credit": "Norbert Nagel / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:b:scene 6": {
     "topic": "Linear A, the undeciphered Minoan script",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Linear A tablet Heraklion museum"
+    ],
+    "hit": {
+      "title": "File:Linear B Phaistos archmus Heraklion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Linear_B_Phaistos_archmus_Heraklion.jpg/1920px-Linear_B_Phaistos_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Linear_B_Phaistos_archmus_Heraklion.jpg",
+      "license": "CC0",
+      "credit": "Jebulon / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:c:post": {
     "topic": "Self-healing Roman concrete",
@@ -1249,23 +1267,397 @@
   },
   "2026-10-20:d:scene 5": {
     "topic": "The Lost Colony of Roanoke",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Fort Raleigh National Historic Site"
+    ],
+    "hit": {
+      "title": "File:Fort Raleigh National Historic Site earthworks - Sarah Stierch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Fort_Raleigh_National_Historic_Site_earthworks_-_Sarah_Stierch.jpg/1920px-Fort_Raleigh_National_Historic_Site_earthworks_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Fort_Raleigh_National_Historic_Site_earthworks_-_Sarah_Stierch.jpg",
+      "license": "CC BY",
+      "credit": "Sarah Stierch / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:d:scene 6": {
     "topic": "The Lost Colony of Roanoke",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Croatoan carving Roanoke",
+      "image:Lost Colony Croatoan"
+    ],
+    "hit": {
+      "title": "File:Lost Colony Tree - Fort Raleigh National Historic Site - Stierch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lost_Colony_Tree_-_Fort_Raleigh_National_Historic_Site_-_Stierch.jpg/1920px-Lost_Colony_Tree_-_Fort_Raleigh_National_Historic_Site_-_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lost_Colony_Tree_-_Fort_Raleigh_National_Historic_Site_-_Stierch.jpg",
+      "license": "CC BY",
+      "credit": "Sarah Stierch / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:d:scene 7": {
     "topic": "The Lost Colony of Roanoke",
-    "tried": [],
-    "hit": null
+    "tried": [
+      "image:Hatteras Island North Carolina"
+    ],
+    "hit": {
+      "title": "File:Confederate troops retreating to their boats from Hatteras Island, October 6, 1861.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Confederate_troops_retreating_to_their_boats_from_Hatteras_Island%2C_October_6%2C_1861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Confederate_troops_retreating_to_their_boats_from_Hatteras_Island,_October_6,_1861.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:d:scene 8": {
     "topic": "The Lost Colony of Roanoke",
-    "tried": [],
+    "tried": [
+      "image:John White map Virginia Roanoke"
+    ],
+    "hit": {
+      "title": "File:Bodleian Libraries, John White, Americae pars, Nunc Virginia dicta.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bodleian_Libraries%2C_John_White%2C_Americae_pars%2C_Nunc_Virginia_dicta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Bodleian_Libraries,_John_White,_Americae_pars,_Nunc_Virginia_dicta.jpg",
+      "license": "Public domain",
+      "credit": "White, John [cartographer] Bry, Theodor de, 1528-1598 [engraver] / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:e:post": {
+    "topic": "Sydney Opera House and J\u00f8rn Utzon",
+    "tried": [
+      "image:Sydney Opera House under construction"
+    ],
+    "hit": {
+      "title": "File:Sydney (AU), Opera House -- 2019 -- 3054.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_%28AU%29%2C_Opera_House_--_2019_--_3054.jpg/1920px-Sydney_%28AU%29%2C_Opera_House_--_2019_--_3054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_3054.jpg",
+      "license": "CC BY-SA",
+      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 1": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:USCGC Itasca 1937",
+      "image:USCGC Itasca"
+    ],
     "hit": null
+  },
+  "2026-10-20:f:scene 2": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart radio log Itasca",
+      "image:Amelia Earhart 1937"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 3": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Lockheed Electra 10E"
+    ],
+    "hit": {
+      "title": "File:Lockheed 12A Electra Junior \u2018NR16020\u2019 (F-AZLL) (49819232942).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg/1920px-Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_(F-AZLL)_(49819232942).jpg",
+      "license": "CC BY-SA",
+      "credit": "Alan Wilson from Peterborough, Cambs, UK / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 4": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Friendship 1928"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart - GPN-2002-000211.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Amelia_Earhart_-_GPN-2002-000211.jpg/1920px-Amelia_Earhart_-_GPN-2002-000211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_-_GPN-2002-000211.jpg",
+      "license": "Public domain",
+      "credit": "Smithsonian Institution / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 5": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart 1932 Lockheed Vega"
+    ],
+    "hit": {
+      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+      "license": "CC0",
+      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 6": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart portrait 1935",
+      "image:Amelia Earhart portrait"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 7": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Fred Noonan Amelia Earhart"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart and Fred Noonan in the Marshall Islands after their capture.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Amelia_Earhart_and_Fred_Noonan_in_the_Marshall_Islands_after_their_capture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_and_Fred_Noonan_in_the_Marshall_Islands_after_their_capture.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 8": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Lae New Guinea"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart monument.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Amelia_Earhart_monument.jpg/1920px-Amelia_Earhart_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_monument.jpg",
+      "license": "CC BY-SA",
+      "credit": "Phenss / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 9": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Electra takeoff"
+    ],
+    "hit": {
+      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+      "license": "CC0",
+      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 10": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Howland Island aerial"
+    ],
+    "hit": {
+      "title": "File:Howland Island NWR.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Howland_Island_NWR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Howland_Island_NWR.jpg",
+      "license": "Public domain",
+      "credit": "USFWS - Pacific Region / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 11": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:USCGC Itasca radio room",
+      "image:USCGC Itasca 1930s"
+    ],
+    "hit": null
+  },
+  "2026-10-20:f:scene 12": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:USCGC Itasca cutter",
+      "image:USCGC Itasca"
+    ],
+    "hit": null
+  },
+  "2026-10-20:f:scene 13": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart last flight map",
+      "image:Amelia Earhart flight route 1937"
+    ],
+    "hit": {
+      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+      "license": "CC0",
+      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 14": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart cockpit Electra"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart 1937.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Amelia_Earhart_1937.tif/lossy-page1-1920px-Amelia_Earhart_1937.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_1937.tif",
+      "license": "Public domain",
+      "credit": "New York World-Telegram and the Sun Newspaper / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 15": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:USS Lexington 1937"
+    ],
+    "hit": {
+      "title": "File:SBD on USS Lexington (CV-2) 1941.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/SBD_on_USS_Lexington_%28CV-2%29_1941.jpg/1920px-SBD_on_USS_Lexington_%28CV-2%29_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:SBD_on_USS_Lexington_(CV-2)_1941.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 16": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Howland Island Earhart Light"
+    ],
+    "hit": {
+      "title": "File:Earhart Light.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Earhart_Light.jpg/1920px-Earhart_Light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Earhart_Light.jpg",
+      "license": "CC BY-SA",
+      "credit": "Joann94024 at English Wikipedia / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 17": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart newspaper 1937"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart 1937.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Amelia_Earhart_1937.tif/lossy-page1-1920px-Amelia_Earhart_1937.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_1937.tif",
+      "license": "Public domain",
+      "credit": "New York World-Telegram and the Sun Newspaper / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 18": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Electra Oakland 1937"
+    ],
+    "hit": {
+      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+      "license": "CC0",
+      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 19": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Nikumaroro atoll"
+    ],
+    "hit": {
+      "title": "File:Nikumaroro Atoll.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nikumaroro_Atoll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Nikumaroro_Atoll.jpg",
+      "license": "CC BY",
+      "credit": "P Minton, from Ikonos image (04-2001) / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 20": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Nikumaroro shipwreck SS Norwich City",
+      "image:Nikumaroro lagoon"
+    ],
+    "hit": {
+      "title": "File:Nikumaroro Lagoon Entrance AKK new.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Nikumaroro_Lagoon_Entrance_AKK_new.jpg/1920px-Nikumaroro_Lagoon_Entrance_AKK_new.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nikumaroro_Lagoon_Entrance_AKK_new.jpg",
+      "license": "Public domain",
+      "credit": "Angela K. Kepler (cleaned up by Rvdude007) / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 21": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Suva Fiji 1940"
+    ],
+    "hit": {
+      "title": "File:Portrait of two women in front of Grand Pacific Hotel, Suva, Fiji (AM 79998-1).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_two_women_in_front_of_Grand_Pacific_Hotel%2C_Suva%2C_Fiji_%28AM_79998-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_two_women_in_front_of_Grand_Pacific_Hotel,_Suva,_Fiji_(AM_79998-1).jpg",
+      "license": "CC BY",
+      "credit": "Collins, Tudor Washington, 1898-1970, photographer / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 22": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart 1936"
+    ],
+    "hit": {
+      "title": "File:Amelia Earhart LOC hec.40747.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Amelia_Earhart_LOC_hec.40747.jpg/1920px-Amelia_Earhart_LOC_hec.40747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_LOC_hec.40747.jpg",
+      "license": "Public domain",
+      "credit": "Harris &amp; Ewing / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 23": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Marshall Islands map 1930s",
+      "image:Jaluit Atoll"
+    ],
+    "hit": {
+      "title": "File:Jaluit Atoll map Kraemer1896 204.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jaluit_Atoll_map_Kraemer1896_204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Jaluit_Atoll_map_Kraemer1896_204.jpg",
+      "license": "Public domain",
+      "credit": "Augustin Friedrich Kr\u00e4mer (* 27. August 1865 ; \u2020 11. November 1941) / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-20:f:scene 24": {
+    "topic": "The disappearance of Amelia Earhart",
+    "tried": [
+      "image:Amelia Earhart Lockheed Electra 10E"
+    ],
+    "hit": {
+      "title": "File:Lockheed 12A Electra Junior \u2018NR16020\u2019 (F-AZLL) (49819232942).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg/1920px-Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_(F-AZLL)_(49819232942).jpg",
+      "license": "CC BY-SA",
+      "credit": "Alan Wilson from Peterborough, Cambs, UK / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:a:post": {
     "topic": "Mary Anning, fossil hunter of Lyme Regis",
