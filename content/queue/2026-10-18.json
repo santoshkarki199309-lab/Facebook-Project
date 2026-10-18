@@ -50,11 +50,19 @@
         },
         {
           "image_prompt": "A scientist in a modern laboratory examining a tiny wood sample beside an ancient carved tablet, soft blue light",
-          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived."
+          "narration": "Fewer than thirty objects survive, scattered in museums. In twenty twenty-four, researchers dated the wood of one tablet to around the year fifteen hundred, long before Europeans arrived.",
+          "image_search": [
+            "Rongorongo tablet museum",
+            "Rongorongo"
+          ]
         },
         {
           "image_prompt": "A carved wooden tablet resting on volcanic rock at sunset, the ocean glowing behind it",
-          "narration": "So did Rapa Nui invent writing on its own? Tell us what you think, and follow for more."
+          "narration": "So did Rapa Nui invent writing on its own? Tell us what you think, and follow for more.",
+          "image_search": [
+            "Ahu Tongariki moai sunset",
+            "Moai Easter Island"
+          ]
         }
       ],
       "caption": "🗿 A script no one alive can read.\n\nRongorongo was carved on wooden tablets on Rapa Nui (Easter Island). Fewer than 30 objects survive, and the script remains undeciphered. A 2024 study dated the wood of one tablet to around 1493–1509 — centuries before European contact.\n\nIndependent invention of writing? Share your view 👇",
@@ -99,7 +107,10 @@
           "image_prompt": "A colossal sperm whale surging out of dark Pacific water toward the bow of a wooden 19th-century whaling ship, spray everywhere",
           "narration": "In 1820, a whale rammed a ship twice, and sank it.",
           "label": "1820",
-          "image_search": "whaling ship painting"
+          "image_search": [
+            "whaling ship painting 19th century",
+            "Whaling ship"
+          ]
         },
         {
           "image_prompt": "A weathered wooden whaling ship with patched sails on a calm blue Pacific ocean, crew in small rowing boats nearby, 1820",
@@ -110,16 +121,27 @@
         {
           "image_prompt": "Below-deck view of a ship's hull splintering inward, seawater rushing in, lanterns swinging, sailors scrambling",
           "narration": "Then it came back and hit her again. The ship went down. The crew escaped in three small whaleboats.",
-          "image_search": "sperm whale engraving"
+          "image_search": [
+            "sperm whale engraving",
+            "Sperm whale illustration"
+          ]
         },
         {
           "image_prompt": "Three tiny open wooden boats adrift on an endless empty ocean under a blazing sun, gaunt sailors in ragged shirts",
-          "narration": "Far from any land, they chose a long route toward South America."
+          "narration": "Far from any land, they chose a long route toward South America.",
+          "image_search": [
+            "whaleboat whaling 19th century",
+            "Whaling boat"
+          ]
         },
         {
           "image_prompt": "A lone rescue ship with full sails approaching a battered small boat on a grey sea, distant figures waving",
           "narration": "About three months later, rescue ships found the boats. Only eight men survived the ordeal.",
-          "label": "8 SURVIVORS"
+          "label": "8 SURVIVORS",
+          "image_search": [
+            "Owen Chase narrative Essex",
+            "whaling ship Pacific painting"
+          ]
         },
         {
           "image_prompt": "A 19th-century writer at a candlelit desk reading an old printed shipwreck narrative, sea charts and a quill nearby",
@@ -134,7 +156,11 @@
         },
         {
           "image_prompt": "A huge sperm whale's tail rising above a stormy sea at dusk, no ships in sight",
-          "narration": "Would you ever go back to sea after that? Follow for more untold history."
+          "narration": "Would you ever go back to sea after that? Follow for more untold history.",
+          "image_search": [
+            "Moby Dick illustration whale",
+            "Sperm whale"
+          ]
         }
       ],
       "caption": "🐋 ON THIS DAY in 1851, Moby-Dick was first published — in London, under the title \"The Whale\".\n\nMelville drew on a true disaster. In 1820, a sperm whale rammed the Nantucket whaleship Essex twice and sank her in the middle of the Pacific. Her crew drifted for months in open boats; only eight men survived.\n\nFirst mate Owen Chase's account of the wreck became one of Melville's key inspirations.\n\nWould you have taken the longer route to safety, or risked the unknown islands? 👇",

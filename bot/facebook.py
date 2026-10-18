@@ -98,6 +98,36 @@ def post_reel(video: Path, description: str) -> dict:
     return {"video_id": video_id, "finish": fin, "status": status.get("status")}
 
 
+def post_video(video: Path, title: str, description: str) -> dict:
+    """Long-form (16:9) Page video via graph-video.facebook.com (single upload, ≤1 GB)."""
+    _require_creds()
+    url = f"https://graph-video.facebook.com/{config.GRAPH_VERSION}/{config.FB_PAGE_ID}/videos"
+    with open(video, "rb") as fh:
+        resp = requests.post(url, data={
+            "title": title[:255], "description": description, "published": "true",
+            "access_token": config.FB_PAGE_TOKEN,
+        }, files={"source": (video.name, fh, "video/mp4")}, timeout=3600)
+    data = _check(resp)
+    video_id = data.get("id")
+    status = {}
+    for _ in range(40):
+        time.sleep(20)
+        try:
+            status = _check(requests.get(f"{_base()}/{video_id}", params={
+                "fields": "status,permalink_url", "access_token": config.FB_PAGE_TOKEN}, timeout=30))
+        except GraphError as exc:
+            print(f"[facebook] status check failed: {exc}")
+            break
+        st = status.get("status", {})
+        print(f"[facebook] video status: {st.get('video_status')}")
+        if st.get("video_status") in ("ready", "error"):
+            break
+    if status.get("status", {}).get("video_status") == "error":
+        raise GraphError(f"Video processing failed: {status}")
+    return {"video_id": video_id, "status": status.get("status"),
+            "permalink": status.get("permalink_url")}
+
+
 def add_comment(object_id: str, message: str) -> dict:
     """Comment as the Page on a post or reel. Needs pages_manage_engagement."""
     _require_creds()

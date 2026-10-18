@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -q -r requirements.txt
-      - run: python -m bot.validate
+      - run: python -m bot.validate --from-today
       - name: Warn if the queue is running low
         run: |
           python - <<'EOF'

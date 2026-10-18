@@ -10,7 +10,7 @@ import argparse
 import sys
 from datetime import datetime, timedelta, timezone
 
-from . import brand, config, facebook, media, reel
+from . import brand, config, facebook, media, video
 from . import queue as q
 from .validate import validate_post
 
@@ -40,14 +40,16 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
     print(f"[publish] {key} type={post['type']} topic={post.get('topic')!r}")
 
     if post["type"] == "photo":
-        raw, tag, credit = media.picture(post, work / "raw.jpg", offline=offline)
-        credits = [credit] if credit else []
-        out_file = brand.photo_post(raw, work / "post.jpg", tagline=tag,
+        v = media.resolve(post, work / "raw", set(), offline=offline, allow_video=False)
+        credits = media.credits_of([v])
+        out_file = brand.photo_post(v.path, work / "post.jpg", tagline=v.tag,
                                     layout=post.get("layout", "full"),
                                     headline=post.get("image_headline"),
                                     kicker=post.get("series"))
+    elif post["type"] == "reel":
+        out_file, credits = video.render_reel(post, work, offline=offline)
     else:
-        out_file, credits = reel.render(post, work, offline=offline)
+        out_file, credits = video.render_long(post, work, offline=offline)
 
     comment = q.build_sources_comment(post, credits)
     if dry_run:
@@ -58,8 +60,11 @@ def run(slot: str, date: str, dry_run: bool, offline: bool) -> int:
     if post["type"] == "photo":
         result = facebook.post_photo(out_file, caption)
         post_id = result.get("post_id") or result.get("id")
-    else:
+    elif post["type"] == "reel":
         result = facebook.post_reel(out_file, caption)
+        post_id = result.get("video_id")
+    else:
+        result = facebook.post_video(out_file, post["title"], caption)
         post_id = result.get("video_id")
 
     # Best effort: a sources comment never blocks or fails a publish.

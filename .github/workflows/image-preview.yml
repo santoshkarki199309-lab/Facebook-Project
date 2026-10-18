@@ -24,9 +24,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -q -r requirements.txt
-      - name: Resolve images for the next 8 days
+      - name: Resolve images for the next 6 days
         run: |
-          DATES=$(python -c "from datetime import date, timedelta as t; print(' '.join(str(date.today()+t(d)) for d in range(8)))")
+          DATES=$(python -c "from datetime import date, timedelta as t; print(' '.join(str(date.today()+t(d)) for d in range(6)))")
           python -m bot.media $DATES
       - name: Commit preview
         run: |

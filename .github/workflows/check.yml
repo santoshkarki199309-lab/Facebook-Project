@@ -10,8 +10,6 @@ jobs:
     env:
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
       GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v24.0' }}
     steps:
       - uses: actions/checkout@v7
@@ -21,16 +19,13 @@ jobs:
       - run: pip install -q -r requirements.txt
       - name: Facebook token
         run: python -m bot.publish --check
-      - name: Cloudflare image generation
+      - name: Wikimedia Commons archive search
         run: |
           python - <<'EOF'
-          from pathlib import Path
-          from bot import images
-          p = images.generate("an ancient stone archway in the desert at sunset", Path("out/check.jpg"))
-          print("image ok:", p, p.stat().st_size, "bytes")
+          from bot import media
+          hit = media.commons_search("Antikythera mechanism", "image")
+          print("image:", hit and hit["title"], hit and hit["license"])
+          film = media.commons_search("Wright brothers flight 1903", "video")
+          print("film:", film and film["title"], film and film["license"])
+          assert hit, "Commons image search failed"
           EOF
-      - uses: actions/upload-artifact@v7
-        with:
-          name: check-image
-          path: out/check.jpg
-          if-no-files-found: ignore

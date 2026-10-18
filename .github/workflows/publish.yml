@@ -2,22 +2,26 @@ name: Publish
 
 on:
   schedule:
-    - cron: "47 12 * * *"   # slot b — reel   (US morning / UK afternoon)
-    - cron: "52 16 * * *"   # slot a — photo  (US lunch / UK evening)
-    - cron: "13 23 * * *"   # slot d — reel   (US prime time)
-    - cron: "7 2 * * *"     # slot c — photo  (US late evening / West coast prime time)
-    # Backups ~45 min later: GitHub sometimes delays or drops scheduled runs. A backup does
-    # nothing if its slot was already published.
-    - cron: "33 13 * * *"   # backup b
-    - cron: "37 17 * * *"   # backup a
-    - cron: "58 23 * * *"   # backup d
+    # 6 posts a day (UTC). Each slot has a backup ~45 min later because GitHub sometimes
+    # delays or drops scheduled runs; a backup does nothing if the slot was already published.
+    - cron: "7 2 * * *"     # c photo
+    - cron: "47 12 * * *"   # b reel
+    - cron: "41 14 * * *"   # e photo
+    - cron: "52 16 * * *"   # a photo
+    - cron: "37 21 * * *"   # f long video
+    - cron: "13 23 * * *"   # d reel
     - cron: "53 2 * * *"    # backup c
+    - cron: "33 13 * * *"   # backup b
+    - cron: "27 15 * * *"   # backup e
+    - cron: "37 17 * * *"   # backup a
+    - cron: "23 22 * * *"   # backup f
+    - cron: "58 23 * * *"   # backup d
   workflow_dispatch:
     inputs:
       slot:
         description: "Slot to publish (or 'comments' to only add missing sources comments)"
         type: choice
-        options: [a, b, c, d, comments]
+        options: [a, b, c, d, e, f, comments]
         required: true
       date:
         description: "UTC date YYYY-MM-DD (blank = today)"
@@ -37,12 +41,10 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-24.04
-    timeout-minutes: 40
+    timeout-minutes: 120
     env:
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
       GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v24.0' }}
       TTS_VOICE: ${{ vars.TTS_VOICE || 'en-US-AndrewMultilingualNeural' }}
     steps:
@@ -52,15 +54,13 @@ jobs:
         id: slot
         run: |
           case "${{ github.event.schedule }}" in
-            "47 12 * * *") echo "slot=b" >> "$GITHUB_OUTPUT" ;;
-            "52 16 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
-            "13 23 * * *") echo "slot=d" >> "$GITHUB_OUTPUT" ;;
-            "7 2 * * *")   echo "slot=c" >> "$GITHUB_OUTPUT" ;;
-            "33 13 * * *") echo "slot=b" >> "$GITHUB_OUTPUT" ;;
-            "37 17 * * *") echo "slot=a" >> "$GITHUB_OUTPUT" ;;
-            "58 23 * * *") echo "slot=d" >> "$GITHUB_OUTPUT" ;;
-            "53 2 * * *")  echo "slot=c" >> "$GITHUB_OUTPUT" ;;
-            *)             echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT" ;;
+            "7 2 * * *"|"53 2 * * *")     echo "slot=c" >> "$GITHUB_OUTPUT" ;;
+            "47 12 * * *"|"33 13 * * *")  echo "slot=b" >> "$GITHUB_OUTPUT" ;;
+            "41 14 * * *"|"27 15 * * *")  echo "slot=e" >> "$GITHUB_OUTPUT" ;;
+            "52 16 * * *"|"37 17 * * *")  echo "slot=a" >> "$GITHUB_OUTPUT" ;;
+            "37 21 * * *"|"23 22 * * *")  echo "slot=f" >> "$GITHUB_OUTPUT" ;;
+            "13 23 * * *"|"58 23 * * *")  echo "slot=d" >> "$GITHUB_OUTPUT" ;;
+            *)                            echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT" ;;
           esac
 
       - uses: actions/setup-python@v7
