@@ -38,12 +38,12 @@ goes live, so every post must be publish-ready.
 
 | Slot | Type | UTC | Audience moment | What goes here |
 |---|---|---|---|---|
-| c | photo | 02:07 | US late evening | Debate / "On This Day" photo post |
-| b | reel  | 12:47 | US morning / UK afternoon | Fast myth-buster or "did you know" reel |
-| e | photo | 14:41 | US mid-morning | "Then vs now", famous photo story, or strange true fact |
-| a | photo | 16:52 | US lunch / UK evening | Story post with a strong archive image |
-| f | **video** | 21:37 | US afternoon / UK evening | **Long documentary, 4–6 min — the day's most viral topic** |
-| d | reel  | 23:13 | **US prime time** | **The day's strongest short story** |
+| c | photo | 03:57 (07:57 UAE) | UAE morning | Debate / "On This Day" photo post |
+| b | reel  | 08:53 (12:53 UAE) | UAE lunch / UK morning | Fast myth-buster or "did you know" reel |
+| e | photo | 12:47 (16:47 UAE) | UAE afternoon / UK lunch / US morning | "Then vs now", famous photo story, or strange true fact |
+| a | photo | 15:22 (19:22 UAE) | UAE evening / UK afternoon | Story post with a strong archive image |
+| f | **video** | 21:37 (01:37 UAE) | US afternoon / UK evening | **Long documentary, 4–6 min — the day's most viral topic** |
+| d | reel  | 23:13 (03:13 UAE) | **US prime time** | **The day's strongest short story** |
 
 At least one post per day is an **On This Day** story for that calendar date — say so.
 The long video (f) and the prime-time reel (d) must be the two strongest topics of the day,

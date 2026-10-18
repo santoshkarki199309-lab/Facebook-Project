@@ -15,10 +15,10 @@ Claude scheduled task (daily)          GitHub Actions (6× daily)
 
 | Slot | UTC | Dubai | Type |
 |---|---|---|---|
-| c | 02:07 | 06:07 | Photo — debate / On This Day |
-| b | 12:47 | 16:47 | Reel — myth-buster / did-you-know (35–55 s) |
-| e | 14:41 | 18:41 | Photo — famous photo story / strange true fact |
-| a | 16:52 | 20:52 | Photo story |
+| c | 03:57 | 07:57 | Photo — debate / On This Day |
+| b | 08:53 | 12:53 | Reel — myth-buster / did-you-know (35–55 s) |
+| e | 12:47 | 16:47 | Photo — famous photo story / strange true fact |
+| a | 15:22 | 19:22 | Photo story |
 | f | 21:37 | 01:37 | Long documentary video (4–6 min, 16:9) |
 | d | 23:13 | 03:13 | Reel — strongest story of the day (US prime time) |
 

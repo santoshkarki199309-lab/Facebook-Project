@@ -14,17 +14,17 @@ BRAND_TAGLINE = "Archive image"
 
 # Slots: the publish workflow maps each cron to one of these.
 SLOTS = {
-    "c": "photo",  # 02:07 UTC — US late evening / West coast prime time
-    "b": "reel",   # 12:47 UTC — US morning commute / UK afternoon
-    "e": "photo",  # 14:41 UTC — US mid-morning / UK late afternoon
-    "a": "photo",  # 16:52 UTC — US lunch / UK evening
+    "c": "photo",  # 03:57 UTC = 07:57 UAE — UAE morning
+    "b": "reel",   # 08:53 UTC = 12:53 UAE — UAE lunch / UK morning
+    "e": "photo",  # 12:47 UTC = 16:47 UAE — UAE late afternoon / UK lunch / US morning
+    "a": "photo",  # 15:22 UTC = 19:22 UAE — UAE evening / UK late afternoon / US late morning
     "f": "video",  # 21:37 UTC — long documentary, US afternoon / UK late evening
     "d": "reel",   # 23:13 UTC — US prime time (East coast 7pm, West 4pm)
 }
 
 # Scheduled UTC time of each slot. GitHub's scheduler can start runs hours late, so a
 # scheduled run publishes the post for the date of the slot's most recent scheduled time.
-SLOT_TIMES = {"c": "02:07", "b": "12:47", "e": "14:41", "a": "16:52", "f": "21:37", "d": "23:13"}
+SLOT_TIMES = {"c": "03:57", "b": "08:53", "e": "12:47", "a": "15:22", "f": "21:37", "d": "23:13"}
 
 # Facebook Graph API
 GRAPH_VERSION = os.environ.get("GRAPH_VERSION", "v24.0")

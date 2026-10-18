@@ -4,16 +4,16 @@ on:
   schedule:
     # 6 posts a day (UTC). Each slot has a backup ~45 min later because GitHub sometimes
     # delays or drops scheduled runs; a backup does nothing if the slot was already published.
-    - cron: "7 2 * * *"     # c photo
-    - cron: "47 12 * * *"   # b reel
-    - cron: "41 14 * * *"   # e photo
-    - cron: "52 16 * * *"   # a photo
+    - cron: "57 3 * * *"    # c photo   07:57 UAE
+    - cron: "53 8 * * *"    # b reel    12:53 UAE
+    - cron: "47 12 * * *"   # e photo   16:47 UAE
+    - cron: "22 15 * * *"   # a photo   19:22 UAE
     - cron: "37 21 * * *"   # f long video
     - cron: "13 23 * * *"   # d reel
-    - cron: "53 2 * * *"    # backup c
-    - cron: "33 13 * * *"   # backup b
-    - cron: "27 15 * * *"   # backup e
-    - cron: "37 17 * * *"   # backup a
+    - cron: "43 4 * * *"    # backup c
+    - cron: "38 9 * * *"    # backup b
+    - cron: "33 13 * * *"   # backup e
+    - cron: "7 16 * * *"    # backup a
     - cron: "23 22 * * *"   # backup f
     - cron: "58 23 * * *"   # backup d
   workflow_dispatch:
@@ -54,10 +54,10 @@ jobs:
         id: slot
         run: |
           case "${{ github.event.schedule }}" in
-            "7 2 * * *"|"53 2 * * *")     echo "slot=c" >> "$GITHUB_OUTPUT" ;;
-            "47 12 * * *"|"33 13 * * *")  echo "slot=b" >> "$GITHUB_OUTPUT" ;;
-            "41 14 * * *"|"27 15 * * *")  echo "slot=e" >> "$GITHUB_OUTPUT" ;;
-            "52 16 * * *"|"37 17 * * *")  echo "slot=a" >> "$GITHUB_OUTPUT" ;;
+            "57 3 * * *"|"43 4 * * *")    echo "slot=c" >> "$GITHUB_OUTPUT" ;;
+            "53 8 * * *"|"38 9 * * *")    echo "slot=b" >> "$GITHUB_OUTPUT" ;;
+            "47 12 * * *"|"33 13 * * *")  echo "slot=e" >> "$GITHUB_OUTPUT" ;;
+            "22 15 * * *"|"7 16 * * *")   echo "slot=a" >> "$GITHUB_OUTPUT" ;;
             "37 21 * * *"|"23 22 * * *")  echo "slot=f" >> "$GITHUB_OUTPUT" ;;
             "13 23 * * *"|"58 23 * * *")  echo "slot=d" >> "$GITHUB_OUTPUT" ;;
             *)                            echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT" ;;
