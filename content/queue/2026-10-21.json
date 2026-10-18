@@ -35,7 +35,12 @@
         },
         {
           "image_prompt": "Sailors on the deck of a sailing ship in 1870s clothing peering through a telescope at a distant vessel, choppy grey sea",
-          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores."
+          "narration": "It was December. The crew of the Dei Gratia spotted the Mary Celeste about four hundred miles east of the Azores.",
+          "image_search": [
+            "Dei Gratia brigantine",
+            "Mary Celeste Dei Gratia",
+            "Azores islands map"
+          ]
         },
         {
           "image_prompt": "Interior of an empty nineteenth-century ship cabin, wooden barrels in the hold, a captain's desk with a logbook and oil lamp, dim light",
@@ -54,7 +59,11 @@
         },
         {
           "image_prompt": "A tiny lifeboat on a vast dark ocean under a stormy sky, the distant silhouette of a sailing ship",
-          "narration": "No one was ever found. What do you think happened? Tell us in the comments, and follow for more."
+          "narration": "No one was ever found. What do you think happened? Tell us in the comments, and follow for more.",
+          "image_search": [
+            "Mary Celeste engraving",
+            "Mary Celeste painting"
+          ]
         }
       ],
       "caption": "⛵ Food, water, cargo — all still aboard. Ten people gone.\n\nIn December 1872, the Mary Celeste was found drifting east of the Azores with its only lifeboat missing. No one aboard was ever seen again.\n\nPanic, mutiny or something else? Make your case 👇",
@@ -114,7 +123,12 @@
         },
         {
           "image_prompt": "A large wooden cask strapped down below deck of a sailing warship, a marine guard standing beside it, lantern glow",
-          "narration": "So the body was placed in a large cask filled with brandy. The spirit was drained and refilled along the way."
+          "narration": "So the body was placed in a large cask filled with brandy. The spirit was drained and refilled along the way.",
+          "image_search": [
+            "HMS Victory cask Nelson",
+            "Nelson body brandy cask",
+            "HMS Victory Portsmouth"
+          ]
         },
         {
           "image_prompt": "Sailors in striped shirts whispering in a dark ship's hold, one holding a tin cup, conspiratorial mood",
@@ -129,7 +143,11 @@
         },
         {
           "image_prompt": "An antique wooden barrel on a moonlit ship's deck, empty tin cup beside it, calm sea",
-          "narration": "Do you believe the legend? Tell us below. Follow for more untold history."
+          "narration": "Do you believe the legend? Tell us below. Follow for more untold history.",
+          "image_search": [
+            "Horatio Nelson portrait Lemuel Abbott",
+            "Horatio Nelson portrait"
+          ]
         }
       ],
       "caption": "⚓ MYTH vs FACT — ON THIS DAY in 1805, Admiral Nelson won the Battle of Trafalgar and was killed in the fighting.\n\nTo bring his body home for a state funeral, it was preserved in a cask of brandy, refilled during the long voyage. That much is true.\n\nThe famous story that thirsty sailors secretly drank from it — \"tapping the admiral\" — has no reliable evidence behind it. Historians treat it as a sailors' legend.\n\nWhy do you think this tale has survived for more than 200 years? 👇",
@@ -143,6 +161,268 @@
       "sources": [
         "https://navyhistory.au/the-preservation-of-horatio-lord-nelsons-body/",
         "https://www.thecollector.com/horatio-nelson-death-legend-trafalgar/"
+      ]
+    },
+    {
+      "slot": "e",
+      "type": "photo",
+      "topic": "Myth: Edison invented the light bulb",
+      "image_search": [
+        "Edison incandescent lamp 1879",
+        "Edison carbon filament lamp",
+        "Thomas Edison Menlo Park"
+      ],
+      "layout": "full",
+      "caption": "💡 ON THIS DAY in 1879, Edison's lab lit a bulb that glowed for over 14 hours. But Edison didn't invent the light bulb.\n\nOn October 21, 1879, at Menlo Park, New Jersey, Edison's team tested a lamp with a filament of carbonised cotton thread. It kept glowing for around 14 hours. (Records differ slightly on the exact day and hours.)\n\nBut electric light was already decades old. In 1802, Humphry Davy made a thin strip of platinum glow with electric current. In 1835, James Bowman Lindsay showed a constant electric light in Dundee, Scotland.\n\nIn England, Joseph Swan had been experimenting since 1850 and developed a working carbon-filament lamp at about the same time as Edison. Edison even bought the patent rights of two Canadians, Henry Woodward and Mathew Evans.\n\nWhat Edison's team really did was make the bulb practical. Their later bamboo filaments lasted up to 1,200 hours.\n\nThe rivalry ended neatly: Edison's English company merged with Swan's to form \"Ediswan\".\n\nWho deserves the credit — the first to make it glow, or the one who made it last?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "OnThisDay",
+        "MythVsFact",
+        "ThomasEdison",
+        "Inventors"
+      ],
+      "sources": [
+        "https://ethw.org/Edison%27s_Incandescent_Lamp",
+        "https://www.energy.gov/articles/history-light-bulb"
+      ]
+    },
+    {
+      "slot": "f",
+      "type": "video",
+      "topic": "The Hindenburg disaster",
+      "title": "Under 40 Seconds: The Hindenburg Disaster and the Mystery of the Spark",
+      "hook_text": "IT BURNED IN UNDER 40 SECONDS",
+      "chapters": [
+        {
+          "title": "Oh, the Humanity",
+          "scenes": [
+            {
+              "narration": "On the evening of May 6, 1937, the largest aircraft ever built hovered over a field in New Jersey. Seconds later, it was on fire. Ninety-seven people were on board.",
+              "label": "6 MAY 1937",
+              "video_search": [
+                "Hindenburg disaster newsreel",
+                "Hindenburg disaster film"
+              ],
+              "image_search": [
+                "Hindenburg disaster Lakehurst",
+                "Hindenburg burning 1937"
+              ]
+            },
+            {
+              "narration": "From the first sign of trouble until the bow hit the ground took only about 32 to 37 seconds. Cameras caught all of it.",
+              "video_search": [
+                "Hindenburg Lakehurst 1937 newsreel"
+              ],
+              "image_search": [
+                "Hindenburg disaster",
+                "Hindenburg explosion"
+              ]
+            },
+            {
+              "narration": "In this film: why a ship designed for helium flew on hydrogen, what happened in those final minutes, and why, nearly ninety years later, the spark is still debated.",
+              "image_search": [
+                "LZ 129 Hindenburg flight",
+                "LZ 129 Hindenburg"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giant of the Skies",
+          "scenes": [
+            {
+              "narration": "Built and launched at Friedrichshafen in Germany, the airship LZ 129 Hindenburg first flew on March 4, 1936. It was about 804 feet long, the largest rigid airship ever built.",
+              "label": "804 FEET",
+              "image_search": [
+                "LZ 129 Hindenburg 1936",
+                "Hindenburg airship 1936"
+              ]
+            },
+            {
+              "narration": "That is almost as long as the Titanic. Yet the Hindenburg flew, because its huge body was filled with lighter-than-air gas.",
+              "image_search": [
+                "Hindenburg over Manhattan 1936",
+                "Hindenburg New York 1936"
+              ]
+            },
+            {
+              "narration": "It was a flying luxury hotel. One-way tickets cost 400 dollars. It had 25 double cabins, later expanded so it could carry 72 passengers, with a dining room and even a smoking room.",
+              "image_search": [
+                "Hindenburg dining room",
+                "Hindenburg passenger deck",
+                "LZ 129 Hindenburg interior"
+              ]
+            },
+            {
+              "narration": "That smoking room was pressurised, with an airlock door to keep out stray gas. Passengers shared a single electric lighter.",
+              "image_search": [
+                "Hindenburg smoking room",
+                "LZ 129 Hindenburg lounge"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Wrong Gas",
+          "scenes": [
+            {
+              "narration": "The Hindenburg was designed to use helium, which does not burn. But the United States held the world's main supply, and restricted its export to Nazi Germany.",
+              "label": "HELIUM",
+              "image_search": [
+                "Hindenburg swastika tail fin",
+                "LZ 129 Hindenburg tail"
+              ]
+            },
+            {
+              "narration": "So the builders filled it with hydrogen instead. Hydrogen gives even more lift than helium, but it is highly flammable, and the crew knew it.",
+              "image_search": [
+                "Hindenburg gas cells construction",
+                "LZ 129 Hindenburg construction Friedrichshafen"
+              ]
+            },
+            {
+              "narration": "In 1936 it made ten trips to the United States without incident. To many people, the danger seemed to be under control.",
+              "label": "1936",
+              "image_search": [
+                "Hindenburg Lakehurst 1936",
+                "Hindenburg mooring mast Lakehurst"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Final Approach",
+          "scenes": [
+            {
+              "narration": "On May 3, 1937, the Hindenburg left Frankfurt for America with 36 passengers and 61 crew. Ninety-seven people in all. It was the airship's second scheduled ocean crossing of the year.",
+              "label": "3 MAY 1937",
+              "image_search": [
+                "Hindenburg Frankfurt 1937",
+                "Hindenburg Frankfurt airship"
+              ]
+            },
+            {
+              "narration": "Strong headwinds slowed the crossing. The ship missed its planned 6 a.m. arrival and reached Lakehurst Naval Air Station at about 4:15 that afternoon, before the landing crew was ready.",
+              "label": "LAKEHURST",
+              "image_search": [
+                "Naval Air Station Lakehurst Hangar No. 1",
+                "Lakehurst hangar 1"
+              ]
+            },
+            {
+              "narration": "Captain Max Pruss waited for a passing storm to clear before he tried to land. Just after seven in the evening, he brought the giant in.",
+              "image_search": [
+                "Max Pruss Hindenburg captain",
+                "Max Pruss"
+              ]
+            },
+            {
+              "narration": "The landing ropes dropped to the ground crew. The ship was about 260 feet up when the first flames appeared near the tail.",
+              "label": "260 FEET",
+              "video_search": [
+                "Hindenburg disaster newsreel"
+              ],
+              "image_search": [
+                "Hindenburg disaster tail fire",
+                "Hindenburg disaster Lakehurst"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Thirty-Seven Seconds",
+          "scenes": [
+            {
+              "narration": "The hydrogen went up in a wall of flame. Within seconds the fire raced through the hull, and the burning frame sank towards the ground as people leapt clear.",
+              "image_search": [
+                "Hindenburg burning",
+                "Hindenburg disaster 1937"
+              ]
+            },
+            {
+              "narration": "Radio reporter Herbert Morrison was recording a report for later broadcast. His cry, oh, the humanity, became one of the most famous lines in broadcasting history.",
+              "image_search": [
+                "Herbert Morrison reporter",
+                "Herbert Morrison Hindenburg"
+              ]
+            },
+            {
+              "narration": "Thirty-five people on board died, along with one man of the ground crew. Astonishingly, 62 people survived, some walking away almost unhurt.",
+              "label": "62 SURVIVED",
+              "image_search": [
+                "Hindenburg wreckage Lakehurst",
+                "Hindenburg wreck 1937"
+              ]
+            },
+            {
+              "narration": "Among the victims was Captain Ernst Lehmann, the airline's director of flight operations, who died of his burns the next day.",
+              "image_search": [
+                "Ernst Lehmann airship",
+                "Ernst A. Lehmann"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Mystery of the Spark",
+          "scenes": [
+            {
+              "narration": "American and German investigators could agree on only a few things: the fire began at the rear of the ship, and the hydrogen burned fiercely.",
+              "image_search": [
+                "Hindenburg disaster investigation",
+                "Hindenburg wreckage"
+              ]
+            },
+            {
+              "narration": "The leading explanation is that leaking hydrogen was ignited by a static spark, built up as the ship flew through stormy air.",
+              "image_search": [
+                "Hindenburg Lakehurst storm 1937",
+                "Hindenburg disaster Lakehurst"
+              ]
+            },
+            {
+              "narration": "Others blame the flammable coating on the ship's outer skin, or a snapping cable. Some even suggested sabotage, but no evidence for a bomb was ever found.",
+              "image_search": [
+                "LZ 129 Hindenburg outer skin",
+                "Hindenburg airship fabric"
+              ]
+            },
+            {
+              "narration": "Whatever the cause, the film and sound recordings were seen and heard around the world, and a silent newsreel of the fire still survives. The disaster ended the era of rigid airships carrying passengers.",
+              "video_search": [
+                "Hindenburg disaster newsreel"
+              ],
+              "image_search": [
+                "Hindenburg newspaper 1937",
+                "Hindenburg disaster newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What If?",
+          "scenes": [
+            {
+              "narration": "If the Hindenburg had been filled with helium, as its designers intended, would we all be flying in airships today? Tell us what you think. Follow for more untold history.",
+              "image_search": [
+                "LZ 129 Hindenburg flight",
+                "Hindenburg airship"
+              ]
+            }
+          ]
+        }
+      ],
+      "caption": "🔥 It was the largest aircraft ever built — and it burned in about 35 seconds.\n\nOn May 6, 1937, the airship Hindenburg caught fire while landing at Lakehurst, New Jersey, with 97 people aboard. Cameras were rolling. A reporter was recording.\n\nThis documentary tells the whole story: the floating luxury hotel with its own smoking room, why a ship designed for helium flew on hydrogen, the final approach, the astonishing number who survived — and the spark investigators still argue about.\n\nIf it had used helium, would airships still rule the skies?",
+      "hashtags": [
+        "HistoryUnsealed",
+        "Hindenburg",
+        "AviationHistory",
+        "Documentary"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+        "https://www.worldhistory.org/article/2755/the-hindenburg-disaster/",
+        "https://www.britannica.com/topic/Hindenburg"
       ]
     }
   ]
