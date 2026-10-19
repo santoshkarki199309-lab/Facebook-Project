@@ -1,571 +1,13 @@
 {
-  "2026-10-18:a:post": {
-    "topic": "Great Zimbabwe",
-    "tried": [
-      "image:Great Zimbabwe Great Enclosure wall"
-    ],
-    "hit": {
-      "title": "File:Wall of the great enclosure (far), Great Zimbabwe.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG/1920px-Wall_of_the_great_enclosure_%28far%29%2C_Great_Zimbabwe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure_(far),_Great_Zimbabwe.JPG",
-      "license": "CC BY",
-      "credit": "Jens Klinzing / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 1": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Rongorongo tablet"
-    ],
-    "hit": {
-      "title": "File:Rongorongo tablet (4275771908).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rongorongo_tablet_%284275771908%29.jpg/1920px-Rongorongo_tablet_%284275771908%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_tablet_(4275771908).jpg",
-      "license": "CC BY",
-      "credit": "christopherhu / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 2": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Moai Ahu Tongariki Easter Island"
-    ],
-    "hit": {
-      "title": "File:Ahu Tongariki cropped.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ahu_Tongariki_cropped.jpg/1920px-Ahu_Tongariki_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_cropped.jpg",
-      "license": "CC BY-SA",
-      "credit": "Rivi / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 3": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Rongorongo Aruku Kurenga"
-    ],
-    "hit": {
-      "title": "File:Rongorongo B-v Aruku-Kurenga (end).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rongorongo_B-v_Aruku-Kurenga_%28end%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_B-v_Aruku-Kurenga_(end).jpg",
-      "license": "CC BY-SA",
-      "credit": "Photograph from the Trocadero Museum (for GFDL, cite source above as old copyrig / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 4": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Rano Raraku moai Rapa Nui"
-    ],
-    "hit": {
-      "title": "File:Moai Rano raraku.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/1920px-Moai_Rano_raraku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Moai_Rano_raraku.jpg",
-      "license": "Public domain",
-      "credit": "Aurbina / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 5": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Rongorongo tablet museum"
-    ],
-    "hit": {
-      "title": "File:Rongorongo tablet (4275771908).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rongorongo_tablet_%284275771908%29.jpg/1920px-Rongorongo_tablet_%284275771908%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_tablet_(4275771908).jpg",
-      "license": "CC BY",
-      "credit": "christopherhu / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:b:scene 6": {
-    "topic": "Rongorongo, the script of Easter Island",
-    "tried": [
-      "image:Ahu Tongariki moai sunset",
-      "image:Moai Easter Island"
-    ],
-    "hit": {
-      "title": "File:Hodges easter-island.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hodges_easter-island.jpg/1920px-Hodges_easter-island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Hodges_easter-island.jpg",
-      "license": "Public domain",
-      "credit": "William Hodges / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:c:post": {
-    "topic": "Hedy Lamarr and frequency hopping",
-    "tried": [
-      "image:Hedy Lamarr 1940 MGM publicity still"
-    ],
-    "hit": {
-      "title": "File:Hedy Lamarr in a 1940 MGM publicity still.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hedy_Lamarr_in_a_1940_MGM_publicity_still.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_in_a_1940_MGM_publicity_still.jpg",
-      "license": "Public domain",
-      "credit": "Employee(s) of MGM / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 1": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:whaling ship painting 19th century",
-      "image:Whaling ship"
-    ],
-    "hit": {
-      "title": "File:Kanrin Maru encounters American whaling ship.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kanrin_Maru_encounters_American_whaling_ship.jpg/1920px-Kanrin_Maru_encounters_American_whaling_ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Kanrin_Maru_encounters_American_whaling_ship.jpg",
-      "license": "Public domain",
-      "credit": "Miyamoto Gendo, [\u5bae\u672c\u5143\u9053] [\u8457] \uff08\u307f\u3084\u3082\u3068\u3052\u3093\u3069\u3046 1824-\uff1f\uff09 / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 2": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:Nantucket Massachusetts whaling"
-    ],
-    "hit": {
-      "title": "File:Nantucket Whaling Museum exterior.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Nantucket_Whaling_Museum_exterior.jpg/1920px-Nantucket_Whaling_Museum_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nantucket_Whaling_Museum_exterior.jpg",
-      "license": "CC BY-SA",
-      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 3": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:sperm whale engraving"
-    ],
-    "hit": {
-      "title": "File:A narwhal and large sperm whale. Engraving. Wellcome V0021599.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg/1920px-A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:A_narwhal_and_large_sperm_whale._Engraving._Wellcome_V0021599.jpg",
-      "license": "CC BY",
-      "credit": "Unknown author / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 4": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:whaleboat whaling 19th century",
-      "image:Whaling boat"
-    ],
-    "hit": {
-      "title": "File:Whaling Boat (52050653560).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Whaling_Boat_%2852050653560%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Whaling_Boat_(52050653560).jpg",
-      "license": "CC BY",
-      "credit": "David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 5": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:Owen Chase narrative Essex",
-      "image:whaling ship Pacific painting"
-    ],
-    "hit": null
-  },
-  "2026-10-18:d:scene 6": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:Herman Melville portrait"
-    ],
-    "hit": {
-      "title": "File:Herman Melville profile.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Herman_Melville_profile.jpg/1920px-Herman_Melville_profile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Herman_Melville_profile.jpg",
-      "license": "Public domain",
-      "credit": "Unknown photographer / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 7": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:Moby-Dick 1851 first edition"
-    ],
-    "hit": {
-      "title": "File:Moby-Dick FE title page.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Moby-Dick_FE_title_page.jpg",
-      "license": "Public domain",
-      "credit": "The original uploader was Chick Bowen at English Wikipedia. / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:d:scene 8": {
-    "topic": "The whaleship Essex, the real Moby-Dick",
-    "tried": [
-      "image:Moby Dick illustration whale",
-      "image:Sperm whale"
-    ],
-    "hit": {
-      "title": "File:Mother and baby sperm whale.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/1920px-Mother_and_baby_sperm_whale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg",
-      "license": "CC BY-SA",
-      "credit": "Gabriel Barathieu / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:e:post": {
-    "topic": "Alaska transfer ceremony at Sitka, 1867",
-    "tried": [
-      "image:Alaska Purchase check"
-    ],
-    "hit": {
-      "title": "File:Alaska Purchase (hi-res).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Alaska_Purchase_%28hi-res%29.jpg/1920px-Alaska_Purchase_%28hi-res%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alaska_Purchase_(hi-res).jpg",
-      "license": "Public domain",
-      "credit": "Edouard de Stoeckl and William H. Seward / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 1": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Frederick Fleet Titanic lookout"
-    ],
-    "hit": {
-      "title": "File:Grave of Frederick Fleet, the Titanic lookout in Hollybrook Cemetery - geograph.org.uk - 6839747.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Grave_of_Frederick_Fleet%2C_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg/1920px-Grave_of_Frederick_Fleet%2C_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Grave_of_Frederick_Fleet,_the_Titanic_lookout_in_Hollybrook_Cemetery_-_geograph.org.uk_-_6839747.jpg",
-      "license": "CC BY-SA",
-      "credit": "Marathon / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 2": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic iceberg 1912"
-    ],
-    "hit": {
-      "title": "File:Titanic Iceberg 1912.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Titanic_Iceberg_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Iceberg_1912.jpg",
-      "license": "Public domain",
-      "credit": "Captain W. F. Wood of a ship named S. S. Etonian, two days prior to the Titanic  / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 3": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Untergang der Titanic Willy St\u00f6wer"
-    ],
-    "hit": {
-      "title": "File:St\u00f6wer Titanic.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/1920px-St%C3%B6wer_Titanic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:St%C3%B6wer_Titanic.jpg",
-      "license": "Public domain",
-      "credit": "Willy St\u00f6wer / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 4": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic Harland and Wolff Belfast"
-    ],
-    "hit": {
-      "title": "File:RMS Titanic being fitted out at Harland and Wolff in Belfast, Ireland, with three funnels.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RMS_Titanic_being_fitted_out_at_Harland_and_Wolff_in_Belfast%2C_Ireland%2C_with_three_funnels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_being_fitted_out_at_Harland_and_Wolff_in_Belfast,_Ireland,_with_three_funnels.jpg",
-      "license": "Public domain",
-      "credit": "Robert John Welch (1859-1936) / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 5": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:RMS Titanic sea trials 1912"
-    ],
-    "hit": {
-      "title": "File:RMS Titanic sea trials April 2, 1912.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Titanic_sea_trials_April_2%2C_1912.jpg/1920px-RMS_Titanic_sea_trials_April_2%2C_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_sea_trials_April_2,_1912.jpg",
-      "license": "Public domain",
-      "credit": "Unknown author / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 6": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "video:Titanic 1912 newsreel"
-    ],
-    "hit": {
-      "title": "File:Titanic Disaster - Genuine Footage (1911-1912)(enhanced).webm",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Titanic_Disaster_-_Genuine_Footage_%281911-1912%29%28enhanced%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Disaster_-_Genuine_Footage_(1911-1912)(enhanced).webm",
-      "license": "Public domain",
-      "credit": "British Path\u00e9 / Wikimedia Commons (Public domain)",
-      "duration": 407.961
-    }
-  },
-  "2026-10-18:f:scene 7": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Edward John Smith captain Titanic"
-    ],
-    "hit": {
-      "title": "File:Edward J. Smith.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Edward_J._Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Edward_J._Smith.jpg",
-      "license": "Public domain",
-      "credit": "New York Times / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 8": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:RMS Caronia 1905 Cunard",
-      "image:Caronia Cunard liner"
-    ],
-    "hit": null
-  },
-  "2026-10-18:f:scene 9": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic Marconi wireless room"
-    ],
-    "hit": {
-      "title": "File:Titanic Marconi Wireless Radio Room.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Titanic_Marconi_Wireless_Radio_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Marconi_Wireless_Radio_Room.jpg",
-      "license": "Public domain",
-      "credit": "Francis Browne / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 10": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:SS Californian 1912"
-    ],
-    "hit": {
-      "title": "File:Californian.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Californian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Californian.jpg",
-      "license": "Public domain",
-      "credit": "Louis Ogden / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 11": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic watertight compartments diagram",
-      "image:Titanic iceberg damage diagram",
-      "image:RMS Titanic profile"
-    ],
-    "hit": {
-      "title": "File:Titanic Quarter - RMS Titanic Slipway - geograph.org.uk - 3702648.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg/1920px-Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Quarter_-_RMS_Titanic_Slipway_-_geograph.org.uk_-_3702648.jpg",
-      "license": "CC BY-SA",
-      "credit": "Joseph Mischyshyn / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 12": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Thomas Andrews shipbuilder"
-    ],
-    "hit": {
-      "title": "File:Thomas Andrews (February 2024.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Thomas_Andrews_%28February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Thomas_Andrews_(February_2024.jpg",
-      "license": "Public domain",
-      "credit": "Ingyin Naing / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 13": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic Marconigram distress",
-      "image:Titanic wireless message Carpathia"
-    ],
-    "hit": null
-  },
-  "2026-10-18:f:scene 14": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic lifeboat Collapsible D",
-      "image:Titanic lifeboat 1912"
-    ],
-    "hit": {
-      "title": "File:Titanic lifeboat number 6.jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Titanic_lifeboat_number_6.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_lifeboat_number_6.jpeg",
-      "license": "Public domain",
-      "credit": "Louis Ogden / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 15": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Wallace Hartley Titanic bandmaster"
-    ],
-    "hit": {
-      "title": "File:\"Wallace Hartley\" Bandmaster of the Titanic - geograph.org.uk - 2489897.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg/1920px-%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:%22Wallace_Hartley%22_Bandmaster_of_the_Titanic_-_geograph.org.uk_-_2489897.jpg",
-      "license": "CC BY-SA",
-      "credit": "Robert Wade / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 16": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Sinking of the Titanic engraving"
-    ],
-    "hit": {
-      "title": "File:Titanic sinking, painting by Willy St\u00f6wer.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Titanic_sinking%2C_painting_by_Willy_St%C3%B6wer.jpg/1920px-Titanic_sinking%2C_painting_by_Willy_St%C3%B6wer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_sinking,_painting_by_Willy_St%C3%B6wer.jpg",
-      "license": "Public domain",
-      "credit": "Willy St\u00f6wer / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 17": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic Engineers Memorial Southampton"
-    ],
-    "hit": {
-      "title": "File:Titanic Engineers Memorial Southampton 2016.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Titanic_Engineers_Memorial_Southampton_2016.JPG/1920px-Titanic_Engineers_Memorial_Southampton_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_Engineers_Memorial_Southampton_2016.JPG",
-      "license": "CC BY-SA",
-      "credit": "photo by Geni sculpture by Ferdinand Victor Blundstone / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 18": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:RMS Carpathia Cunard"
-    ],
-    "hit": {
-      "title": "File:Carpathia at Cunard Pier 54 1912.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Carpathia_at_Cunard_Pier_54_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Carpathia_at_Cunard_Pier_54_1912.jpg",
-      "license": "Public domain",
-      "credit": "Bain News Service / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 19": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic lifeboat Carpathia"
-    ],
-    "hit": {
-      "title": "File:Carpathia - Titanic lifeboats.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Carpathia_-_Titanic_lifeboats.jpg/1920px-Carpathia_-_Titanic_lifeboats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Carpathia_-_Titanic_lifeboats.jpg",
-      "license": "Public domain",
-      "credit": "HO, The New York Times / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 20": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic newspaper 1912 headline",
-      "image:Titanic disaster newspaper"
-    ],
-    "hit": null
-  },
-  "2026-10-18:f:scene 21": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic inquiry 1912 Senate"
-    ],
-    "hit": {
-      "title": "File:US Senate Titanic inquiry witnesses.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/US_Senate_Titanic_inquiry_witnesses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:US_Senate_Titanic_inquiry_witnesses.jpg",
-      "license": "Public domain",
-      "credit": "Louis F. Grant / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 22": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic wreck bow"
-    ],
-    "hit": {
-      "title": "File:Titanic wreck bow.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg",
-      "license": "Public domain",
-      "credit": "Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/ / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 23": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:Titanic wreck stern",
-      "image:Titanic wreck 2004 NOAA"
-    ],
-    "hit": {
-      "title": "File:Titanic wreck bow.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg",
-      "license": "Public domain",
-      "credit": "Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/ / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-18:f:scene 24": {
-    "topic": "The sinking of the Titanic",
-    "tried": [
-      "image:RMS Titanic departing Southampton"
-    ],
-    "hit": {
-      "title": "File:RMS Titanic 3.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1920px-RMS_Titanic_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
-      "license": "Public domain",
-      "credit": "Francis Godolphin Osbourne Stuart / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
   "2026-10-19:a:post": {
     "topic": "The Terracotta Army",
     "tried": [
       "image:Terracotta Army pit 1 Xi'an"
     ],
     "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051282).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg",
+      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
       "license": "CC BY",
       "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons (CC BY)",
       "duration": 0.0
@@ -771,14 +213,14 @@
   "2026-10-19:d:scene 8": {
     "topic": "King John's lost treasure in the Wash",
     "tried": [
-      "image:King John of England portrait"
+      "image:King John De Rege Johanne"
     ],
     "hit": {
-      "title": "File:John de Critz - James VI and I, 1566 - 1625. King of Scotland 1567 - 1625. King of England and Ireland 1603 - 1625 - PG 561 - National Galleries of Scotland.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/John_de_Critz_-_James_VI_and_I%2C_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg/1920px-John_de_Critz_-_James_VI_and_I%2C_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:John_de_Critz_-_James_VI_and_I,_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg",
+      "title": "File:King John, Hunting with Hounds, De Rege Johanne, 1300-1400 (26101230351).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/King_John%2C_Hunting_with_Hounds%2C_De_Rege_Johanne%2C_1300-1400_%2826101230351%29.jpg/1920px-King_John%2C_Hunting_with_Hounds%2C_De_Rege_Johanne%2C_1300-1400_%2826101230351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:King_John,_Hunting_with_Hounds,_De_Rege_Johanne,_1300-1400_(26101230351).jpg",
       "license": "Public domain",
-      "credit": "John de Critz / Wikimedia Commons (Public domain)",
+      "credit": "Levan Ramishvili from Tbilisi, Georgia / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -842,25 +284,30 @@
   "2026-10-19:f:scene 4": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:Alcatraz Island 1950s"
+      "image:Alcatraz Island March 1962"
     ],
     "hit": {
-      "title": "File:Frank Deras Jr., Photographer July 1998 CONTEXTUAL VIEW OF BRIDGE FROM SAN FRANCISCO TO YERBA BUENA ISLAND, NORTH SIDE. PHOTOGRAPHED FROM ABOVE ALCATRAZ ISLAND, FACING HAER CAL,38-SANFRA,141-58.tif",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Frank_Deras_Jr.%2C_Photographer_July_1998_CONTEXTUAL_VIEW_OF_BRIDGE_FROM_SAN_FRANCISCO_TO_YERBA_BUENA_ISLAND%2C_NORTH_SIDE._PHOTOGRAPHED_FROM_ABOVE_ALCATRAZ_ISLAND%2C_FACING_HAER_CAL%2C38-SANFRA%2C141-58.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Frank_Deras_Jr.,_Photographer_July_1998_CONTEXTUAL_VIEW_OF_BRIDGE_FROM_SAN_FRANCISCO_TO_YERBA_BUENA_ISLAND,_NORTH_SIDE._PHOTOGRAPHED_FROM_ABOVE_ALCATRAZ_ISLAND,_FACING_HAER_CAL,38-SANFRA,141-58.tif",
-      "license": "Public domain",
-      "credit": "Related names: Purcell, C H; California Toll Bridge Authority; California Divisi / Wikimedia Commons (Public domain)",
+      "title": "File:Alcatraz Island March 1962.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alcatraz_Island_March_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_March_1962.jpg",
+      "license": "CC BY",
+      "credit": "Jdreed (talk) (Uploads) / Wikimedia Commons (CC BY)",
       "duration": 0.0
     }
   },
   "2026-10-19:f:scene 5": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:John Anglin mugshot",
-      "image:Clarence Anglin mugshot",
-      "image:Anglin brothers Alcatraz"
+      "image:John Anglin head shot"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:John Anglin - head shot - 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Anglin_-_head_shot_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Anglin_-_head_shot_-_01.jpg",
+      "license": "Public domain",
+      "credit": "US Federal Government / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:f:scene 6": {
     "topic": "The 1962 Alcatraz escape",
@@ -922,18 +369,30 @@
   "2026-10-19:f:scene 10": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:Alcatraz escape raft replica",
-      "image:Alcatraz escape life vest"
+      "image:Escape Alcatraz Cell"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Escape Alcatraz Cell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Escape_Alcatraz_Cell.jpg/1920px-Escape_Alcatraz_Cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Escape_Alcatraz_Cell.jpg",
+      "license": "CC BY",
+      "credit": "Samantha Marx / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:f:scene 11": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:Alcatraz escape paddle",
-      "image:Alcatraz escape tools"
+      "image:Alcatraz escape utility corridor"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Alcatraz escape utility corridor.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Alcatraz_escape_utility_corridor.JPG/1920px-Alcatraz_escape_utility_corridor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_escape_utility_corridor.JPG",
+      "license": "CC BY-SA",
+      "credit": "Tom.k / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:f:scene 12": {
     "topic": "The 1962 Alcatraz escape",
@@ -968,10 +427,16 @@
   "2026-10-19:f:scene 14": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:Alcatraz smokestack",
-      "image:Alcatraz Island buildings"
+      "image:Alcatraz Island aerial"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Alcatraz Island aerial view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Alcatraz_Island_aerial_view.jpg/1920px-Alcatraz_Island_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_aerial_view.jpg",
+      "license": "CC BY-SA",
+      "credit": "Ralf Baechle / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:f:scene 15": {
     "topic": "The 1962 Alcatraz escape",
@@ -1004,10 +469,16 @@
   "2026-10-19:f:scene 17": {
     "topic": "The 1962 Alcatraz escape",
     "tried": [
-      "image:Alcatraz escape evidence FBI",
-      "image:Alcatraz escape paddle"
+      "image:San Francisco Bay aerial"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:San Francisco International Airport at night.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/San_Francisco_International_Airport_at_night.jpg/1920px-San_Francisco_International_Airport_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_International_Airport_at_night.jpg",
+      "license": "CC BY-SA",
+      "credit": "Andrew Choy from Santa Clara, California / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-19:f:scene 18": {
     "topic": "The 1962 Alcatraz escape",
@@ -1103,9 +574,9 @@
       "image:Nan Madol ruins"
     ],
     "hit": {
-      "title": "File:Nan Madol ruins 1.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nan_Madol_ruins_1.jpg/1920px-Nan_Madol_ruins_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_1.jpg",
+      "title": "File:Nan Madol ruins 6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nan_Madol_ruins_6.jpg/1920px-Nan_Madol_ruins_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nan_Madol_ruins_6.jpg",
       "license": "CC BY-SA",
       "credit": "Uhooep / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -1297,14 +768,14 @@
   "2026-10-20:d:scene 7": {
     "topic": "The Lost Colony of Roanoke",
     "tried": [
-      "image:Hatteras Island North Carolina"
+      "image:Cape Hatteras lighthouse"
     ],
     "hit": {
-      "title": "File:Confederate troops retreating to their boats from Hatteras Island, October 6, 1861.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Confederate_troops_retreating_to_their_boats_from_Hatteras_Island%2C_October_6%2C_1861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Confederate_troops_retreating_to_their_boats_from_Hatteras_Island,_October_6,_1861.jpg",
-      "license": "Public domain",
-      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "title": "File:Cape Hatteras Lighthouse, North Carolina Historical Marker B-54, Buxton, North Carolina (14267996600).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cape_Hatteras_Lighthouse%2C_North_Carolina_Historical_Marker_B-54%2C_Buxton%2C_North_Carolina_%2814267996600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Cape_Hatteras_Lighthouse,_North_Carolina_Historical_Marker_B-54,_Buxton,_North_Carolina_(14267996600).jpg",
+      "license": "CC BY-SA",
+      "credit": "Ken Lund from Reno, Nevada, USA / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
     }
   },
@@ -1339,10 +810,16 @@
   "2026-10-20:f:scene 1": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:USCGC Itasca 1937",
-      "image:USCGC Itasca"
+      "image:View of Camp on Howland Island 1937"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:View of Camp on Howland Island - 80-CF-79868-7 (1937-01-23).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_Camp_on_Howland_Island_-_80-CF-79868-7_%281937-01-23%29.jpg/1920px-View_of_Camp_on_Howland_Island_-_80-CF-79868-7_%281937-01-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Camp_on_Howland_Island_-_80-CF-79868-7_(1937-01-23).jpg",
+      "license": "Public domain",
+      "credit": "L.A.B. Pearl Harbor / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:f:scene 2": {
     "topic": "The disappearance of Amelia Earhart",
@@ -1362,14 +839,14 @@
   "2026-10-20:f:scene 3": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Amelia Earhart Lockheed Electra 10E"
+      "image:Amelia Earhart standing under nose Lockheed Electra"
     ],
     "hit": {
-      "title": "File:Lockheed 12A Electra Junior \u2018NR16020\u2019 (F-AZLL) (49819232942).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg/1920px-Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_(F-AZLL)_(49819232942).jpg",
-      "license": "CC BY-SA",
-      "credit": "Alan Wilson from Peterborough, Cambs, UK / Wikimedia Commons (CC BY-SA)",
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1419,7 +896,8 @@
   "2026-10-20:f:scene 7": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Fred Noonan Amelia Earhart"
+      "image:Fred Noonan portrait",
+      "image:Fred Noonan navigator"
     ],
     "hit": {
       "title": "File:Amelia Earhart and Fred Noonan in the Marshall Islands after their capture.jpg",
@@ -1447,14 +925,14 @@
   "2026-10-20:f:scene 9": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Amelia Earhart Electra takeoff"
+      "image:Amelia Earhart Lockheed Model 10-E Electra"
     ],
     "hit": {
-      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
-      "license": "CC0",
-      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1475,31 +953,45 @@
   "2026-10-20:f:scene 11": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:USCGC Itasca radio room",
-      "image:USCGC Itasca 1930s"
+      "image:Amelia Earhart Darwin 1937",
+      "image:Amelia Earhart Rangoon 1937",
+      "image:Earhart Lockheed Electra"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:f:scene 12": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:USCGC Itasca cutter",
-      "image:USCGC Itasca"
+      "image:Howland Island camp 1937"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:View of Camp on Howland Island - 80-CF-79868-7 (1937-01-23).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_Camp_on_Howland_Island_-_80-CF-79868-7_%281937-01-23%29.jpg/1920px-View_of_Camp_on_Howland_Island_-_80-CF-79868-7_%281937-01-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Camp_on_Howland_Island_-_80-CF-79868-7_(1937-01-23).jpg",
+      "license": "Public domain",
+      "credit": "L.A.B. Pearl Harbor / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-20:f:scene 13": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Amelia Earhart last flight map",
-      "image:Amelia Earhart flight route 1937"
+      "image:Amelia Earhart world flight map",
+      "image:Amelia Earhart LOC"
     ],
     "hit": {
-      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
-      "license": "CC0",
-      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "title": "File:Amelia Earhart LOC hec.40747.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Amelia_Earhart_LOC_hec.40747.jpg/1920px-Amelia_Earhart_LOC_hec.40747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_LOC_hec.40747.jpg",
+      "license": "Public domain",
+      "credit": "Harris &amp; Ewing / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1562,14 +1054,14 @@
   "2026-10-20:f:scene 18": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Amelia Earhart Electra Oakland 1937"
+      "image:Lockheed Model 10 Electra 1930s"
     ],
     "hit": {
-      "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg/1920px-Lockheed_Vega_5B%2C_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_%28page_12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+      "title": "File:Lockheed Model 10 Electra (14842213859).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lockheed_Model_10_Electra_%2814842213859%29.jpg/1920px-Lockheed_Model_10_Electra_%2814842213859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Model_10_Electra_(14842213859).jpg",
       "license": "CC0",
-      "credit": "Amelia Earhart, Lockheed Aircraft Company / Wikimedia Commons (CC0)",
+      "credit": "Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)",
       "duration": 0.0
     }
   },
@@ -1605,14 +1097,15 @@
   "2026-10-20:f:scene 21": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Suva Fiji 1940"
+      "image:Fiji map 1940",
+      "image:Nikumaroro Lagoon Entrance"
     ],
     "hit": {
-      "title": "File:Portrait of two women in front of Grand Pacific Hotel, Suva, Fiji (AM 79998-1).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_two_women_in_front_of_Grand_Pacific_Hotel%2C_Suva%2C_Fiji_%28AM_79998-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_two_women_in_front_of_Grand_Pacific_Hotel,_Suva,_Fiji_(AM_79998-1).jpg",
-      "license": "CC BY",
-      "credit": "Collins, Tudor Washington, 1898-1970, photographer / Wikimedia Commons (CC BY)",
+      "title": "File:Nikumaroro Lagoon Entrance AKK new.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Nikumaroro_Lagoon_Entrance_AKK_new.jpg/1920px-Nikumaroro_Lagoon_Entrance_AKK_new.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nikumaroro_Lagoon_Entrance_AKK_new.jpg",
+      "license": "Public domain",
+      "credit": "Angela K. Kepler (cleaned up by Rvdude007) / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1648,14 +1141,14 @@
   "2026-10-20:f:scene 24": {
     "topic": "The disappearance of Amelia Earhart",
     "tried": [
-      "image:Amelia Earhart Lockheed Electra 10E"
+      "image:Amelia Earhart standing under nose Lockheed Electra"
     ],
     "hit": {
-      "title": "File:Lockheed 12A Electra Junior \u2018NR16020\u2019 (F-AZLL) (49819232942).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg/1920px-Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_%28F-AZLL%29_%2849819232942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Lockheed_12A_Electra_Junior_%E2%80%98NR16020%E2%80%99_(F-AZLL)_(49819232942).jpg",
-      "license": "CC BY-SA",
-      "credit": "Alan Wilson from Peterborough, Cambs, UK / Wikimedia Commons (CC BY-SA)",
+      "title": "File:Amelia Earhart standing under nose of her Lockheed Model 10-E Electra, small.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood (active 1880 \u2013 c. 1950)[1] / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1948,15 +1441,14 @@
   "2026-10-21:f:scene 5": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:Hindenburg over Manhattan 1936",
-      "image:Hindenburg New York 1936"
+      "image:Hindenburg return of First Flight"
     ],
     "hit": {
-      "title": "File:Sgt. John A. Boechat Memorial, Bidwell Parkway, Buffalo, New York - 20210514.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sgt._John_A._Boechat_Memorial%2C_Bidwell_Parkway%2C_Buffalo%2C_New_York_-_20210514.jpg/1920px-Sgt._John_A._Boechat_Memorial%2C_Bidwell_Parkway%2C_Buffalo%2C_New_York_-_20210514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Sgt._John_A._Boechat_Memorial,_Bidwell_Parkway,_Buffalo,_New_York_-_20210514.jpg",
-      "license": "CC BY-SA",
-      "credit": "Andre Carrotflower / Wikimedia Commons (CC BY-SA)",
+      "title": "File:Hindenburg return of First Flight from Lakehurst, NJ to Germany 1936.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hindenburg_return_of_First_Flight_from_Lakehurst%2C_NJ_to_Germany_1936.jpg/1920px-Hindenburg_return_of_First_Flight_from_Lakehurst%2C_NJ_to_Germany_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_return_of_First_Flight_from_Lakehurst,_NJ_to_Germany_1936.jpg",
+      "license": "Public domain",
+      "credit": "Richard from USA / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -1979,10 +1471,17 @@
   "2026-10-21:f:scene 7": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:Hindenburg smoking room",
-      "image:LZ 129 Hindenburg lounge"
+      "image:Bundesarchiv Luftschiff Hindenburg Gesellschaftsraum",
+      "image:Bundesarchiv Luftschiff Hindenburg Speisesaal"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Bundesarchiv Bild 147-0640, Luftschiff Hindenburg (LZ-129), Speisesaal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bundesarchiv_Bild_147-0640%2C_Luftschiff_Hindenburg_%28LZ-129%29%2C_Speisesaal.jpg/1920px-Bundesarchiv_Bild_147-0640%2C_Luftschiff_Hindenburg_%28LZ-129%29%2C_Speisesaal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_147-0640,_Luftschiff_Hindenburg_(LZ-129),_Speisesaal.jpg",
+      "license": "CC BY-SA",
+      "credit": "O. V. Stetten / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:f:scene 8": {
     "topic": "The Hindenburg disaster",
@@ -2002,10 +1501,16 @@
   "2026-10-21:f:scene 9": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:Hindenburg gas cells construction",
-      "image:LZ 129 Hindenburg construction Friedrichshafen"
+      "image:Teil-Rekonstruktion Hindenburg"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Teil-Rekonstruktion von LZ 129 \"Hindenburg\" innen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Teil-Rekonstruktion_von_LZ_129_%22Hindenburg%22_innen.jpg/1920px-Teil-Rekonstruktion_von_LZ_129_%22Hindenburg%22_innen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Teil-Rekonstruktion_von_LZ_129_%22Hindenburg%22_innen.jpg",
+      "license": "CC BY",
+      "credit": "Je-str / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:f:scene 10": {
     "topic": "The Hindenburg disaster",
@@ -2024,10 +1529,16 @@
   "2026-10-21:f:scene 11": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:Hindenburg Frankfurt 1937",
-      "image:Hindenburg Frankfurt airship"
+      "image:Hindenburg RD-4 Lakehurst May 1936"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:LZ 129 Hindenburg with RD-4 over Lakehurst May 1936.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LZ_129_Hindenburg_with_RD-4_over_Lakehurst_May_1936.jpg/1920px-LZ_129_Hindenburg_with_RD-4_over_Lakehurst_May_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:LZ_129_Hindenburg_with_RD-4_over_Lakehurst_May_1936.jpg",
+      "license": "Public domain",
+      "credit": "USCG / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:f:scene 12": {
     "topic": "The Hindenburg disaster",
@@ -2046,10 +1557,16 @@
   "2026-10-21:f:scene 13": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:Max Pruss Hindenburg captain",
-      "image:Max Pruss"
+      "image:Hindenburg gondola mooring 1936"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Hindenburg gondola and mooring 1936.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hindenburg_gondola_and_mooring_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_gondola_and_mooring_1936.jpg",
+      "license": "Public domain",
+      "credit": "Associated Press/Oakland Tribune / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:f:scene 14": {
     "topic": "The Hindenburg disaster",
@@ -2157,19 +1674,30 @@
   "2026-10-21:f:scene 21": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "image:LZ 129 Hindenburg outer skin",
-      "image:Hindenburg airship fabric"
+      "image:Hindenburg burning Lakehurst"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Hindenburg burning, 1937.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hindenburg_burning%2C_1937.jpg/1920px-Hindenburg_burning%2C_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_burning,_1937.jpg",
+      "license": "Public domain",
+      "credit": "Gus Pasquarella / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-21:f:scene 22": {
     "topic": "The Hindenburg disaster",
     "tried": [
-      "video:Hindenburg disaster newsreel",
-      "image:Hindenburg newspaper 1937",
-      "image:Hindenburg disaster newspaper"
+      "video:Zeppelin Explodes Scores Dead"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:1937-05-10 Special Release - Zeppelin Explodes Scores Dead.ogv",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1937-05-10_Special_Release_-_Zeppelin_Explodes_Scores_Dead.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:1937-05-10_Special_Release_-_Zeppelin_Explodes_Scores_Dead.ogv",
+      "license": "Public domain",
+      "credit": "Universal Newsreel / Wikimedia Commons (Public domain)",
+      "duration": 294.0938
+    }
   },
   "2026-10-21:f:scene 23": {
     "topic": "The Hindenburg disaster",
@@ -2600,10 +2128,16 @@
   "2026-10-22:f:scene 13": {
     "topic": "Shackleton's Endurance expedition",
     "tried": [
-      "image:Shackleton lifeboats ice 1916",
-      "image:Shackleton crew lifeboat"
+      "image:Shackleton expedition Elephant Island lost party"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Shackleton's expedition to the Antarctic on Elephant Island where Sir Ernest Shackleton found lost party. LCCN2013646117.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Shackleton%27s_expedition_to_the_Antarctic_on_Elephant_Island_where_Sir_Ernest_Shackleton_found_lost_party._LCCN2013646117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Shackleton%27s_expedition_to_the_Antarctic_on_Elephant_Island_where_Sir_Ernest_Shackleton_found_lost_party._LCCN2013646117.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood, copyright claimant / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:f:scene 14": {
     "topic": "Shackleton's Endurance expedition",
@@ -2707,18 +2241,30 @@
   "2026-10-22:f:scene 21": {
     "topic": "Shackleton's Endurance expedition",
     "tried": [
-      "image:Shackleton Endurance crew 1914",
-      "image:Endurance crew Imperial Trans-Antarctic Expedition"
+      "image:Shackleton expedition Elephant Island lost party"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Shackleton's expedition to the Antarctic on Elephant Island where Sir Ernest Shackleton found lost party. LCCN2013646117.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Shackleton%27s_expedition_to_the_Antarctic_on_Elephant_Island_where_Sir_Ernest_Shackleton_found_lost_party._LCCN2013646117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Shackleton%27s_expedition_to_the_Antarctic_on_Elephant_Island_where_Sir_Ernest_Shackleton_found_lost_party._LCCN2013646117.jpg",
+      "license": "Public domain",
+      "credit": "Underwood &amp; Underwood, copyright claimant / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:f:scene 22": {
     "topic": "Shackleton's Endurance expedition",
     "tried": [
-      "image:Ross Sea party Aurora",
-      "image:SY Aurora ship"
+      "image:Aeneas Mackintosh"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Aeneas-Mackintosh-with-daughter.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Aeneas-Mackintosh-with-daughter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Aeneas-Mackintosh-with-daughter.jpg",
+      "license": "CC BY-SA",
+      "credit": "Mattdell / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
   },
   "2026-10-22:f:scene 23": {
     "topic": "Shackleton's Endurance expedition",
@@ -3063,10 +2609,16 @@
   "2026-10-23:f:scene 5": {
     "topic": "The Tacoma Narrows Bridge collapse, 1940",
     "tried": [
-      "image:Leon Moisseiff engineer",
-      "image:Leon Moisseiff"
+      "image:Tacoma Narrows Bridge opening day"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Opening day of the Tacoma Narrows Bridge, Tacoma, Washington.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Opening_day_of_the_Tacoma_Narrows_Bridge%2C_Tacoma%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Opening_day_of_the_Tacoma_Narrows_Bridge,_Tacoma,_Washington.jpg",
+      "license": "Public domain",
+      "credit": "University of Washington Libraries Digital Collections / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:f:scene 6": {
     "topic": "The Tacoma Narrows Bridge collapse, 1940",
@@ -3128,10 +2680,17 @@
   "2026-10-23:f:scene 10": {
     "topic": "The Tacoma Narrows Bridge collapse, 1940",
     "tried": [
-      "image:Frederick Burt Farquharson",
-      "image:Tacoma Narrows Bridge model wind tunnel"
+      "image:Tacoma Narrows Bridge Falling",
+      "image:Tacoma narrows bridge collapsed"
     ],
-    "hit": null
+    "hit": {
+      "title": "File:Tacoma Narrows still.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+      "license": "Public domain",
+      "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
   },
   "2026-10-23:f:scene 11": {
     "topic": "The Tacoma Narrows Bridge collapse, 1940",
