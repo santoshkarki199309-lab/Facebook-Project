@@ -256,8 +256,9 @@
             {
               "narration": "That smoking room was pressurised, with an airlock door to keep out stray gas. Passengers shared a single electric lighter.",
               "image_search": [
-                "Hindenburg smoking room",
-                "Doppelkabine LZ 129 Hindenburg"
+                "Bundesarchiv Luftschiff Hindenburg Gesellschaftsraum",
+                "Bundesarchiv Luftschiff Hindenburg Speisesaal",
+                "Cabin Hindenburg inside"
               ]
             }
           ]
@@ -276,8 +277,9 @@
             {
               "narration": "So the builders filled it with hydrogen instead. Hydrogen gives even more lift than helium, but it is highly flammable, and the crew knew it.",
               "image_search": [
-                "Hindenburg gas cells",
-                "Hindenburg tail engine room 1936"
+                "Teil-Rekonstruktion Hindenburg",
+                "Hindenburg gondola mooring 1936",
+                "Hindenburg Lakehurst May 1936"
               ]
             },
             {
@@ -297,8 +299,9 @@
               "narration": "On May 3, 1937, the Hindenburg left Frankfurt for America with 36 passengers and 61 crew. Ninety-seven people in all. It was the airship's second scheduled ocean crossing of the year.",
               "label": "3 MAY 1937",
               "image_search": [
-                "Hindenburg Frankfurt 1937",
-                "Hindenburg return First Flight Lakehurst"
+                "Hindenburg RD-4 Lakehurst May 1936",
+                "Hindenburg gondola mooring 1936",
+                "Hindenburg Lakehurst"
               ]
             },
             {
@@ -312,8 +315,9 @@
             {
               "narration": "Captain Max Pruss waited for a passing storm to clear before he tried to land. Just after seven in the evening, he brought the giant in.",
               "image_search": [
-                "Max Pruss",
-                "Hindenburg mooring at Lakehurst"
+                "Hindenburg gondola mooring 1936",
+                "Hindenburg Lakehurst 1936",
+                "Hindenburg mooring Lakehurst"
               ]
             },
             {
@@ -383,18 +387,21 @@
             {
               "narration": "Others blame the flammable coating on the ship's outer skin, or a snapping cable. Some even suggested sabotage, but no evidence for a bomb was ever found.",
               "image_search": [
-                "Hindenburg outer cover",
-                "Hindenburg tail engine room 1936"
+                "Hindenburg burning Lakehurst",
+                "Hindenburg tail engine room 1936",
+                "Hindenburg Lakehurst 1936"
               ]
             },
             {
               "narration": "Whatever the cause, the film and sound recordings were seen and heard around the world, and a silent newsreel of the fire still survives. The disaster ended the era of rigid airships carrying passengers.",
               "video_search": [
-                "Hindenburg disaster newsreel"
+                "Zeppelin Explodes Scores Dead",
+                "Hindenburg Explodes"
               ],
               "image_search": [
-                "Hindenburg newspaper 1937",
-                "Burning Hindenburg wreckage 1937"
+                "Hindenburg disaster 1937",
+                "Burning Hindenburg wreckage",
+                "Hindenburg burning composite"
               ]
             }
           ]
