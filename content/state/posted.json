@@ -157,5 +157,15 @@
     "sources_comment": true,
     "topic": "The sinking of the Titanic",
     "type": "video"
+  },
+  "2026-10-19:c": {
+    "at": "2026-10-19T09:21:01+00:00",
+    "id": "1385478637981953_122101725213513623",
+    "image_credits": [
+      "Jacques-Louis David / Wikimedia Commons (Public domain)"
+    ],
+    "sources_comment": true,
+    "topic": "Myth: Napoleon was short",
+    "type": "photo"
   }
 }
