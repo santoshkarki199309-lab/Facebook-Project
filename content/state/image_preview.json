@@ -1,573 +1,4 @@
 {
-  "2026-10-19:a:post": {
-    "topic": "The Terracotta Army",
-    "tried": [
-      "image:Terracotta Army pit 1 Xi'an"
-    ],
-    "hit": {
-      "title": "File:Terracotta Army - Pit 1, Xi'an, China (14148051222).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg/1920px-Terracotta_Army_-_Pit_1%2C_Xi%27an%2C_China_%2814148051222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051222).jpg",
-      "license": "CC BY",
-      "credit": "Joe Hart from Southampton, United Kingdom / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 1": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Dancing mania Pieter Brueghel"
-    ],
-    "hit": {
-      "title": "File:Pieter Brueghel, the Elder. \u00abThe Dancing Mania. Pilgrimage of the Epileptics to the Church at Molenbeek\u00bb. 1564.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pieter_Brueghel%2C_the_Elder._%C2%ABThe_Dancing_Mania._Pilgrimage_of_the_Epileptics_to_the_Church_at_Molenbeek%C2%BB._1564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel,_the_Elder._%C2%ABThe_Dancing_Mania._Pilgrimage_of_the_Epileptics_to_the_Church_at_Molenbeek%C2%BB._1564.jpg",
-      "license": "Public domain",
-      "credit": "Pieter Breugel de Oude / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 2": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Strasbourg 16th century engraving",
-      "image:Strasbourg Merian 1644"
-    ],
-    "hit": {
-      "title": "File:Absolute Strasbourg 1644 Merian 01.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Absolute_Strasbourg_1644_Merian_01.jpg/1920px-Absolute_Strasbourg_1644_Merian_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Absolute_Strasbourg_1644_Merian_01.jpg",
-      "license": "CC BY-SA",
-      "credit": "Jonathan M / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 3": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Dancing mania Hendrik Hondius engraving"
-    ],
-    "hit": {
-      "title": "File:The dancing mania, by Hondius Wellcome M0013485.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg/1920px-The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:The_dancing_mania,_by_Hondius_Wellcome_M0013485.jpg",
-      "license": "CC BY",
-      "credit": "Unknown author / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 4": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Strasbourg Cathedral"
-    ],
-    "hit": {
-      "title": "File:Strasbourg Cathedral Exterior - Diliff.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Strasbourg_Cathedral_Exterior_-_Diliff.jpg/1920px-Strasbourg_Cathedral_Exterior_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg",
-      "license": "CC BY-SA",
-      "credit": "Diliff / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 5": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Saint Vitus painting"
-    ],
-    "hit": {
-      "title": "File:German Martyrdom of Saint Vitus.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/German_Martyrdom_of_Saint_Vitus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:German_Martyrdom_of_Saint_Vitus.jpg",
-      "license": "Public domain",
-      "credit": "Anonymous (Germany)Unknown author / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:b:scene 6": {
-    "topic": "The Dancing Plague of 1518",
-    "tried": [
-      "image:Dancing mania Hondius"
-    ],
-    "hit": {
-      "title": "File:The dancing mania, by Hondius Wellcome M0013485.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg/1920px-The_dancing_mania%2C_by_Hondius_Wellcome_M0013485.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:The_dancing_mania,_by_Hondius_Wellcome_M0013485.jpg",
-      "license": "CC BY",
-      "credit": "Unknown author / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:c:post": {
-    "topic": "Myth: Napoleon was short",
-    "tried": [
-      "image:Napoleon in his study Tuileries Jacques-Louis David"
-    ],
-    "hit": {
-      "title": "File:Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1920px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
-      "license": "Public domain",
-      "credit": "Jacques-Louis David / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 1": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:King John effigy Worcester Cathedral"
-    ],
-    "hit": {
-      "title": "File:Worcester Cathedral. The Choir. (NBY 441801).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Worcester_Cathedral._The_Choir._%28NBY_441801%29.jpg/1920px-Worcester_Cathedral._The_Choir._%28NBY_441801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Worcester_Cathedral._The_Choir._(NBY_441801).jpg",
-      "license": "Public domain",
-      "credit": "Unknown author / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 2": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:King John of England manuscript"
-    ],
-    "hit": {
-      "title": "File:King John from De Rege Johanne.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/King_John_from_De_Rege_Johanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:King_John_from_De_Rege_Johanne.jpg",
-      "license": "Public domain",
-      "credit": "See description / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 3": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:The Wash Norfolk coast"
-    ],
-    "hit": {
-      "title": "File:The Wash, Norfolk - geograph.org.uk - 2954514.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Wash%2C_Norfolk_-_geograph.org.uk_-_2954514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:The_Wash,_Norfolk_-_geograph.org.uk_-_2954514.jpg",
-      "license": "CC BY-SA",
-      "credit": "Christine Matthews / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 4": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:The Wash Norfolk tide"
-    ],
-    "hit": {
-      "title": "File:The Wash at low tide - geograph.org.uk - 2061775.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg/1920px-The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:The_Wash_at_low_tide_-_geograph.org.uk_-_2061775.jpg",
-      "license": "CC BY-SA",
-      "credit": "Ben Harris / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 5": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:King John of England seal"
-    ],
-    "hit": {
-      "title": "File:Great Seal of King John - Articles of the Barons (1215) - BL Add MS 4838.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Great_Seal_of_King_John_-_Articles_of_the_Barons_%281215%29_-_BL_Add_MS_4838.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_King_John_-_Articles_of_the_Barons_(1215)_-_BL_Add_MS_4838.jpg",
-      "license": "CC0",
-      "credit": "Unknown author / Wikimedia Commons (CC0)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 6": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:Newark Castle Nottinghamshire"
-    ],
-    "hit": {
-      "title": "File:Newark Castle, Newark-on-Trent, Nottinghamshire.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Newark_Castle%2C_Newark-on-Trent%2C_Nottinghamshire.jpg/1920px-Newark_Castle%2C_Newark-on-Trent%2C_Nottinghamshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Newark_Castle,_Newark-on-Trent,_Nottinghamshire.jpg",
-      "license": "CC BY-SA",
-      "credit": "Roland Turner / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 7": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:King John tomb Worcester Cathedral"
-    ],
-    "hit": {
-      "title": "File:Tomb of King John, Worcester Cathedral - geograph.org.uk - 7214713.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tomb_of_King_John%2C_Worcester_Cathedral_-_geograph.org.uk_-_7214713.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_King_John,_Worcester_Cathedral_-_geograph.org.uk_-_7214713.jpg",
-      "license": "CC BY-SA",
-      "credit": "Jeff Gogarty / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:d:scene 8": {
-    "topic": "King John's lost treasure in the Wash",
-    "tried": [
-      "image:King John De Rege Johanne"
-    ],
-    "hit": {
-      "title": "File:King John, Hunting with Hounds, De Rege Johanne, 1300-1400 (26101230351).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/King_John%2C_Hunting_with_Hounds%2C_De_Rege_Johanne%2C_1300-1400_%2826101230351%29.jpg/1920px-King_John%2C_Hunting_with_Hounds%2C_De_Rege_Johanne%2C_1300-1400_%2826101230351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:King_John,_Hunting_with_Hounds,_De_Rege_Johanne,_1300-1400_(26101230351).jpg",
-      "license": "Public domain",
-      "credit": "Levan Ramishvili from Tbilisi, Georgia / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:e:post": {
-    "topic": "The surrender at Yorktown, 1781",
-    "tried": [
-      "image:Surrender of Lord Cornwallis Trumbull"
-    ],
-    "hit": {
-      "title": "File:Surrender of Lord Cornwallis.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/1920px-Surrender_of_Lord_Cornwallis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg",
-      "license": "Public domain",
-      "credit": "John Trumbull / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 1": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz dummy head 1962"
-    ],
-    "hit": {
-      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
-      "license": "Public domain",
-      "credit": "FBI / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 2": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Frank Morris Alcatraz mugshot",
-      "image:Frank Lee Morris"
-    ],
-    "hit": {
-      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
-      "license": "Public domain",
-      "credit": "FBI / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 3": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Island San Francisco Bay"
-    ],
-    "hit": {
-      "title": "File:San Francisco (CA, USA), Alcatraz, Officers' Club -- 2022 -- 3124.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Officers%27_Club_--_2022_--_3124.jpg",
-      "license": "CC BY-SA",
-      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 4": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Island March 1962"
-    ],
-    "hit": {
-      "title": "File:Alcatraz Island March 1962.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alcatraz_Island_March_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_March_1962.jpg",
-      "license": "CC BY",
-      "credit": "Jdreed (talk) (Uploads) / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 5": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:John Anglin head shot"
-    ],
-    "hit": {
-      "title": "File:John Anglin - head shot - 01.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Anglin_-_head_shot_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:John_Anglin_-_head_shot_-_01.jpg",
-      "license": "Public domain",
-      "credit": "US Federal Government / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 6": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz cell block B"
-    ],
-    "hit": {
-      "title": "File:VIEW LOOKING SOUTH BETWEEN CELL BLOCKS 'C' AND 'B', 'BROADWAY' - Alcatraz, Cell House, Alcatraz Island, San Francisco Bay, San Francisco, San Francisco County, CA HABS CAL,38-ALCA,1-A-21.tif",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/VIEW_LOOKING_SOUTH_BETWEEN_CELL_BLOCKS_%27C%27_AND_%27B%27%2C_%27BROADWAY%27_-_Alcatraz%2C_Cell_House%2C_Alcatraz_Island%2C_San_Francisco_Bay%2C_San_Francisco%2C_San_Francisco_County%2C_CA_HABS_CAL%2C38-ALCA%2C1-A-21.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:VIEW_LOOKING_SOUTH_BETWEEN_CELL_BLOCKS_%27C%27_AND_%27B%27,_%27BROADWAY%27_-_Alcatraz,_Cell_House,_Alcatraz_Island,_San_Francisco_Bay,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-ALCA,1-A-21.tif",
-      "license": "Public domain",
-      "credit": "Unknown author / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 7": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz cellhouse roof",
-      "image:Alcatraz prison building"
-    ],
-    "hit": {
-      "title": "File:San Francisco (CA, USA), Alcatraz, Main Prison -- 2022 -- 3138.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3138.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Main_Prison_--_2022_--_3138.jpg",
-      "license": "CC BY-SA",
-      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 8": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz cell vent escape"
-    ],
-    "hit": {
-      "title": "File:Alcatraz cell vent.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Alcatraz_cell_vent.JPG/1920px-Alcatraz_cell_vent.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_cell_vent.JPG",
-      "license": "Public domain",
-      "credit": "Benlechlitner / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 9": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz utility corridor"
-    ],
-    "hit": {
-      "title": "File:Alcatraz utility corridor .jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alcatraz_utility_corridor_.jpg/1920px-Alcatraz_utility_corridor_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_utility_corridor_.jpg",
-      "license": "CC BY-SA",
-      "credit": "nhsmith19 / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 10": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Escape Alcatraz Cell"
-    ],
-    "hit": {
-      "title": "File:Escape Alcatraz Cell.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Escape_Alcatraz_Cell.jpg/1920px-Escape_Alcatraz_Cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Escape_Alcatraz_Cell.jpg",
-      "license": "CC BY",
-      "credit": "Samantha Marx / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 11": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz escape utility corridor"
-    ],
-    "hit": {
-      "title": "File:Alcatraz escape utility corridor.JPG",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Alcatraz_escape_utility_corridor.JPG/1920px-Alcatraz_escape_utility_corridor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_escape_utility_corridor.JPG",
-      "license": "CC BY-SA",
-      "credit": "Tom.k / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 12": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz dummy head Clarence Anglin",
-      "image:Alcatraz dummy head"
-    ],
-    "hit": {
-      "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg",
-      "license": "Public domain",
-      "credit": "FBI / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 13": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Allen West Alcatraz",
-      "image:Alcatraz cell block"
-    ],
-    "hit": {
-      "title": "File:Alcatraz Cell Block 270415 04.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alcatraz_Cell_Block_270415_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Cell_Block_270415_04.jpg",
-      "license": "CC BY-SA",
-      "credit": "Oren Rozen / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 14": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Island aerial"
-    ],
-    "hit": {
-      "title": "File:Alcatraz Island aerial view.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Alcatraz_Island_aerial_view.jpg/1920px-Alcatraz_Island_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_aerial_view.jpg",
-      "license": "CC BY-SA",
-      "credit": "Ralf Baechle / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 15": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Angel Island California"
-    ],
-    "hit": {
-      "title": "File:Smoke from wildfire on Angel Island blankets San Franciscon.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg/1920px-Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Smoke_from_wildfire_on_Angel_Island_blankets_San_Franciscon.jpg",
-      "license": "CC BY-SA",
-      "credit": "Brocken Inaglory / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 16": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Golden Gate Bridge 1960s"
-    ],
-    "hit": {
-      "title": "File:USS Antelope (PG-86) with Golden Gate Bridge c1967.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/USS_Antelope_%28PG-86%29_with_Golden_Gate_Bridge_c1967.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:USS_Antelope_(PG-86)_with_Golden_Gate_Bridge_c1967.jpg",
-      "license": "Public domain",
-      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 17": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:San Francisco Bay aerial"
-    ],
-    "hit": {
-      "title": "File:San Francisco International Airport at night.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/San_Francisco_International_Airport_at_night.jpg/1920px-San_Francisco_International_Airport_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_International_Airport_at_night.jpg",
-      "license": "CC BY-SA",
-      "credit": "Andrew Choy from Santa Clara, California / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 18": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Cronkhite Beach Marin"
-    ],
-    "hit": {
-      "title": "File:Marin Headlands with Rodeo Beach.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Marin_Headlands_with_Rodeo_Beach.jpg/1920px-Marin_Headlands_with_Rodeo_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Marin_Headlands_with_Rodeo_Beach.jpg",
-      "license": "Public domain",
-      "credit": "Brocken Inaglory / Wikimedia Commons (Public domain)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 19": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Federal Penitentiary",
-      "image:Alcatraz penitentiary sign"
-    ],
-    "hit": {
-      "title": "File:Alcatraz Federal Penitentiary - July 2025 - Sarah Stierch 13.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg/1920px-Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Federal_Penitentiary_-_July_2025_-_Sarah_Stierch_13.jpg",
-      "license": "CC0",
-      "credit": "Missvain / Wikimedia Commons (CC0)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 20": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:FBI Alcatraz wanted poster",
-      "image:Alcatraz Island 1962"
-    ],
-    "hit": {
-      "title": "File:Alcatraz Island March 1962.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alcatraz_Island_March_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_March_1962.jpg",
-      "license": "CC BY",
-      "credit": "Jdreed (talk) (Uploads) / Wikimedia Commons (CC BY)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 21": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Island 1963",
-      "image:Alcatraz Island lighthouse"
-    ],
-    "hit": {
-      "title": "File:San Francisco (CA, USA), Alcatraz, Lighthouse -- 2022 -- 3155.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Lighthouse_--_2022_--_3155.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Lighthouse_--_2022_--_3155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Lighthouse_--_2022_--_3155.jpg",
-      "license": "CC BY-SA",
-      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 22": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz cellhouse today",
-      "image:Alcatraz Island National Park"
-    ],
-    "hit": {
-      "title": "File:San Francisco (CA, USA), Pioneer Park, Blick auf Alcatraz -- 2022 -- 3084.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/San_Francisco_%28CA%2C_USA%29%2C_Pioneer_Park%2C_Blick_auf_Alcatraz_--_2022_--_3084.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Pioneer_Park%2C_Blick_auf_Alcatraz_--_2022_--_3084.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Pioneer_Park,_Blick_auf_Alcatraz_--_2022_--_3084.jpg",
-      "license": "CC BY-SA",
-      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
-  "2026-10-19:f:scene 23": {
-    "topic": "The 1962 Alcatraz escape",
-    "tried": [
-      "image:Alcatraz Island San Francisco Bay"
-    ],
-    "hit": {
-      "title": "File:San Francisco (CA, USA), Alcatraz, Officers' Club -- 2022 -- 3124.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Officers%27_Club_--_2022_--_3124.jpg",
-      "license": "CC BY-SA",
-      "credit": "Dietmar Rabich / Wikimedia Commons (CC BY-SA)",
-      "duration": 0.0
-    }
-  },
   "2026-10-20:a:post": {
     "topic": "Nan Madol",
     "tried": [
@@ -1460,9 +891,9 @@
       "image:LZ 129 Hindenburg interior"
     ],
     "hit": {
-      "title": "File:Doppelkabine von LZ 129 \"Hindenburg\".jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Doppelkabine_von_LZ_129_%22Hindenburg%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Doppelkabine_von_LZ_129_%22Hindenburg%22.jpg",
+      "title": "File:Einzelkabine von LZ 129 \"Hindenburg\".jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg/1920px-Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg",
       "license": "CC BY-SA",
       "credit": "ZMF / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -1518,11 +949,11 @@
       "image:Hindenburg Lakehurst 1936"
     ],
     "hit": {
-      "title": "File:Hindenburg mooring at Lakehurst 1936.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hindenburg_mooring_at_Lakehurst_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_mooring_at_Lakehurst_1936.jpg",
+      "title": "File:Hindenburg first landing at Lakehurst 1936.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hindenburg_first_landing_at_Lakehurst_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_first_landing_at_Lakehurst_1936.jpg",
       "license": "Public domain",
-      "credit": "Wide World Photos / Wikimedia Commons (Public domain)",
+      "credit": "Wide World Photos/Minneapolis Sunday Tribune / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   },
@@ -2874,6 +2305,660 @@
       "page": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
       "license": "Public domain",
       "credit": "Barney Elliot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:c:post": {
+    "topic": "Annie Edson Taylor's barrel ride over Niagara Falls, 1901",
+    "tried": [
+      "image:Annie Edson Taylor barrel"
+    ],
+    "hit": {
+      "title": "File:Annie Taylor.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Annie_Taylor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Annie_Taylor.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 1": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette Vig\u00e9e Le Brun"
+    ],
+    "hit": {
+      "title": "File:Louise Elisabeth Vig\u00e9e-Lebrun - Marie-Antoinette de Lorraine-Habsbourg, reine de France et ses enfants - Google Art Project.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg/1920px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "\u00c9lisabeth Louise Vig\u00e9e Le Brun / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 2": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette Vig\u00e9e Le Brun"
+    ],
+    "hit": {
+      "title": "File:Louise Elisabeth Vig\u00e9e-Lebrun - Marie-Antoinette de Lorraine-Habsbourg, reine de France et ses enfants - Google Art Project.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg/1920px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "\u00c9lisabeth Louise Vig\u00e9e Le Brun / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 3": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Jean-Jacques Rousseau portrait"
+    ],
+    "hit": {
+      "title": "File:Jean-Jacques Rousseau (painted portrait).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Jean-Jacques_Rousseau_(painted_portrait).jpg",
+      "license": "Public domain",
+      "credit": "Maurice Quentin de La Tour / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 4": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette child"
+    ],
+    "hit": {
+      "title": "File:La fortune et le jeune enfant par Marie-Antoinette Demagnez.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/La_fortune_et_le_jeune_enfant_par_Marie-Antoinette_Demagnez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:La_fortune_et_le_jeune_enfant_par_Marie-Antoinette_Demagnez.jpg",
+      "license": "Public domain",
+      "credit": "L. Baschet / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 5": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Palace of Versailles 18th century"
+    ],
+    "hit": {
+      "title": "File:Le Chateau de Versailles , Palace of Versailles interiors in art 1.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Le_Chateau_de_Versailles_%2C_Palace_of_Versailles_interiors_in_art_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Le_Chateau_de_Versailles_,_Palace_of_Versailles_interiors_in_art_1.JPG",
+      "license": "CC BY-SA",
+      "credit": "\u0414\u0435\u043b\u0444\u0438\u043d\u0430 / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 6": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette Conciergerie"
+    ],
+    "hit": {
+      "title": "File:Georges Cain - Marie-Antoinette sortant de la Conciergerie, le 16 octobre 1793 - P1414 - Mus\u00e9e Carnavalet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Georges_Cain_-_Marie-Antoinette_sortant_de_la_Conciergerie%2C_le_16_octobre_1793_-_P1414_-_Mus%C3%A9e_Carnavalet.jpg/1920px-Georges_Cain_-_Marie-Antoinette_sortant_de_la_Conciergerie%2C_le_16_octobre_1793_-_P1414_-_Mus%C3%A9e_Carnavalet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Georges_Cain_-_Marie-Antoinette_sortant_de_la_Conciergerie,_le_16_octobre_1793_-_P1414_-_Mus%C3%A9e_Carnavalet.jpg",
+      "license": "Public domain",
+      "credit": "Georges Cain / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 7": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette with her children"
+    ],
+    "hit": {
+      "title": "File:Louise Elisabeth Vig\u00e9e-Lebrun - Marie-Antoinette de Lorraine-Habsbourg, reine de France et ses enfants - Google Art Project.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg/1920px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "\u00c9lisabeth Louise Vig\u00e9e Le Brun / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:b:scene 8": {
+    "topic": "Myth: Marie Antoinette said 'Let them eat cake'",
+    "tried": [
+      "image:Marie Antoinette portrait"
+    ],
+    "hit": {
+      "title": "File:Marie-Antoinette, 1775 - Mus\u00e9e Antoine L\u00e9cuyer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+      "license": "Public domain",
+      "credit": "After Jean-Baptiste Andr\u00e9 Gautier-Dagoty / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:e:post": {
+    "topic": "First photograph of Earth from space, 24 October 1946",
+    "tried": [
+      "image:first photo from space 1946"
+    ],
+    "hit": {
+      "title": "File:First photo from space.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/First_photo_from_space.jpg/1920px-First_photo_from_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:First_photo_from_space.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Army / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:a:post": {
+    "topic": "The Great Molasses Flood, Boston 1919",
+    "tried": [
+      "image:Boston Molasses Disaster"
+    ],
+    "hit": {
+      "title": "File:Boston molasses detail map.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Boston_molasses_detail_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Boston_molasses_detail_map.png",
+      "license": "Public domain",
+      "credit": "User:IMeowbot / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 1": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Kvit\u00f8ya 1930",
+      "image:Bratvaag expedition 1930",
+      "image:Andr\u00e9e expedition 1930"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 2": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition 1897",
+      "image:Andr\u00e9e \u00d6rnen balloon"
+    ],
+    "hit": {
+      "title": "File:Ritning, bl\u00e5kopia, av luftballongen \u00d6rnen till S. A. Andr\u00e9es polarexpedition.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif/lossy-page1-500px-Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ritning,_bl%C3%A5kopia,_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif",
+      "license": "Public domain",
+      "credit": "S. A. Andr\u00e9e / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 3": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition photograph"
+    ],
+    "hit": {
+      "title": "File:S. A. Andr\u00e9e's North Pole expedition crew (1896).png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_%281896%29.png/1920px-S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_%281896%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_(1896).png",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 4": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Salomon August Andr\u00e9e"
+    ],
+    "hit": {
+      "title": "File:Mansportr\u00e4tt. Andr\u00e9e, Salomon August - Nordiska Museet - NMA.0033031.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mansportr%C3%A4tt._Andr%C3%A9e%2C_Salomon_August_-_Nordiska_Museet_-_NMA.0033031.jpg/1920px-Mansportr%C3%A4tt._Andr%C3%A9e%2C_Salomon_August_-_Nordiska_Museet_-_NMA.0033031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mansportr%C3%A4tt._Andr%C3%A9e,_Salomon_August_-_Nordiska_Museet_-_NMA.0033031.jpg",
+      "license": "Public domain",
+      "credit": "G\u00f6sta Florman (1831\u20131900) / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 5": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e \u00d6rnen balloon"
+    ],
+    "hit": {
+      "title": "File:Ritning, bl\u00e5kopia, av luftballongen \u00d6rnen till S. A. Andr\u00e9es polarexpedition.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif/lossy-page1-500px-Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ritning,_bl%C3%A5kopia,_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif",
+      "license": "Public domain",
+      "credit": "S. A. Andr\u00e9e / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 6": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e balloon drag ropes",
+      "image:Andr\u00e9e \u00d6rnen balloon"
+    ],
+    "hit": {
+      "title": "File:Ritning, bl\u00e5kopia, av luftballongen \u00d6rnen till S. A. Andr\u00e9es polarexpedition.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif/lossy-page1-500px-Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ritning,_bl%C3%A5kopia,_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif",
+      "license": "Public domain",
+      "credit": "S. A. Andr\u00e9e / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 7": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:\u00d6rnen balloon 1897",
+      "image:Andr\u00e9e \u00d6rnen balloon"
+    ],
+    "hit": {
+      "title": "File:Ritning, bl\u00e5kopia, av luftballongen \u00d6rnen till S. A. Andr\u00e9es polarexpedition.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif/lossy-page1-500px-Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ritning,_bl%C3%A5kopia,_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif",
+      "license": "Public domain",
+      "credit": "S. A. Andr\u00e9e / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 8": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Nils Ekholm"
+    ],
+    "hit": {
+      "title": "File:Nils.Ekholm.png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Nils.Ekholm.png/1920px-Nils.Ekholm.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nils.Ekholm.png",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 9": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e Strindberg Fr\u00e6nkel"
+    ],
+    "hit": {
+      "title": "File:Fr\u00e6nkel and Strindberg with polar bear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg/1920px-Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 10": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:King Oscar II of Sweden"
+    ],
+    "hit": {
+      "title": "File:King Oscar II of Sweden in uniform.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/King_Oscar_II_of_Sweden_in_uniform.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:King_Oscar_II_of_Sweden_in_uniform.png",
+      "license": "Public domain",
+      "credit": "Lars Larsson / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 11": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "video:Andr\u00e9e balloon 1897",
+      "video:Andr\u00e9e expedition launch",
+      "image:Andr\u00e9e balloon launch 1897",
+      "image:Andr\u00e9e Dansk\u00f8ya 1897"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 12": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e balloon launch 1897",
+      "image:\u00d6rnen balloon 1897"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 13": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e \u00d6rnen balloon"
+    ],
+    "hit": {
+      "title": "File:Ritning, bl\u00e5kopia, av luftballongen \u00d6rnen till S. A. Andr\u00e9es polarexpedition.tif",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif/lossy-page1-500px-Ritning%2C_bl%C3%A5kopia%2C_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ritning,_bl%C3%A5kopia,_av_luftballongen_%C3%96rnen_till_S._A._Andr%C3%A9es_polarexpedition.tif",
+      "license": "Public domain",
+      "credit": "S. A. Andr\u00e9e / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 14": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e pigeon message",
+      "image:Andr\u00e9e expedition pigeon"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 15": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:\u00d6rnen on the ice 1897",
+      "image:Andr\u00e9e balloon on the ice"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 16": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:\u00d6rnen on the ice 1897",
+      "image:Andr\u00e9e balloon wreck"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 17": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition sledge",
+      "image:Andr\u00e9e expedition 1897"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 18": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition sledge",
+      "image:Andr\u00e9e Fr\u00e6nkel Strindberg sledge"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 19": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition pack ice",
+      "image:Arctic pack ice Svalbard"
+    ],
+    "hit": {
+      "title": "File:Arctic pack ice at 81\u00b0 north.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Arctic_pack_ice_at_81%C2%B0_north.jpg/1920px-Arctic_pack_ice_at_81%C2%B0_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Arctic_pack_ice_at_81%C2%B0_north.jpg",
+      "license": "CC BY-SA",
+      "credit": "AWeith / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 20": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition 1897",
+      "image:Sju\u00f8yane Svalbard"
+    ],
+    "hit": {
+      "title": "File:Table iceberg west of Sju\u00f8yane, Arctic ocean.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Table_iceberg_west_of_Sju%C3%B8yane%2C_Arctic_ocean.jpg/1920px-Table_iceberg_west_of_Sju%C3%B8yane%2C_Arctic_ocean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Table_iceberg_west_of_Sju%C3%B8yane,_Arctic_ocean.jpg",
+      "license": "CC BY-SA",
+      "credit": "Andreas Weith / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 21": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition polar bear"
+    ],
+    "hit": {
+      "title": "File:Fr\u00e6nkel and Strindberg with polar bear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg/1920px-Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 22": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition camp",
+      "image:Andr\u00e9e expedition 1897"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 23": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Kvit\u00f8ya",
+      "image:Kvit\u00f8ya Svalbard"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 24": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e diary",
+      "image:Andr\u00e9e expedition diary"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 25": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition polar bear"
+    ],
+    "hit": {
+      "title": "File:Fr\u00e6nkel and Strindberg with polar bear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg/1920px-Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A6nkel_and_Strindberg_with_polar_bear.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 26": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition camp",
+      "image:Andr\u00e9e expedition stove"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 27": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Nils Strindberg"
+    ],
+    "hit": {
+      "title": "File:Nils Strindberg sj9PGLAlnmUAAAAAAB2WfQ.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nils_Strindberg_sj9PGLAlnmUAAAAAAB2WfQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Nils_Strindberg_sj9PGLAlnmUAAAAAAB2WfQ.jpg",
+      "license": "CC BY",
+      "credit": "Unknown author / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 28": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Bratvaag 1930",
+      "image:Bratvaag expedition"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 29": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e expedition photograph"
+    ],
+    "hit": {
+      "title": "File:S. A. Andr\u00e9e's North Pole expedition crew (1896).png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_%281896%29.png/1920px-S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_%281896%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:S._A._Andr%C3%A9e%27s_North_Pole_expedition_crew_(1896).png",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 30": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:\u00d6rnen on the ice 1897",
+      "image:Andr\u00e9e expedition camp"
+    ],
+    "hit": null
+  },
+  "2026-10-24:f:scene 31": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Andr\u00e9e funeral Stockholm 1930"
+    ],
+    "hit": {
+      "title": "File:Funeral of Salomon August Andr\u00e9e.png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Funeral_of_Salomon_August_Andr%C3%A9e.png/1920px-Funeral_of_Salomon_August_Andr%C3%A9e.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Funeral_of_Salomon_August_Andr%C3%A9e.png",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 32": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Anna Charlier"
+    ],
+    "hit": {
+      "title": "File:Anna.charlier.nils.strindberg.PNG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Anna.charlier.nils.strindberg.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Anna.charlier.nils.strindberg.PNG",
+      "license": "Public domain",
+      "credit": "G\u00f6sta Flormans atelj\u00e9 / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:f:scene 33": {
+    "topic": "Andr\u00e9e's Arctic balloon expedition, 1897",
+    "tried": [
+      "image:Grenna Museum"
+    ],
+    "hit": {
+      "title": "File:Grenna museum 2015 01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Grenna_museum_2015_01.jpg/1920px-Grenna_museum_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grenna_museum_2015_01.jpg",
+      "license": "CC BY-SA",
+      "credit": "Calle Eklund/Vivo / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 1": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Emu War 1932"
+    ],
+    "hit": {
+      "title": "File:Deceased emu during Emu War.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deceased_emu_during_Emu_War.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Deceased_emu_during_Emu_War.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 2": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:emu Western Australia",
+      "image:Dromaius novaehollandiae"
+    ],
+    "hit": {
+      "title": "File:Dromaius novaehollandiae (head) Battersea Park Children's Zoo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dromaius_novaehollandiae_%28head%29_Battersea_Park_Children%27s_Zoo.jpg/1920px-Dromaius_novaehollandiae_%28head%29_Battersea_Park_Children%27s_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dromaius_novaehollandiae_(head)_Battersea_Park_Children%27s_Zoo.jpg",
+      "license": "CC BY",
+      "credit": "William Warby / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 3": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Lewis gun"
+    ],
+    "hit": {
+      "title": "File:Lewis Gun (derivated) noBG.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lewis_Gun_%28derivated%29_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lewis_Gun_(derivated)_noBG.png",
+      "license": "CC BY-SA",
+      "credit": "https://commons.wikimedia.org/wiki/User:Balcer~commonswiki / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 4": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Emu War 1932"
+    ],
+    "hit": {
+      "title": "File:Deceased emu during Emu War.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deceased_emu_during_Emu_War.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Deceased_emu_during_Emu_War.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 5": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Lewis gun"
+    ],
+    "hit": {
+      "title": "File:Lewis Gun (derivated) noBG.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lewis_Gun_%28derivated%29_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lewis_Gun_(derivated)_noBG.png",
+      "license": "CC BY-SA",
+      "credit": "https://commons.wikimedia.org/wiki/User:Balcer~commonswiki / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 6": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Emu War soldiers"
+    ],
+    "hit": {
+      "title": "File:Deceased emu during Emu War.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deceased_emu_during_Emu_War.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Deceased_emu_during_Emu_War.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 7": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:emu Western Australia",
+      "image:Dromaius novaehollandiae"
+    ],
+    "hit": {
+      "title": "File:Dromaius novaehollandiae (head) Battersea Park Children's Zoo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dromaius_novaehollandiae_%28head%29_Battersea_Park_Children%27s_Zoo.jpg/1920px-Dromaius_novaehollandiae_%28head%29_Battersea_Park_Children%27s_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dromaius_novaehollandiae_(head)_Battersea_Park_Children%27s_Zoo.jpg",
+      "license": "CC BY",
+      "credit": "William Warby / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-24:d:scene 8": {
+    "topic": "The Great Emu War, Western Australia 1932",
+    "tried": [
+      "image:Emu War 1932"
+    ],
+    "hit": {
+      "title": "File:Deceased emu during Emu War.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deceased_emu_during_Emu_War.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Deceased_emu_during_Emu_War.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   }
