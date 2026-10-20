@@ -243,5 +243,15 @@
     "sources_comment": true,
     "topic": "The 1962 Alcatraz escape",
     "type": "video"
+  },
+  "2026-10-20:c": {
+    "at": "2026-10-20T08:54:58+00:00",
+    "id": "1385478637981953_122102600403513623",
+    "image_credits": [
+      "Wilfredor / Wikimedia Commons (CC0)"
+    ],
+    "sources_comment": true,
+    "topic": "Self-healing Roman concrete",
+    "type": "photo"
   }
 }
