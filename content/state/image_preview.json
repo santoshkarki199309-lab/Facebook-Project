@@ -307,9 +307,9 @@
       "image:LZ 129 Hindenburg interior"
     ],
     "hit": {
-      "title": "File:Doppelkabine von LZ 129 \"Hindenburg\".jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Doppelkabine_von_LZ_129_%22Hindenburg%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "page": "https://commons.wikimedia.org/wiki/File:Doppelkabine_von_LZ_129_%22Hindenburg%22.jpg",
+      "title": "File:Einzelkabine von LZ 129 \"Hindenburg\".jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg/1920px-Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Einzelkabine_von_LZ_129_%22Hindenburg%22.jpg",
       "license": "CC BY-SA",
       "credit": "ZMF / Wikimedia Commons (CC BY-SA)",
       "duration": 0.0
@@ -2460,6 +2460,619 @@
       "page": "https://commons.wikimedia.org/wiki/File:Deceased_emu_during_Emu_War.jpg",
       "license": "Public domain",
       "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:c:post": {
+    "topic": "Charge of the Light Brigade and Fenton's 'Valley of the Shadow of Death' photo",
+    "tried": [
+      "image:Valley of the shadow of death Fenton"
+    ],
+    "hit": {
+      "title": "File:Valley of the shadow of death.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Valley_of_the_shadow_of_death.jpg/1920px-Valley_of_the_shadow_of_death.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Valley_of_the_shadow_of_death.jpg",
+      "license": "Public domain",
+      "credit": "Roger Fenton / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 1": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Albert Einstein 1921"
+    ],
+    "hit": {
+      "title": "File:Albert Einstein 1921 by F Schmutzer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Albert_Einstein_1921_by_F_Schmutzer.jpg/1920px-Albert_Einstein_1921_by_F_Schmutzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_1921_by_F_Schmutzer.jpg",
+      "license": "Public domain",
+      "credit": "Ferdinand Schmutzer / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 2": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Albert Einstein 1893"
+    ],
+    "hit": {
+      "title": "File:Albert Einstein as a child.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Albert_Einstein_as_a_child.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_as_a_child.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 3": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:ETH Zurich"
+    ],
+    "hit": {
+      "title": "File:ETH zurich (Ank Kumar Infosys Limited) 20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ETH_zurich_%28Ank_Kumar_Infosys_Limited%29_20.jpg/1920px-ETH_zurich_%28Ank_Kumar_Infosys_Limited%29_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:ETH_zurich_(Ank_Kumar_Infosys_Limited)_20.jpg",
+      "license": "CC BY-SA",
+      "credit": "Ank kumar / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 4": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Kantonsschule Aarau"
+    ],
+    "hit": {
+      "title": "File:Neue Kantonsschule Aarau 2010.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Neue_Kantonsschule_Aarau_2010.jpg/1920px-Neue_Kantonsschule_Aarau_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Neue_Kantonsschule_Aarau_2010.jpg",
+      "license": "Public domain",
+      "credit": "Cygnebleu / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 5": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Einstein Matura certificate",
+      "image:Einstein Maturit\u00e4tszeugnis",
+      "image:Kantonsschule Aarau"
+    ],
+    "hit": {
+      "title": "File:Neue Kantonsschule Aarau 2010.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Neue_Kantonsschule_Aarau_2010.jpg/1920px-Neue_Kantonsschule_Aarau_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Neue_Kantonsschule_Aarau_2010.jpg",
+      "license": "Public domain",
+      "credit": "Cygnebleu / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 6": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Robert Ripley"
+    ],
+    "hit": {
+      "title": "File:Robert Ripley.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Robert_Ripley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Robert_Ripley.JPG",
+      "license": "Public domain",
+      "credit": "Press release says \"From Ripley Office\". / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 7": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Albert Einstein Princeton"
+    ],
+    "hit": {
+      "title": "File:Albert Einstein Head cleaned.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1920px-Albert_Einstein_Head_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+      "license": "Public domain",
+      "credit": "Oren Jack Turner / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:b:scene 8": {
+    "topic": "Myth: Einstein failed math",
+    "tried": [
+      "image:Albert Einstein 1921"
+    ],
+    "hit": {
+      "title": "File:Albert Einstein 1921 by F Schmutzer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Albert_Einstein_1921_by_F_Schmutzer.jpg/1920px-Albert_Einstein_1921_by_F_Schmutzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_1921_by_F_Schmutzer.jpg",
+      "license": "Public domain",
+      "credit": "Ferdinand Schmutzer / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:e:post": {
+    "topic": "Daguerre's Boulevard du Temple, the first photograph of a person (1838)",
+    "tried": [
+      "image:Boulevard du Temple Daguerre"
+    ],
+    "hit": {
+      "title": "File:Boulevard du Temple by Daguerre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Boulevard_du_Temple_by_Daguerre.jpg/1920px-Boulevard_du_Temple_by_Daguerre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg",
+      "license": "Public domain",
+      "credit": "Louis Daguerre / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:a:post": {
+    "topic": "The Obelisk of Axum's return from Rome",
+    "tried": [
+      "image:Obelisk of Axum"
+    ],
+    "hit": {
+      "title": "File:Celebrate The Return of Axum Obelisk (3170898463).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Celebrate_The_Return_of_Axum_Obelisk_%283170898463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Celebrate_The_Return_of_Axum_Obelisk_(3170898463).jpg",
+      "license": "CC BY",
+      "credit": "A. Davey from Where I Live Now: Pacific Northwest / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 1": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:TBM Avengers of VT-88 in flight"
+    ],
+    "hit": {
+      "title": "File:TBM Avengers of VT-88 in flight in August 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg/1920px-TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg",
+      "license": "Public domain",
+      "credit": "USN / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 2": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Martin PBM-5 Mariner in flight"
+    ],
+    "hit": {
+      "title": "File:Martin PBM-5 Mariner in flight c1945.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Martin_PBM-5_Mariner_in_flight_c1945.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_PBM-5_Mariner_in_flight_c1945.jpeg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 3": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Flight 19 Map of Navigation Problem"
+    ],
+    "hit": {
+      "title": "File:Flight 19 Navigation Problem-1 - DPLA - 17871b539c1345e92cdc55010cdb2701 (page 2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg/1920px-Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_(page_2).jpg",
+      "license": "Public domain",
+      "credit": "Department of Defense. Department of the Navy. Naval Air Training Command. Naval / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 4": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Fort Lauderdale 1940s"
+    ],
+    "hit": {
+      "title": "File:RPPC Andrews Ave Fort Lauderdale, Florida.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/RPPC_Andrews_Ave_Fort_Lauderdale%2C_Florida.jpg/1920px-RPPC_Andrews_Ave_Fort_Lauderdale%2C_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RPPC_Andrews_Ave_Fort_Lauderdale,_Florida.jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 5": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Flight 19 Map of Navigation Problem"
+    ],
+    "hit": {
+      "title": "File:Flight 19 Navigation Problem-1 - DPLA - 17871b539c1345e92cdc55010cdb2701 (page 2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg/1920px-Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_(page_2).jpg",
+      "license": "Public domain",
+      "credit": "Department of Defense. Department of the Navy. Naval Air Training Command. Naval / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 6": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBM-3E Avenger of VT-81 in flight"
+    ],
+    "hit": {
+      "title": "File:Grumman TBM-3E Avenger of VT-81 in flight, in March 1946.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Grumman_TBM-3E_Avenger_of_VT-81_in_flight%2C_in_March_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBM-3E_Avenger_of_VT-81_in_flight,_in_March_1946.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 7": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBM Avenger aboard USS Randolph"
+    ],
+    "hit": {
+      "title": "File:Grumman TBM Avenger aboard USS Randolph (CV-15), in 1945 (NNAM.1996.488.021.003).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Grumman_TBM_Avenger_aboard_USS_Randolph_%28CV-15%29%2C_in_1945_%28NNAM.1996.488.021.003%29.jpg/1920px-Grumman_TBM_Avenger_aboard_USS_Randolph_%28CV-15%29%2C_in_1945_%28NNAM.1996.488.021.003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBM_Avenger_aboard_USS_Randolph_(CV-15),_in_1945_(NNAM.1996.488.021.003).jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 8": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:TBF Avengers flying in formation"
+    ],
+    "hit": {
+      "title": "File:TBF (Avengers) flying in formation (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/TBF_%28Avengers%29_flying_in_formation_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:TBF_(Avengers)_flying_in_formation_(cropped).jpg",
+      "license": "Public domain",
+      "credit": "Lt. Comdr. Horace Bristol, U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 9": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBM-3E Avenger in flight 1946"
+    ],
+    "hit": {
+      "title": "File:Grumman TBM-3E Avenger of VT-81 in flight, in March 1946.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Grumman_TBM-3E_Avenger_of_VT-81_in_flight%2C_in_March_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBM-3E_Avenger_of_VT-81_in_flight,_in_March_1946.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 10": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Florida Keys 1940s",
+      "image:Florida Keys aerial"
+    ],
+    "hit": {
+      "title": "File:Aerial of Solares Hill, Key West Florida, 1999.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Aerial_of_Solares_Hill%2C_Key_West_Florida%2C_1999.jpg/1920px-Aerial_of_Solares_Hill%2C_Key_West_Florida%2C_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Aerial_of_Solares_Hill,_Key_West_Florida,_1999.jpg",
+      "license": "CC BY",
+      "credit": "Florida Keys--Public Libraries / Wikimedia Commons (CC BY)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 11": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Flight 19 Map of Navigation Problem"
+    ],
+    "hit": {
+      "title": "File:Flight 19 Navigation Problem-1 - DPLA - 17871b539c1345e92cdc55010cdb2701 (page 2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg/1920px-Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_(page_2).jpg",
+      "license": "Public domain",
+      "credit": "Department of Defense. Department of the Navy. Naval Air Training Command. Naval / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 12": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:TBM Avengers of VT-88 in flight"
+    ],
+    "hit": {
+      "title": "File:TBM Avengers of VT-88 in flight in August 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg/1920px-TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg",
+      "license": "Public domain",
+      "credit": "USN / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 13": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBF Avenger in flight"
+    ],
+    "hit": {
+      "title": "File:Grumman TBF-1 Avenger in flight, in March 1942 (80-G-8796).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Grumman_TBF-1_Avenger_in_flight%2C_in_March_1942_%2880-G-8796%29.jpg/1920px-Grumman_TBF-1_Avenger_in_flight%2C_in_March_1942_%2880-G-8796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBF-1_Avenger_in_flight,_in_March_1942_(80-G-8796).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 14": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:TBM Avengers of VT-88 in flight in August 1945"
+    ],
+    "hit": {
+      "title": "File:TBM Avengers of VT-88 in flight in August 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg/1920px-TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg",
+      "license": "Public domain",
+      "credit": "USN / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 15": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Martin PBM-5 Mariner in flight c1945"
+    ],
+    "hit": {
+      "title": "File:Martin PBM-5 Mariner in flight c1945.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Martin_PBM-5_Mariner_in_flight_c1945.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_PBM-5_Mariner_in_flight_c1945.jpeg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 16": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Martin PBM-5 Mariner of VPB-26"
+    ],
+    "hit": {
+      "title": "File:Martin PBM-5 Mariner of VPB-26 aboard USS Norton Sound (AV-11) off Saipan in April 1945 (80-G-K-16079).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Martin_PBM-5_Mariner_of_VPB-26_aboard_USS_Norton_Sound_%28AV-11%29_off_Saipan_in_April_1945_%2880-G-K-16079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_PBM-5_Mariner_of_VPB-26_aboard_USS_Norton_Sound_(AV-11)_off_Saipan_in_April_1945_(80-G-K-16079).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 17": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Martin PBM-5 Mariner in flight"
+    ],
+    "hit": {
+      "title": "File:Martin PBM-5 Mariner in flight c1945.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Martin_PBM-5_Mariner_in_flight_c1945.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_PBM-5_Mariner_in_flight_c1945.jpeg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 18": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Martin PBM-3 Mariner in flight c1942"
+    ],
+    "hit": {
+      "title": "File:Martin PBM-3 Mariner in flight c1942.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Martin_PBM-3_Mariner_in_flight_c1942.jpg/1920px-Martin_PBM-3_Mariner_in_flight_c1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_PBM-3_Mariner_in_flight_c1942.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 19": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:USS Solomons"
+    ],
+    "hit": {
+      "title": "File:USS Solomons (CVE-67) leaving San Diego.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/USS_Solomons_%28CVE-67%29_leaving_San_Diego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:USS_Solomons_(CVE-67)_leaving_San_Diego.jpg",
+      "license": "Public domain",
+      "credit": "U.S. Navy, photographed from USS Kalinin Bay (CVE-68) / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 20": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Flight 19 Map of Navigation Problem"
+    ],
+    "hit": {
+      "title": "File:Flight 19 Navigation Problem-1 - DPLA - 17871b539c1345e92cdc55010cdb2701 (page 2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg/1920px-Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flight_19_Navigation_Problem-1_-_DPLA_-_17871b539c1345e92cdc55010cdb2701_(page_2).jpg",
+      "license": "Public domain",
+      "credit": "Department of Defense. Department of the Navy. Naval Air Training Command. Naval / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 21": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBM Avenger in flight"
+    ],
+    "hit": {
+      "title": "File:Grumman TBM Avenger in flight with ASM-N-2 Bat missile.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grumman_TBM_Avenger_in_flight_with_ASM-N-2_Bat_missile.jpg/1920px-Grumman_TBM_Avenger_in_flight_with_ASM-N-2_Bat_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBM_Avenger_in_flight_with_ASM-N-2_Bat_missile.jpg",
+      "license": "Public domain",
+      "credit": "National Institute of Standards and Technology / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 22": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Bermuda Triangle"
+    ],
+    "hit": {
+      "title": "File:Cologne Germany Pushingboat-Triangle-with-lighter-Bermuda-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Pushingboat-Triangle-with-lighter-Bermuda-01.jpg/1920px-Cologne_Germany_Pushingboat-Triangle-with-lighter-Bermuda-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Pushingboat-Triangle-with-lighter-Bermuda-01.jpg",
+      "license": "CC BY-SA",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 23": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Grumman TBF Avenger in flight"
+    ],
+    "hit": {
+      "title": "File:Grumman TBF-1 Avenger in flight, in March 1942 (80-G-8796).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Grumman_TBF-1_Avenger_in_flight%2C_in_March_1942_%2880-G-8796%29.jpg/1920px-Grumman_TBF-1_Avenger_in_flight%2C_in_March_1942_%2880-G-8796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Grumman_TBF-1_Avenger_in_flight,_in_March_1942_(80-G-8796).jpg",
+      "license": "Public domain",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:f:scene 24": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:Avenger wreck Florida",
+      "image:Grumman Avenger wreck"
+    ],
+    "hit": null
+  },
+  "2026-10-25:f:scene 25": {
+    "topic": "Flight 19, the lost Avenger squadron of 1945",
+    "tried": [
+      "image:TBM Avengers of VT-88 in flight"
+    ],
+    "hit": {
+      "title": "File:TBM Avengers of VT-88 in flight in August 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg/1920px-TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:TBM_Avengers_of_VT-88_in_flight_in_August_1945.jpg",
+      "license": "Public domain",
+      "credit": "USN / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 1": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:Violet Jessop"
+    ],
+    "hit": {
+      "title": "File:Violet Jessop in Voluntary Aid Detachment Uniform.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Violet_Jessop_in_Voluntary_Aid_Detachment_Uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Violet_Jessop_in_Voluntary_Aid_Detachment_Uniform.jpg",
+      "license": "Public domain",
+      "credit": "AnonymousUnknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 2": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:RMS Olympic"
+    ],
+    "hit": {
+      "title": "File:RMS Olympic and RMS Majestic in Southampton.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/RMS_Olympic_and_RMS_Majestic_in_Southampton.jpg/1920px-RMS_Olympic_and_RMS_Majestic_in_Southampton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RMS_Olympic_and_RMS_Majestic_in_Southampton.jpg",
+      "license": "Public domain",
+      "credit": "AnonymousUnknown author / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 3": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:Olympic Hawke collision"
+    ],
+    "hit": {
+      "title": "File:Olympic Hawke collision damage.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Olympic_Hawke_collision_damage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Olympic_Hawke_collision_damage.jpg",
+      "license": "Public domain",
+      "credit": "Robert Welch / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 4": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:RMS Titanic 1912"
+    ],
+    "hit": {
+      "title": "File:RMS Titanic 3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1920px-RMS_Titanic_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
+      "license": "Public domain",
+      "credit": "Francis Godolphin Osbourne Stuart / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 5": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:Titanic lifeboat Carpathia"
+    ],
+    "hit": {
+      "title": "File:Carpathia - Titanic lifeboats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Carpathia_-_Titanic_lifeboats.jpg/1920px-Carpathia_-_Titanic_lifeboats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carpathia_-_Titanic_lifeboats.jpg",
+      "license": "Public domain",
+      "credit": "HO, The New York Times / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 6": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:HMHS Britannic"
+    ],
+    "hit": {
+      "title": "File:HMHS Britannic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HMHS_Britannic.jpg/1920px-HMHS_Britannic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:HMHS_Britannic.jpg",
+      "license": "Public domain",
+      "credit": "Allan C. Green / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 7": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:HMHS Britannic 1915"
+    ],
+    "hit": {
+      "title": "File:HMHS Britannic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HMHS_Britannic.jpg/1920px-HMHS_Britannic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:HMHS_Britannic.jpg",
+      "license": "Public domain",
+      "credit": "Allan C. Green / Wikimedia Commons (Public domain)",
+      "duration": 0.0
+    }
+  },
+  "2026-10-25:d:scene 8": {
+    "topic": "Violet Jessop, survivor of the Olympic, Titanic and Britannic",
+    "tried": [
+      "image:Violet Jessop"
+    ],
+    "hit": {
+      "title": "File:Violet Jessop in Voluntary Aid Detachment Uniform.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Violet_Jessop_in_Voluntary_Aid_Detachment_Uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Violet_Jessop_in_Voluntary_Aid_Detachment_Uniform.jpg",
+      "license": "Public domain",
+      "credit": "AnonymousUnknown author / Wikimedia Commons (Public domain)",
       "duration": 0.0
     }
   }
